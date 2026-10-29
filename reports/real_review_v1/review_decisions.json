@@ -1,0 +1,412 @@
+[
+  {
+    "id": "real-a41a9b325714",
+    "decision": "accepted",
+    "notes": "General statement, not a specific event announcement."
+  },
+  {
+    "id": "real-1cf0475356dc",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-69add16c9d7e",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-aa03cf7c0c1d",
+    "decision": "accepted",
+    "notes": "Location not explicitly mentioned but extracted from the institution"
+  },
+  {
+    "id": "real-508449fe0cbc",
+    "decision": "accepted",
+    "notes": "Ubalt is an abbrivieation of University of baltimore"
+  },
+  {
+    "id": "real-06dedc9fbed2",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-1d7839947927",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-1569090acec7",
+    "decision": "accepted",
+    "notes": "recurring meetings for academin year not really a regular event"
+  },
+  {
+    "id": "real-1835d76fdbfa",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-b2580dc34866",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-e506f099139a",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-efe66b850258",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-64294a57d9cc",
+    "decision": "needs_review",
+    "notes": "Recurring promotional text describing events throughout the year."
+  },
+  {
+    "id": "real-0c6281d24597",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-015a80003706",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-a66b82d4759d",
+    "decision": "excluded",
+    "notes": "Multi-event festival schedule containing competitions, workshops, and ceremonies."
+  },
+  {
+    "id": "real-d6e2dd513640",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-e7c4ecde71c9",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-3bca48af15f4",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-51cda2ad44a2",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-2679b1cde813",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-081bb739a1b3",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-c4a391f3c8d7",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-59ae52510e09",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-a6f988da2f33",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-e5399b5e1cb5",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "real-9a4902578833",
+    "decision": "accepted",
+    "notes": "Career/industry transition session"
+  },
+  {
+    "id": "review-f8415a898dee",
+    "decision": "accepted",
+    "notes": "Film screening"
+  },
+  {
+    "id": "review-86788fb58a99",
+    "decision": "accepted",
+    "notes": "Music performance"
+  },
+  {
+    "id": "review-5cc9e77bd68d",
+    "decision": "accepted",
+    "notes": "Film tour screening"
+  },
+  {
+    "id": "review-54163f26ede3",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary (Cultural event vs Other event) unresolved."
+  },
+  {
+    "id": "review-f3d5fc084408",
+    "decision": "accepted",
+    "notes": "Hands-on printmaking session. \"afternoon\" is not a clock time."
+  },
+  {
+    "id": "review-364cb35956d0",
+    "decision": "accepted",
+    "notes": "DJ sets 12-6pm; cookies are served 4-5pm (a separate window)."
+  },
+  {
+    "id": "review-41ff22dbbbfc",
+    "decision": "needs_review",
+    "notes": "Recurring food-truck promotion, not a single event."
+  },
+  {
+    "id": "review-48fa32090a2c",
+    "decision": "needs_review",
+    "notes": "Seasonal celebration with music, art and treats; no primary format."
+  },
+  {
+    "id": "review-44b07497a7e2",
+    "decision": "accepted",
+    "notes": "Music performance by a student musician."
+  },
+  {
+    "id": "review-2e1dd4046f06",
+    "decision": "accepted",
+    "notes": "Year not stated. \"four hours\" is a duration, not a clock time. Science carnival; could also be argued as Exhibition."
+  },
+  {
+    "id": "review-6bc3f897fd9c",
+    "decision": "accepted",
+    "notes": "Book sale."
+  },
+  {
+    "id": "review-7649594fd28a",
+    "decision": "needs_review",
+    "notes": "Overlap: celebration with music vs voter-registration outreach (Social gathering / Community service / Other event)."
+  },
+  {
+    "id": "review-2bfe4b346566",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary (Cultural event vs Other event) unresolved."
+  },
+  {
+    "id": "review-46aea86dc20b",
+    "decision": "needs_review",
+    "notes": "Live music plus bike safety checks; two activities, no clear primary category."
+  },
+  {
+    "id": "review-4bdcff4e00d4",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-31162c440bed",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-197be6febd82",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-82dd7c3eac2c",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-730fe69ccae0",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-54a0dbbba4c3",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-94afe2ad83ed",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-e931d34866dc",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-e5f75ae320ad",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-ec8c188533e1",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-8c8b71cb2e06",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-c9da8a902462",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-faaf1180ce7f",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-06242ef48aab",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-b0a07dd58341",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-520cb6dd6972",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-24e604d3e93e",
+    "decision": "accepted",
+    "notes": "Narnia assumed to be a venue name."
+  },
+  {
+    "id": "review-c43b8799493e",
+    "decision": "accepted",
+    "notes": ""
+  },
+  {
+    "id": "review-6e483df8ab1a",
+    "decision": "accepted",
+    "notes": "\"Sign up by Friday\" is a registration deadline, not the event date."
+  },
+  {
+    "id": "review-ecd4b4294ef7",
+    "decision": "accepted",
+    "notes": "The word \"evening\" is a vague part of day, not a clock time; no date or venue in text."
+  },
+  {
+    "id": "review-a4e59e48be1c",
+    "decision": "accepted",
+    "notes": "General description of a student group's recurring events (dinners, showcases); not a specific event announcement."
+  },
+  {
+    "id": "review-71cdb9cc1f65",
+    "decision": "needs_review",
+    "notes": "Two recurring events: Writer's Studio Workshops (Mondays) and Open Editorial Meeting (Fridays). Different categories (Workshop vs Meeting) and different days; cannot assign one record. \"on campus\" is too general to be a venue."
+  },
+  {
+    "id": "review-c6836e8b75c0",
+    "decision": "needs_review",
+    "notes": "Generic annual storytelling-evening series; no specific event. Mentions past speakers (completed events). Category unclear (Seminar vs Cultural event). \"to campus\" is too general to be a venue."
+  },
+  {
+    "id": "review-8ef274d9507c",
+    "decision": "needs_review",
+    "notes": "Film installation/screening; category boundary (Cultural event vs Exhibition vs Other event) unresolved. Time is a repeated-showing window."
+  },
+  {
+    "id": "review-b5f6dd3784c4",
+    "decision": "accepted",
+    "notes": "Live music performance. Performer names are not the event name; Mkeka is the project/performance title."
+  },
+  {
+    "id": "review-32c93fd6cf3e",
+    "decision": "needs_review",
+    "notes": "Logistics paragraph (free soup, bring your own mug) from a music event page; \"While you listen\" implies a performance but the text itself does not establish the event. Souper Roll Up Cafe is the food vendor, not the venue."
+  },
+  {
+    "id": "review-b52ba6f19e23",
+    "decision": "excluded",
+    "notes": "Attendance-policy fragment only; insufficient announcement content."
+  },
+  {
+    "id": "review-cda29dc56688",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary (Cultural event vs Other event) unresolved. Kept consistent with row 32. PKG Center and MIT Women's League are collaborators, not venues."
+  },
+  {
+    "id": "review-ffe87a6a8ef6",
+    "decision": "excluded",
+    "notes": "Seating-policy fragment only; insufficient announcement content."
+  },
+  {
+    "id": "review-3a50827f41c7",
+    "decision": "accepted",
+    "notes": "Hands-on printmaking session (text calls it a workshop). \"Printmaking\" is the activity, not a distinct title. \"An afternoon\" is not a clock time. Albertine Press / Yellow Leg Studios are the artist's affiliations, not the venue."
+  },
+  {
+    "id": "review-9807f1fc814d",
+    "decision": "accepted",
+    "notes": "Live music/DJ performance. Performer name is not an event name."
+  },
+  {
+    "id": "review-437734e528cf",
+    "decision": "needs_review",
+    "notes": "Science carnival with booths, demos and performances; category unresolved (Cultural event/festival vs Exhibition vs Other event). \"Carnival\" occurs twice; offsets select the first. The date/venue shown on row 38 are not in this text."
+  },
+  {
+    "id": "review-7a227da485e8",
+    "decision": "excluded",
+    "notes": "Accessibility-logistics fragment only; insufficient announcement content."
+  },
+  {
+    "id": "review-5766fc252545",
+    "decision": "needs_review",
+    "notes": "Two activities combined: live hip-hop/R&B music and bicycle safety checks; primary category unclear (Cultural event vs Community service/Other event). Casa Bikes is a service provider, not a venue."
+  },
+  {
+    "id": "review-72c55cc61583",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary unresolved (consistent with row 32). \"Summer\" is a season, not a date. MIT Graduate Residential Life is a collaborator."
+  },
+  {
+    "id": "review-ced2568d4671",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary unresolved. \"Summer\" is not a date. The Brattle is the curator, not the venue."
+  },
+  {
+    "id": "review-c36853b3e61c",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary unresolved. \"Summer\" is not a date. The Brattle is the curator, not the venue."
+  },
+  {
+    "id": "review-a51ff0ab2343",
+    "decision": "needs_review",
+    "notes": "Film screening; category boundary unresolved. \"Summer\" is not a date. The Brattle is the curator, not the venue."
+  },
+  {
+    "id": "review-8bfe9f3e8a0b",
+    "decision": "accepted",
+    "notes": "Jazz music performance; English translation kept in the name span. Performer name is not the event name."
+  },
+  {
+    "id": "review-425e21bd1e09",
+    "decision": "accepted",
+    "notes": "Text explicitly calls it a workshop-style event (creative dance for children)."
+  },
+  {
+    "id": "review-38f19d755aa3",
+    "decision": "needs_review",
+    "notes": "Describes a children's dance class with past and future themes, suggesting a recurring series; category unclear (Workshop vs Training course). Jean Appolon Expressions are performers, not a venue."
+  }
+]

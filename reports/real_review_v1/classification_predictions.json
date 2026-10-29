@@ -1,0 +1,769 @@
+[
+  {
+    "id": "real-a41a9b325714",
+    "truth": "Not an event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Conference",
+      "logistic_raw": "Conference",
+      "logistic_preprocessed": "Conference",
+      "logistic_word_char": "Conference",
+      "hybrid_context": "Conference"
+    }
+  },
+  {
+    "id": "real-1cf0475356dc",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Product launch",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-69add16c9d7e",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Conference",
+      "logistic_preprocessed": "Conference",
+      "logistic_word_char": "Conference",
+      "hybrid_context": "Conference"
+    }
+  },
+  {
+    "id": "real-aa03cf7c0c1d",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Workshop",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-508449fe0cbc",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Not an event",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-06dedc9fbed2",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Academic assessment",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Not an event",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-1d7839947927",
+    "truth": "Seminar",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Seminar",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Other event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Seminar"
+    }
+  },
+  {
+    "id": "real-1569090acec7",
+    "truth": "Meeting",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Meeting",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Meeting",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-1835d76fdbfa",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Social gathering",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Tour or excursion",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "real-b2580dc34866",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Workshop",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-e506f099139a",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Cultural event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "real-efe66b850258",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Workshop",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-0c6281d24597",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Competition",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-015a80003706",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Competition",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-d6e2dd513640",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Competition",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-e7c4ecde71c9",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Competition",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-3bca48af15f4",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Hackathon",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-51cda2ad44a2",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-2679b1cde813",
+    "truth": "Competition",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Competition",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Hackathon",
+      "logistic_word_char": "Competition",
+      "hybrid_context": "Competition"
+    }
+  },
+  {
+    "id": "real-081bb739a1b3",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Workshop",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-c4a391f3c8d7",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Career event",
+      "logistic_raw": "Ceremony",
+      "logistic_preprocessed": "Career event",
+      "logistic_word_char": "Career event",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-59ae52510e09",
+    "truth": "Meeting",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Meeting",
+      "nltk_nb": "Academic assessment",
+      "logistic_raw": "Ceremony",
+      "logistic_preprocessed": "Not an event",
+      "logistic_word_char": "Academic assessment",
+      "hybrid_context": "Meeting"
+    }
+  },
+  {
+    "id": "real-a6f988da2f33",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Ceremony",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "real-e5399b5e1cb5",
+    "truth": "Conference",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Conference",
+      "nltk_nb": "Conference",
+      "logistic_raw": "Conference",
+      "logistic_preprocessed": "Conference",
+      "logistic_word_char": "Conference",
+      "hybrid_context": "Conference"
+    }
+  },
+  {
+    "id": "real-9a4902578833",
+    "truth": "Career event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Other event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Conference",
+      "logistic_preprocessed": "Conference",
+      "logistic_word_char": "Conference",
+      "hybrid_context": "Conference"
+    }
+  },
+  {
+    "id": "review-f8415a898dee",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Not an event",
+      "logistic_preprocessed": "Other event",
+      "logistic_word_char": "Not an event",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-86788fb58a99",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Product launch",
+      "logistic_word_char": "Not an event",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-5cc9e77bd68d",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Tour or excursion",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Other event",
+      "logistic_preprocessed": "Product launch",
+      "logistic_word_char": "Other event",
+      "hybrid_context": "Other event"
+    }
+  },
+  {
+    "id": "review-f3d5fc084408",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Tour or excursion",
+      "logistic_preprocessed": "Product launch",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "review-364cb35956d0",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Cultural event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "review-44b07497a7e2",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Not an event",
+      "logistic_word_char": "Not an event",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-2e1dd4046f06",
+    "truth": "Other event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Community service",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Product launch",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "review-6bc3f897fd9c",
+    "truth": "Other event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Academic assessment",
+      "logistic_preprocessed": "Community service",
+      "logistic_word_char": "Community service",
+      "hybrid_context": "Community service"
+    }
+  },
+  {
+    "id": "review-4bdcff4e00d4",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Social gathering",
+      "nltk_nb": "Social gathering",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-31162c440bed",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Other event",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Other event",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-197be6febd82",
+    "truth": "Seminar",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Meeting",
+      "logistic_raw": "Competition",
+      "logistic_preprocessed": "Seminar",
+      "logistic_word_char": "Seminar",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-82dd7c3eac2c",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Workshop",
+      "logistic_preprocessed": "Community service",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "review-730fe69ccae0",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Ceremony",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "review-54a0dbbba4c3",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Academic assessment",
+      "logistic_word_char": "Academic assessment",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-94afe2ad83ed",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "review-e931d34866dc",
+    "truth": "Other event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Social gathering",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-e5f75ae320ad",
+    "truth": "Seminar",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Seminar",
+      "logistic_raw": "Seminar",
+      "logistic_preprocessed": "Seminar",
+      "logistic_word_char": "Seminar",
+      "hybrid_context": "Seminar"
+    }
+  },
+  {
+    "id": "review-ec8c188533e1",
+    "truth": "Community service",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Community service",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Not an event",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-8c8b71cb2e06",
+    "truth": "Seminar",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Other event",
+      "nltk_nb": "Meeting",
+      "logistic_raw": "Webinar",
+      "logistic_preprocessed": "Meeting",
+      "logistic_word_char": "Seminar",
+      "hybrid_context": "Seminar"
+    }
+  },
+  {
+    "id": "review-c9da8a902462",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Academic assessment",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-faaf1180ce7f",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Other event",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-06242ef48aab",
+    "truth": "Conference",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Conference",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Conference",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Conference",
+      "hybrid_context": "Conference"
+    }
+  },
+  {
+    "id": "review-b0a07dd58341",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Academic assessment",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Not an event",
+      "hybrid_context": "Not an event"
+    }
+  },
+  {
+    "id": "review-520cb6dd6972",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Social gathering",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-24e604d3e93e",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Cultural event",
+      "logistic_raw": "Sports event",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Sports event",
+      "hybrid_context": "Sports event"
+    }
+  },
+  {
+    "id": "review-c43b8799493e",
+    "truth": "Community service",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Community service",
+      "logistic_raw": "Community service",
+      "logistic_preprocessed": "Community service",
+      "logistic_word_char": "Community service",
+      "hybrid_context": "Community service"
+    }
+  },
+  {
+    "id": "review-6e483df8ab1a",
+    "truth": "Sports event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Sports event",
+      "nltk_nb": "Sports event",
+      "logistic_raw": "Sports event",
+      "logistic_preprocessed": "Sports event",
+      "logistic_word_char": "Sports event",
+      "hybrid_context": "Sports event"
+    }
+  },
+  {
+    "id": "review-ecd4b4294ef7",
+    "truth": "Social gathering",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Social gathering",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-a4e59e48be1c",
+    "truth": "Not an event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Academic assessment",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-b5f6dd3784c4",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Product launch",
+      "logistic_word_char": "Product launch",
+      "hybrid_context": "Product launch"
+    }
+  },
+  {
+    "id": "review-3a50827f41c7",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Workshop",
+      "nltk_nb": "Workshop",
+      "logistic_raw": "Workshop",
+      "logistic_preprocessed": "Workshop",
+      "logistic_word_char": "Workshop",
+      "hybrid_context": "Workshop"
+    }
+  },
+  {
+    "id": "review-9807f1fc814d",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  },
+  {
+    "id": "review-8bfe9f3e8a0b",
+    "truth": "Cultural event",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": null,
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Social gathering",
+      "logistic_preprocessed": "Social gathering",
+      "logistic_word_char": "Social gathering",
+      "hybrid_context": "Social gathering"
+    }
+  },
+  {
+    "id": "review-425e21bd1e09",
+    "truth": "Workshop",
+    "predictions": {
+      "majority": "Workshop",
+      "keywords": "Cultural event",
+      "nltk_nb": "Not an event",
+      "logistic_raw": "Cultural event",
+      "logistic_preprocessed": "Cultural event",
+      "logistic_word_char": "Cultural event",
+      "hybrid_context": "Cultural event"
+    }
+  }
+]

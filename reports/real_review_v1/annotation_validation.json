@@ -1,0 +1,5686 @@
+{
+  "input_sha256": "5d2c1b8ee1e948e04e5e3c05fc8421d78e7d1c4c39318ba164103eb7e70c3335",
+  "rows": 82,
+  "decisions": {
+    "accepted": 59,
+    "needs_review": 19,
+    "excluded": 4
+  },
+  "accepted": 59,
+  "corrections": [
+    {
+      "id": "real-a41a9b325714",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "workshop",
+        "start": "4",
+        "end": "12"
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a41a9b325714",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a41a9b325714",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a41a9b325714",
+      "field": "venue",
+      "from": {
+        "presence": "",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1cf0475356dc",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Advanced Energy Transition Workshop",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Advanced Energy Transition Workshop",
+        "start": 44,
+        "end": 79
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1cf0475356dc",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "26 October 2026",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "26 October 2026",
+        "start": 83,
+        "end": 98
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1cf0475356dc",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1cf0475356dc",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Central Campus, Bengaluru",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Central Campus, Bengaluru",
+        "start": 106,
+        "end": 131
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-69add16c9d7e",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "AMS/ACSM User Workshop 2026",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "AMS/ACSM User Workshop 2026",
+        "start": 4,
+        "end": 31
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-69add16c9d7e",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-69add16c9d7e",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-69add16c9d7e",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Indian Institute of Tropical Meteorology (IITM), Pune",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Indian Institute of Tropical Meteorology (IITM), Pune",
+        "start": 50,
+        "end": 103
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-aa03cf7c0c1d",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "One-Day Workshop on “AI for Education and Research”",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "One-Day Workshop on “AI for Education and Research”",
+        "start": 51,
+        "end": 102
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-aa03cf7c0c1d",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-aa03cf7c0c1d",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-aa03cf7c0c1d",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-508449fe0cbc",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Rise to the Challenge Pitch Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Rise to the Challenge Pitch Competition",
+        "start": 12,
+        "end": 51
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-508449fe0cbc",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-508449fe0cbc",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-508449fe0cbc",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Ubalt's",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-06dedc9fbed2",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 4,
+        "end": 40
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-06dedc9fbed2",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-06dedc9fbed2",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-06dedc9fbed2",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1d7839947927",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "National Seminar on “The Culture and Traditions of Tribes in India”",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "National Seminar on “The Culture and Traditions of Tribes in India”",
+        "start": 2,
+        "end": 69
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1d7839947927",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "November 14, 2025",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "November 14, 2025",
+        "start": 116,
+        "end": 133
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1d7839947927",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1d7839947927",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1569090acec7",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Meetings",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1569090acec7",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1569090acec7",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1569090acec7",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Zoom",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Zoom",
+        "start": 39,
+        "end": 43
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1835d76fdbfa",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "festival",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1835d76fdbfa",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1835d76fdbfa",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-1835d76fdbfa",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Gwalior",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Gwalior",
+        "start": 176,
+        "end": 183
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-b2580dc34866",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Roadmap for Green Technologies & Net Zero Emission in India by 2070",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Roadmap for Green Technologies & Net Zero Emission in India by 2070",
+        "start": 134,
+        "end": 201
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-b2580dc34866",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "14 to 16 October 2026",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "14 to 16 October 2026",
+        "start": 253,
+        "end": 274
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-b2580dc34866",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-b2580dc34866",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Punjab Engineering College (Deemed to be University), Chandigarh",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Punjab Engineering College (Deemed to be University), Chandigarh",
+        "start": 0,
+        "end": 64
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e506f099139a",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "concert series",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e506f099139a",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e506f099139a",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e506f099139a",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Pomona College",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Pomona College",
+        "start": 20,
+        "end": 34
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-efe66b850258",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "workshop",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-efe66b850258",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-efe66b850258",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-efe66b850258",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-64294a57d9cc",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "New Venture Challenge",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "New Venture Challenge",
+        "start": 60,
+        "end": 81
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-64294a57d9cc",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-64294a57d9cc",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-64294a57d9cc",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-0c6281d24597",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 5,
+        "end": 41
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-0c6281d24597",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-0c6281d24597",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-0c6281d24597",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-015a80003706",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 5,
+        "end": 41
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-015a80003706",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-015a80003706",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-015a80003706",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a66b82d4759d",
+      "field": "event_name",
+      "from": {
+        "presence": "ambiguous",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "ambiguous",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a66b82d4759d",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a66b82d4759d",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a66b82d4759d",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-d6e2dd513640",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 5,
+        "end": 41
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-d6e2dd513640",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-d6e2dd513640",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-d6e2dd513640",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e7c4ecde71c9",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSUHK Social Innovation Competition",
+        "start": 27,
+        "end": 62
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e7c4ecde71c9",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e7c4ecde71c9",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e7c4ecde71c9",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-3bca48af15f4",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 27,
+        "end": 63
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-3bca48af15f4",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-3bca48af15f4",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-3bca48af15f4",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-51cda2ad44a2",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-51cda2ad44a2",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-51cda2ad44a2",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-51cda2ad44a2",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-2679b1cde813",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "HSUHK Innovation Project Competition",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "HSMC Innovation Project Competition",
+        "start": 27,
+        "end": 62
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-2679b1cde813",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-2679b1cde813",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-2679b1cde813",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-081bb739a1b3",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Workshop on Scientific Machine Learning",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Workshop on Scientific Machine Learning",
+        "start": 31,
+        "end": 70
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-081bb739a1b3",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "October 5, 2026",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "October 5, 2026",
+        "start": 87,
+        "end": 102
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-081bb739a1b3",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-081bb739a1b3",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Peter O’Donnell Jr. Building, POB 6.304, at The University of Texas at Austin",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Peter O’Donnell Jr. Building, POB 6.304, at The University of Texas at Austin",
+        "start": 110,
+        "end": 187
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-c4a391f3c8d7",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "workshop in quantum computing",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "workshop in quantum computing",
+        "start": 58,
+        "end": 87
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-c4a391f3c8d7",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "Oct. 9-11, 2026",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Oct. 9-11, 2026",
+        "start": 124,
+        "end": 139
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-c4a391f3c8d7",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-c4a391f3c8d7",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-59ae52510e09",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "College faculty Meeting",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "College Faculty Meeting",
+        "start": 10,
+        "end": 33
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-59ae52510e09",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "Tuesday , September 1",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Tuesday , September 1",
+        "start": 81,
+        "end": 102
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-59ae52510e09",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-59ae52510e09",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Naylor Auditorium of Gailor Hall",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Naylor Auditorium of Gailor Hall",
+        "start": 107,
+        "end": 139
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a6f988da2f33",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "workshop",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a6f988da2f33",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a6f988da2f33",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-a6f988da2f33",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e5399b5e1cb5",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "conference",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e5399b5e1cb5",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e5399b5e1cb5",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-e5399b5e1cb5",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-9a4902578833",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "session",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-9a4902578833",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-9a4902578833",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "real-9a4902578833",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f8415a898dee",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Presence",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Presence",
+        "start": 123,
+        "end": 131
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f8415a898dee",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f8415a898dee",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f8415a898dee",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-86788fb58a99",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Mkeka",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Mkeka",
+        "start": 75,
+        "end": 80
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-86788fb58a99",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-86788fb58a99",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-86788fb58a99",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5cc9e77bd68d",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "20th Annual REEL ROCK Film Tour",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "20th Annual REEL ROCK Film Tour",
+        "start": 33,
+        "end": 64
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5cc9e77bd68d",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5cc9e77bd68d",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5cc9e77bd68d",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54163f26ede3",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "A League of Their Own",
+        "start": "32",
+        "end": "53"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "A League of Their Own",
+        "start": 32,
+        "end": 53
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54163f26ede3",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54163f26ede3",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54163f26ede3",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f3d5fc084408",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "printmaking",
+        "start": "124",
+        "end": "135"
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f3d5fc084408",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f3d5fc084408",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-f3d5fc084408",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-364cb35956d0",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-364cb35956d0",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-364cb35956d0",
+      "field": "time",
+      "from": {
+        "presence": "present",
+        "raw": "12-6pm",
+        "start": "176",
+        "end": "182"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "12-6pm",
+        "start": 176,
+        "end": 182
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-364cb35956d0",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-41ff22dbbbfc",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-41ff22dbbbfc",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "every Wednesday",
+        "start": "39",
+        "end": "54"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "every Wednesday",
+        "start": 39,
+        "end": 54
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-41ff22dbbbfc",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-41ff22dbbbfc",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Kendall/MIT Open Space",
+        "start": "62",
+        "end": "84"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Kendall/MIT Open Space",
+        "start": 62,
+        "end": 84
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-48fa32090a2c",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-48fa32090a2c",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-48fa32090a2c",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-48fa32090a2c",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-44b07497a7e2",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-44b07497a7e2",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-44b07497a7e2",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-44b07497a7e2",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2e1dd4046f06",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Carnival",
+        "start": "40",
+        "end": "48"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Carnival",
+        "start": 40,
+        "end": 48
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2e1dd4046f06",
+      "field": "date",
+      "from": {
+        "presence": "pesent",
+        "raw": "04/10/2026",
+        "start": "259",
+        "end": "275"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Sunday October 4",
+        "start": 259,
+        "end": 275
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2e1dd4046f06",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2e1dd4046f06",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Kendall/MIT Open Space",
+        "start": "283",
+        "end": "305"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Kendall/MIT Open Space",
+        "start": 283,
+        "end": 305
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6bc3f897fd9c",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "MIT Community Service Fund Used Book Sale",
+        "start": "44",
+        "end": "85"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "MIT Community Service Fund Used Book Sale",
+        "start": 44,
+        "end": 85
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6bc3f897fd9c",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6bc3f897fd9c",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6bc3f897fd9c",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7649594fd28a",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "National Voter Registration Day",
+        "start": "42",
+        "end": "73"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "National Voter Registration Day",
+        "start": 42,
+        "end": 73
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7649594fd28a",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7649594fd28a",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7649594fd28a",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2bfe4b346566",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Roman Holiday",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Roman Holiday",
+        "start": 41,
+        "end": 54
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2bfe4b346566",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2bfe4b346566",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-2bfe4b346566",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-46aea86dc20b",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-46aea86dc20b",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-46aea86dc20b",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-46aea86dc20b",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-4bdcff4e00d4",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-4bdcff4e00d4",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-4bdcff4e00d4",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-4bdcff4e00d4",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-4bdcff4e00d4",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-31162c440bed",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-31162c440bed",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Hocus Pocus",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Hocus Pocus",
+        "start": 25,
+        "end": 36
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-31162c440bed",
+      "field": "date",
+      "from": {
+        "presence": "present",
+        "raw": "Thursday, 10/29",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Thursday, 10/29",
+        "start": 47,
+        "end": 62
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-31162c440bed",
+      "field": "time",
+      "from": {
+        "presence": "present",
+        "raw": "19:00",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "7pm",
+        "start": 40,
+        "end": 43
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-31162c440bed",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-197be6febd82",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Israeli Elections",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Israeli Elections",
+        "start": 17,
+        "end": 34
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-197be6febd82",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-197be6febd82",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-197be6febd82",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-82dd7c3eac2c",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-82dd7c3eac2c",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-82dd7c3eac2c",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-82dd7c3eac2c",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-82dd7c3eac2c",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-730fe69ccae0",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-730fe69ccae0",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-730fe69ccae0",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-730fe69ccae0",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-730fe69ccae0",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54a0dbbba4c3",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-54a0dbbba4c3",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54a0dbbba4c3",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54a0dbbba4c3",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-54a0dbbba4c3",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-94afe2ad83ed",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-94afe2ad83ed",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-94afe2ad83ed",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-94afe2ad83ed",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-94afe2ad83ed",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e931d34866dc",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "National TBTN rally",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "National TBTN rally",
+        "start": 22,
+        "end": 41
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e931d34866dc",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e931d34866dc",
+      "field": "time",
+      "from": {
+        "presence": "present",
+        "raw": "17:00",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "5 PM",
+        "start": 45,
+        "end": 49
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e931d34866dc",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "White Plaza",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "White Plaza",
+        "start": 53,
+        "end": 64
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e5f75ae320ad",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e5f75ae320ad",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e5f75ae320ad",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-e5f75ae320ad",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ec8c188533e1",
+      "field": "category",
+      "from": "Community Service",
+      "to": "Community service",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-ec8c188533e1",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ec8c188533e1",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ec8c188533e1",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ec8c188533e1",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8c8b71cb2e06",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Russian Sanctions",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Russian Sanctions",
+        "start": 17,
+        "end": 34
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8c8b71cb2e06",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8c8b71cb2e06",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8c8b71cb2e06",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c9da8a902462",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-c9da8a902462",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c9da8a902462",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c9da8a902462",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c9da8a902462",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-faaf1180ce7f",
+      "field": "category",
+      "from": "Cultural Event",
+      "to": "Cultural event",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-faaf1180ce7f",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Open Kaleido-Mic",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Open Kaleido-Mic",
+        "start": 27,
+        "end": 43
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-faaf1180ce7f",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-faaf1180ce7f",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-faaf1180ce7f",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-06242ef48aab",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "10th Stanford Food Summit",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "10th Stanford Food Summit",
+        "start": 89,
+        "end": 114
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-06242ef48aab",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-06242ef48aab",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-06242ef48aab",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b0a07dd58341",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-b0a07dd58341",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b0a07dd58341",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b0a07dd58341",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b0a07dd58341",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-520cb6dd6972",
+      "field": "category",
+      "from": "Cultural Event",
+      "to": "Cultural event",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-520cb6dd6972",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-520cb6dd6972",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-520cb6dd6972",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-520cb6dd6972",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-24e604d3e93e",
+      "field": "category",
+      "from": "Social Gathering",
+      "to": "Social gathering",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-24e604d3e93e",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-24e604d3e93e",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-24e604d3e93e",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-24e604d3e93e",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Narnia",
+        "start": 27,
+        "end": 33
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c43b8799493e",
+      "field": "category",
+      "from": "Community Service",
+      "to": "Community service",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-c43b8799493e",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c43b8799493e",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c43b8799493e",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c43b8799493e",
+      "field": "venue",
+      "from": {
+        "presence": "present",
+        "raw": "Narnia",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Stanford’s O’Donohue Family Farm",
+        "start": 11,
+        "end": 43
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6e483df8ab1a",
+      "field": "category",
+      "from": "Sports Event",
+      "to": "Sports event",
+      "reason": "canonical category capitalization"
+    },
+    {
+      "id": "review-6e483df8ab1a",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6e483df8ab1a",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6e483df8ab1a",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-6e483df8ab1a",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "Stanford’s O’Donohue Family Farm",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ecd4b4294ef7",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ecd4b4294ef7",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ecd4b4294ef7",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ecd4b4294ef7",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a4e59e48be1c",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a4e59e48be1c",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a4e59e48be1c",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a4e59e48be1c",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-71cdb9cc1f65",
+      "field": "event_name",
+      "from": {
+        "presence": "ambiguous",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "ambiguous",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-71cdb9cc1f65",
+      "field": "date",
+      "from": {
+        "presence": "ambiguous",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "ambiguous",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-71cdb9cc1f65",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-71cdb9cc1f65",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c6836e8b75c0",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c6836e8b75c0",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c6836e8b75c0",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c6836e8b75c0",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8ef274d9507c",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Presence",
+        "start": "0",
+        "end": "8"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Presence",
+        "start": 0,
+        "end": 8
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8ef274d9507c",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8ef274d9507c",
+      "field": "time",
+      "from": {
+        "presence": "present",
+        "raw": "11:30am-2pm",
+        "start": "664",
+        "end": "675"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "11:30am-2pm",
+        "start": 664,
+        "end": 675
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8ef274d9507c",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b5f6dd3784c4",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Mkeka",
+        "start": "75",
+        "end": "80"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Mkeka",
+        "start": 75,
+        "end": 80
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b5f6dd3784c4",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b5f6dd3784c4",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b5f6dd3784c4",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-32c93fd6cf3e",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-32c93fd6cf3e",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-32c93fd6cf3e",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-32c93fd6cf3e",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b52ba6f19e23",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b52ba6f19e23",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b52ba6f19e23",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-b52ba6f19e23",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-cda29dc56688",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "A League of Their Own",
+        "start": "32",
+        "end": "53"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "A League of Their Own",
+        "start": 32,
+        "end": 53
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-cda29dc56688",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-cda29dc56688",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-cda29dc56688",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ffe87a6a8ef6",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ffe87a6a8ef6",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ffe87a6a8ef6",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ffe87a6a8ef6",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-3a50827f41c7",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-3a50827f41c7",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-3a50827f41c7",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-3a50827f41c7",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-9807f1fc814d",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-9807f1fc814d",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-9807f1fc814d",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-9807f1fc814d",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-437734e528cf",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Carnival",
+        "start": "40",
+        "end": "48"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Carnival",
+        "start": 40,
+        "end": 48
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-437734e528cf",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-437734e528cf",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-437734e528cf",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7a227da485e8",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7a227da485e8",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7a227da485e8",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-7a227da485e8",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5766fc252545",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5766fc252545",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5766fc252545",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-5766fc252545",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-72c55cc61583",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Encanto",
+        "start": "34",
+        "end": "41"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Encanto",
+        "start": 34,
+        "end": 41
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-72c55cc61583",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-72c55cc61583",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-72c55cc61583",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ced2568d4671",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "The Wiz",
+        "start": "34",
+        "end": "41"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "The Wiz",
+        "start": 34,
+        "end": 41
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ced2568d4671",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ced2568d4671",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-ced2568d4671",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c36853b3e61c",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Ghost Cat Anzu",
+        "start": "34",
+        "end": "48"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Ghost Cat Anzu",
+        "start": 34,
+        "end": 48
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c36853b3e61c",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c36853b3e61c",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-c36853b3e61c",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a51ff0ab2343",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "The Straight Story",
+        "start": "34",
+        "end": "52"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "The Straight Story",
+        "start": 34,
+        "end": 52
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a51ff0ab2343",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a51ff0ab2343",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-a51ff0ab2343",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8bfe9f3e8a0b",
+      "field": "event_name",
+      "from": {
+        "presence": "present",
+        "raw": "Ithemba Elitsha (A New Hope)",
+        "start": "23",
+        "end": "51"
+      },
+      "to": {
+        "presence": "present",
+        "raw": "Ithemba Elitsha (A New Hope)",
+        "start": 23,
+        "end": 51
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8bfe9f3e8a0b",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8bfe9f3e8a0b",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-8bfe9f3e8a0b",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-425e21bd1e09",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-425e21bd1e09",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-425e21bd1e09",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-425e21bd1e09",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-38f19d755aa3",
+      "field": "event_name",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-38f19d755aa3",
+      "field": "date",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-38f19d755aa3",
+      "field": "time",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    },
+    {
+      "id": "review-38f19d755aa3",
+      "field": "venue",
+      "from": {
+        "presence": "missing",
+        "raw": "",
+        "start": "",
+        "end": ""
+      },
+      "to": {
+        "presence": "missing",
+        "raw": "",
+        "start": null,
+        "end": null
+      },
+      "reason": "source-evidence validation / deterministic span completion"
+    }
+  ]
+}

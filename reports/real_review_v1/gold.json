@@ -1,0 +1,2161 @@
+[
+  {
+    "id": "real-a41a9b325714",
+    "text": "The workshop brings together educators, academic leaders, researchers and stakeholders to examine how AI can genuinely support higher education while preserving academic quality and human mentorship.",
+    "institution": "IIT Kanpur",
+    "source_url": "https://www.iitk.ac.in/certex/ahed.html",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-41d8e0f00986",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "ee5a47ac66825564ba899d53b39e745fc8369f53fc9df3271482267e773b39c7",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Not an event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "unsupported",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-1cf0475356dc",
+    "text": "Alliance University is organising a one-day Advanced Energy Transition Workshop on 26 October 2026 at its Central Campus, Bengaluru, under the guidance of Padma Bhushan Dr. V. K. Saraswat, Member, NITI Aayog, Distinguished Scientist and Former Secretary, DRDO.",
+    "institution": "Alliance University",
+    "source_url": "https://www.alliance.edu.in/ecs_event/advanced-energy-transition-workshop-2026/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-518f3ab6ac00",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "220a71c638b825e490a142b819578ce56d8a791bb013cd470e234e452a3f578f",
+    "automatic_warnings": [
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": {
+        "raw": "Advanced Energy Transition Workshop",
+        "start": 44,
+        "end": 79,
+        "normalized": null
+      },
+      "date": {
+        "raw": "26 October 2026",
+        "start": 83,
+        "end": 98,
+        "normalized": null
+      },
+      "time": null,
+      "venue": {
+        "raw": "Central Campus, Bengaluru",
+        "start": 106,
+        "end": 131,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-69add16c9d7e",
+    "text": "The AMS/ACSM User Workshop 2026, organized at the Indian Institute of Tropical Meteorology (IITM), Pune, will bring together scientists, researchers, and students working on atmospheric aerosol measurements and mass spectrometry.",
+    "institution": "Indian Institute of Tropical Meteorology",
+    "source_url": "https://www.tropmet.res.in/244-event_details",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-52fe6fdefeb4",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "b6c13770fd89db70f392d51d4d6e9b67af5ba49fd0ce53119cb328e628567ff6",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": {
+        "raw": "AMS/ACSM User Workshop 2026",
+        "start": 4,
+        "end": 31,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": {
+        "raw": "Indian Institute of Tropical Meteorology (IITM), Pune",
+        "start": 50,
+        "end": 103,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-aa03cf7c0c1d",
+    "text": "We are delighted to invite you to participate in a One-Day Workshop on “AI for Education and Research”. The workshop will provide practical insights into the effective application of Artificial Intelligence tools in teaching, learning, research, academic writing, and research productivity.",
+    "institution": "S.A. College of Arts and Science",
+    "source_url": "https://sacas.ac.in/announcements/research-and-development-cell-s-a-college-of-arts-science-organized-one-day-workshop-on-ai-for-education-and-research-on-12-09-2026/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-ec778feca7a1",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "ac72c9dcfba53694abe76e205b019e992978c78c966f592d7ee2ea3769717273",
+    "automatic_warnings": [
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": {
+        "raw": "One-Day Workshop on “AI for Education and Research”",
+        "start": 51,
+        "end": 102,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-508449fe0cbc",
+    "text": "The annual \"Rise to the Challenge Pitch Competition\" offers up to $30,000 in cash and professional services up for grabs. The competition promises to be UBalt’s most exciting competition of the year. This could be just the vehicle to breathe life into your unique idea or give your existing business a boost.",
+    "institution": "University of Baltimore",
+    "source_url": "https://www.ubalt.edu/about/newsroom/merrick-today-2025-rise-app-open-promo.cfm",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-dff1c3d3a23c",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "a28a33a46b2104d7a11c0c54f603d2a4c9ad49e708b1a6f2434d965f07010e53",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "Rise to the Challenge Pitch Competition",
+        "start": 12,
+        "end": 51,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-06dedc9fbed2",
+    "text": "The HSUHK Innovation Project Competition (“the Competition”), organised by the Centre for Teaching and Learning (CTL), is now celebrating its 10th anniversary! Over the past decade, this Competition has nurtured countless innovative ideas and empowered students like you to make a real impact on the world. This year, we are inviting you to push the boundaries even further by addressing some of the most urgent issues facing our society today—through the lens of Environmental, Social, and Governance (ESG) principles.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-innovation-project-competition-2025/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "da3a784b3fd702fc19af495e0d700265247d0f54439f0b99cdfe99684dce633c",
+    "automatic_warnings": [
+      {
+        "code": "relative_date_without_reference",
+        "message": "Relative date needs an explicit reference date.",
+        "field": "date"
+      },
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 4,
+        "end": 40,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-1d7839947927",
+    "text": "A National Seminar on “The Culture and Traditions of Tribes in India” will be organized by the Birsa Munda Chair on November 14, 2025 .",
+    "institution": "Indira Gandhi National Tribal University",
+    "source_url": "https://igntu.ac.in/page/seminar",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-66a9aa977c2a",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "57846c0a53125af1c61d5585894b2c975baff77ed548ffb1fda88bedf5f47266",
+    "automatic_warnings": [
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      }
+    ],
+    "label": "Seminar",
+    "gold": {
+      "event_name": {
+        "raw": "National Seminar on “The Culture and Traditions of Tribes in India”",
+        "start": 2,
+        "end": 69,
+        "normalized": null
+      },
+      "date": {
+        "raw": "November 14, 2025",
+        "start": 116,
+        "end": 133,
+        "normalized": null
+      },
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-1569090acec7",
+    "text": "Meetings for 2026-2027 will be held on Zoom unless otherwise specified.",
+    "institution": "College of San Mateo",
+    "source_url": "https://collegeofsanmateo.edu/apd/meetings.php",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-287871a2e31f",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "3fd20219ee38380d1d8ae674219827925abba2d7df1565332190b6b695f1763d",
+    "automatic_warnings": [
+      {
+        "code": "unsupported_text",
+        "message": "No supported event-format cue was found; this may be unrelated or unfamiliar phrasing.",
+        "field": null
+      },
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      },
+      {
+        "code": "dataset_scope_review",
+        "message": "Recurring series or mixed programme may not be a single event; annotation eligibility requires review.",
+        "field": null
+      }
+    ],
+    "label": "Meeting",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": {
+        "raw": "Zoom",
+        "start": 39,
+        "end": 43,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-1835d76fdbfa",
+    "text": "Let’s come together to make this festival truly unforgettable! All the details are available in the attached document. Looking forward to have a positive reply and host you in Gwalior . Thank you .",
+    "institution": "Udbhav Sports and Cultural Association",
+    "source_url": "https://udbhavindia.com/udbhavutsav2026.html",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-0acc73cafb4d",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "447e97aae78bac4aed0346a58de66715490e90d85e5764dd1498fc8da088ecdd",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      }
+    ],
+    "label": "Cultural event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": {
+        "raw": "Gwalior",
+        "start": 176,
+        "end": 183,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-b2580dc34866",
+    "text": "Punjab Engineering College (Deemed to be University), Chandigarh, inaugurated a three-day AICTE-sponsored ATAL–VAANI workshop titled “Roadmap for Green Technologies & Net Zero Emission in India by 2070” today. Being conducted in the Dogri language from 14 to 16 October 2026, the workshop aims to promote awareness of sustainable technologies and environmental responsibility while encouraging the use of regional languages in technical education.",
+    "institution": "Punjab Engineering College",
+    "source_url": "https://pec.ac.in/events/aicte-sponsored-atal-vaani-workshop-inaugurated-at-punjab-engineering-college-chandigarh",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-3cba49bdc5de",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "5004b5a7d7f88ab6885ecd34705a7b9ccf530a55a0b26ded7e51aafc8bb0973e",
+    "automatic_warnings": [
+      {
+        "code": "relative_date_without_reference",
+        "message": "Relative date needs an explicit reference date.",
+        "field": "date"
+      },
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "ambiguous_date",
+        "message": "Multiple plausible date values; no single value selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": {
+        "raw": "Roadmap for Green Technologies & Net Zero Emission in India by 2070",
+        "start": 134,
+        "end": 201,
+        "normalized": null
+      },
+      "date": {
+        "raw": "14 to 16 October 2026",
+        "start": 253,
+        "end": 274,
+        "normalized": null
+      },
+      "time": null,
+      "venue": {
+        "raw": "Punjab Engineering College (Deemed to be University), Chandigarh",
+        "start": 0,
+        "end": 64,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-e506f099139a",
+    "text": "Welcome to Music at Pomona College. Join us for our free concert series featuring professional and collegiate performers and diverse music from across the globe.",
+    "institution": "Pomona College",
+    "source_url": "https://www.pomona.edu/academics/departments/music/concert-calendar",
+    "collection_date": "2026-10-28",
+    "publication_date": "2015-04-02T14:14:22-07:00",
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-4c6373128713",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "c7a830238da29c6d43b2664c0a3b4b03f62403916f121292d8b9ea617a81a787",
+    "automatic_warnings": [
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      },
+      {
+        "code": "dataset_scope_review",
+        "message": "Recurring series or mixed programme may not be a single event; annotation eligibility requires review.",
+        "field": null
+      }
+    ],
+    "label": "Cultural event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": {
+        "raw": "Pomona College",
+        "start": 20,
+        "end": 34,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-efe66b850258",
+    "text": "Interested participants are invited to register at the earliest to secure their spot in the workshop.",
+    "institution": "IIM Ahmedabad",
+    "source_url": "https://www.iima.ac.in/events/workshop-advancing-research-transportation-systems-and-logistics-management",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-1cf73e7b1db0",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "a8a3bcb5f000b85a8e2cdd610d97ecb316dedfd07d67f723ccaa8b7b6e4edf81",
+    "automatic_warnings": [
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-0c6281d24597",
+    "text": "The “HSUHK Innovation Project Competition” (“the Competition”), organised by the Centre for Teaching and Learning (CTL), aims to promote to HSUHK students a culture of innovation and creativity and to raise their awareness of the critical social issues, locally or globally. Through training of various modes and selected themes, and a showcase of project proposals through on-stage pitching, the Competition also strives to enrich the student learning experience at HSUHK.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-innovation-project-competition-2024/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "301b52df040db33c066750bf0cbaafb0b5f95b3ba0988d7047ae11e073d069d7",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 5,
+        "end": 41,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-015a80003706",
+    "text": "The “HSUHK Innovation Project Competition” (“the Competition”), organised by the Centre for Teaching and Learning (CTL) , aims to promote to HSUHK students a culture of innovation and creativity and to raise their awareness of the critical social issues locally or globally. Through training of various modes and selected themes, and a showcase of project proposals through on-stage pitching, the Competition also strives to enrich the student learning experience at HSUHK. This year, we are grateful to have the Office of Vice-President (Organisational Development), Campus Development and Management Office (CDMO) and Information Technology Services Centre (ITSC) as the co-organisers. Same as last year, we also have the Institute of Youth Sustainability and Leadership (IYSL) , and the Wu Jieh Yee Centre for Innovation and Entrepreneurship (WUCIE) as our strategic partners sponsoring the competition.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-innovation-project-competition-2023/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "f0eaaced01cfc9b93c2eb703c61683d755045d5f19168d61b5bc92007df34e6f",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 5,
+        "end": 41,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-d6e2dd513640",
+    "text": "The “HSUHK Innovation Project Competition” (“the Competition”), organised by the Centre for Teaching and Learning (CTL) , aims to promote to HSUHK students a culture of innovation and creativity and to raise their awareness of the critical social issues locally or globally. Through training of various modes and selected themes, and a showcase of project proposals through on-stage pitching, the Competition also strives to enrich the student learning experience at HSUHK. This year, we are grateful to have the Institute of Youth Sustainability and Leadership (IYSL) , and the Wu Jieh Yee Centre for Innovation and Entrepreneurship (WUCIE) as our strategic partners and AWS Educate & AWS Academy sponsoring the competition.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-innovation-project-competition-2022/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "333abb8dcaabbbbc367dc7319c1e65924ef6ba0ea3fa37d81db116232dea176b",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 5,
+        "end": 41,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-e7c4ecde71c9",
+    "text": "About the Competition The “HSUHK Social Innovation Competition” (“the Competition”), jointly organised by the Centre for Teaching and Learning (CTL) , the Institute of Youth Sustainability and Leadership (IYSL) , and the Centre for Innovation and Entrepreneurship (CIE) , aims to promote to HSUHK students a culture of innovation and creativity and to raise their awareness of the critical social issues locally or globally. Through training of various modes and selected themes, and a showcase of project proposals through on-stage pitching, the Competition also strives to enrich the student learning experience at HSUHK.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-social-innovation-competition-2021/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-6bd95fc0a023",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "61f0129bd6ec3d46b78898ca6db53b9122873643fced6c001f60d55bf9fa0f56",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSUHK Social Innovation Competition",
+        "start": 27,
+        "end": 62,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-3bca48af15f4",
+    "text": "About the Competition “The HSUHK Innovation Project Competition” aims to promote a culture of innovation & creativity and enrich student learning experience at HSMC. The submission should demonstrate the creative concepts, innovative design/modeling, as well as the applicability and impact.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-innovation-project-competition-2020/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "25d867f6a91e0da20da36fe2ebe66407db80e675f2eae5413b67dee80760da8e",
+    "automatic_warnings": [
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSUHK Innovation Project Competition",
+        "start": 27,
+        "end": 63,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-51cda2ad44a2",
+    "text": "The competition is organised in three areas: Business, Social and Humanities Innovations .",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsmc-innovation-project-competition-2018/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "e9f837340aa78aa06a22513172f3d8323a28418c9961edad7cf0ee4a6175ffb6",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-2679b1cde813",
+    "text": "About the Competition “The HSMC Innovation Project Competition” aims to promote a culture of innovation & creativity and enrich student learning experience at HSMC. The submission should demonstrate the creative concepts, innovative design/modeling, as well as the applicability and impact.",
+    "institution": "Hang Seng University of Hong Kong",
+    "source_url": "https://teaching-and-learning.hsu.edu.hk/hsmc-innovation-project-competition-2016/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-d3361dd85bd3",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "e9b8beed28e4656eab8e2b8a996823a5f15e520ce1ae805298fbb8dbe8fc49a4",
+    "automatic_warnings": [
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Competition",
+    "gold": {
+      "event_name": {
+        "raw": "HSMC Innovation Project Competition",
+        "start": 27,
+        "end": 62,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-081bb739a1b3",
+    "text": "Oden Institute’s fourth annual Workshop on Scientific Machine Learning will take place October 5, 2026 in the Peter O’Donnell Jr. Building, POB 6.304, at The University of Texas at Austin.",
+    "institution": "University of Texas at Austin",
+    "source_url": "https://sites.utexas.edu/scimlworkshop/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-fd7e7abafef7",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "12f7bb09e013d13db18253fa2861fa01cbdaf606da940815508b562679ffc0a4",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "ambiguous_venue",
+        "message": "Multiple plausible venue values; no single value selected.",
+        "field": "venue"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": {
+        "raw": "Workshop on Scientific Machine Learning",
+        "start": 31,
+        "end": 70,
+        "normalized": null
+      },
+      "date": {
+        "raw": "October 5, 2026",
+        "start": 87,
+        "end": 102,
+        "normalized": null
+      },
+      "time": null,
+      "venue": {
+        "raw": "Peter O’Donnell Jr. Building, POB 6.304, at The University of Texas at Austin",
+        "start": 110,
+        "end": 187,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-c4a391f3c8d7",
+    "text": "Hosted by the NC State Quantum Initiative , this regional workshop in quantum computing will take place over the weekend of Oct. 9-11, 2026. It offers a unique opportunity for graduate students and researchers to expand their understanding of quantum computing while networking with regional colleagues.",
+    "institution": "North Carolina State University",
+    "source_url": "https://quantum.ncsu.edu/quantum-workshop/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-944a7e16f496",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "37ff9854945eb14320a929adaf4d4354870253d7176d4e762fb585b6695bbd1a",
+    "automatic_warnings": [
+      {
+        "code": "missing_year",
+        "message": "Year is absent; raw date retained.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      },
+      {
+        "code": "date_range",
+        "message": "Date range detected; inspect raw candidates and annotate the range manually.",
+        "field": "date"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": {
+        "raw": "workshop in quantum computing",
+        "start": 58,
+        "end": 87,
+        "normalized": null
+      },
+      "date": {
+        "raw": "Oct. 9-11, 2026",
+        "start": 124,
+        "end": 139,
+        "normalized": null
+      },
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-59ae52510e09",
+    "text": "The first College Faculty Meeting of the 2026-2027 academic year will be held on Tuesday , September 1, in Naylor Auditorium of Gailor Hall. Dates and times are subject to change. Please refer to the college-faculty calendar before the meeting.",
+    "institution": "University of the South",
+    "source_url": "https://new.sewanee.edu/offices/the-college-of-arts-sciences-offices/dean-of-the-college/important-dates/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-3ab749f0f67d",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "1a1f75c584eb017109f3fc6b844972e5085a6ad7b06094a10609b5981cff28f6",
+    "automatic_warnings": [
+      {
+        "code": "missing_year",
+        "message": "Year is absent; raw date retained.",
+        "field": "date"
+      },
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      }
+    ],
+    "label": "Meeting",
+    "gold": {
+      "event_name": {
+        "raw": "College Faculty Meeting",
+        "start": 10,
+        "end": 33,
+        "normalized": null
+      },
+      "date": {
+        "raw": "Tuesday , September 1",
+        "start": 81,
+        "end": 102,
+        "normalized": null
+      },
+      "time": null,
+      "venue": {
+        "raw": "Naylor Auditorium of Gailor Hall",
+        "start": 107,
+        "end": 139,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-a6f988da2f33",
+    "text": "All faculty, postdocs, and graduate students at the University of Notre Dame are welcome to participate, but space for each workshop is limited. Seats will be available on a first-come, first-served basis.",
+    "institution": "University of Notre Dame",
+    "source_url": "https://psychology.nd.edu/news-events/events/2026/10/28/public-writing-workshop-with-commonweal-magazine/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-614636412640",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "7fa5afadbfd7dbefc33f928b2210fedda86e9990bd19d756d37389886b9b4b31",
+    "automatic_warnings": [
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      }
+    ],
+    "label": "Workshop",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-e5399b5e1cb5",
+    "text": "The technical programme will feature keynote and invited lectures by distinguished experts, along with oral and poster presentations showcasing recent scientific discoveries, technological innovations, and emerging research trends. The conference is designed to facilitate meaningful interactions among participants from academia, research institutions, national laboratories, and industry, thereby strengthening collaborative networks and fostering innovation-driven partnerships.",
+    "institution": "Maharaja Institute of Technology Mysore",
+    "source_url": "https://icmsaa2026.mitmysore.in/",
+    "collection_date": "2026-10-28",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-dabe1f1efc53",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "fe53511f5ecc52cd54478ee2d576b96d8b1602966307ff8e8ce36bbdb58614b1",
+    "automatic_warnings": [
+      {
+        "code": "unsupported_text",
+        "message": "No supported event-format cue was found; this may be unrelated or unfamiliar phrasing.",
+        "field": null
+      },
+      {
+        "code": "missing_event_name",
+        "message": "No unambiguous event name selected.",
+        "field": "event_name"
+      },
+      {
+        "code": "missing_date",
+        "message": "No unambiguous date selected.",
+        "field": "date"
+      },
+      {
+        "code": "missing_time",
+        "message": "No unambiguous time selected.",
+        "field": "time"
+      },
+      {
+        "code": "missing_venue",
+        "message": "No unambiguous venue selected.",
+        "field": "venue"
+      }
+    ],
+    "label": "Conference",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "real-9a4902578833",
+    "text": "The transition from student to industry professional offers immense opportunities to drive innovation and achieve entrepreneurial success. In this session, I will share an insightful narrative of my journey from academic research to the dynamic world of industry. Drawing from personal experiences and lessons learned, I will discuss strategies for identifying and capitalising on opportunities in both industry and startups. The session will cover the challenges and rewards of working in the industry, the mindset necessary for entrepreneurial success, and the critical skills required to build a meaningful and fulfilling career.",
+    "institution": "IISER Pune",
+    "source_url": "https://www.iiserpune.ac.in/events/3922/shaping-your-future-opportunities-in-industry-and-entrepreneurship",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "g-78a6a20760bf",
+    "split": "external_review",
+    "collection_method": "single natural HTML paragraph; whitespace normalized; no metadata appended",
+    "source_excerpt_hash": "4edab56c2402330db2f55494955be3d92d06a1e6d354ea8b9545b0fbd6fa185b",
+    "label": "Career event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-f8415a898dee",
+    "text": "Take a break from your busy day, enjoy a delicious Elmendorf cookie (on us, while supplies last!), and watch a short film, Presence, exploring how public life has been staged, recorded, and remembered on screen.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "a8273d9a70fe3cc2e066dc4a2b93747bf3bee4f49bfad2d8dc5e2d0d390c1562",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": {
+        "raw": "Presence",
+        "start": 123,
+        "end": 131,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-86788fb58a99",
+    "text": "Join saxophonist/composer Joseph Borsellino III and bassist Tony Irons for Mkeka, their captivating new project featuring effects-laden textures and intricate grooves drawn from African diasporic music. While you listen, enjoy a delicious hot cup of soup from Souper Roll Up Cafe (on us, while supplies last!).",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "d8767e853d81fc7a7cc7c55424f6fd07edfc3d5a2b9bb90c413406bb0cf26991",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": {
+        "raw": "Mkeka",
+        "start": 75,
+        "end": 80,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-5cc9e77bd68d",
+    "text": "Join the MIT Outing Club for the 20th Annual REEL ROCK Film Tour, premiering the best new climbing films.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "44675ba4e2f5fe2fee7b8cd6d78c26f411bd8d0d9872c9a880d8621bbefac6eb",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": {
+        "raw": "20th Annual REEL ROCK Film Tour",
+        "start": 33,
+        "end": 64,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-f3d5fc084408",
+    "text": "Join artist Alie Reilinger, printer at Cambridge-based Albertine Press and owner of Yellow Leg Studios, for an afternoon of printmaking.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "592735283de7e0978d9b0b644d365b332839c812eb41d9f51a1e497c10570480",
+    "label": "Workshop",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-364cb35956d0",
+    "text": "Brighten up your winter afternoon with music, light, and delicious cookies (served from 4-5pm, while supplies last!). MIT student DJs will perform an eclectic mix of sets from 12-6pm, so stop by as your schedule allows.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "0fedc472d392a6a42c7893fdc8c5fcaefc70e3c5e55a41f7fa40cddb24d9b3b6",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": {
+        "raw": "12-6pm",
+        "start": 176,
+        "end": 182,
+        "normalized": null
+      },
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-44b07497a7e2",
+    "text": "Enjoy music by Joseph Ntaimo, an MIT graduate student studying mechanical engineering with a focus in musical robotics.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "8562a7556bbc9133fe71679d5fae2bde661e15e632d4ddbc6e2b6b015e356674",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-2e1dd4046f06",
+    "text": "A family-friendly science extravaganza, Carnival features more than 100 activity booths, live demonstrations and musical performances, all in just four hours. Carnival is a STEAM-themed ‘adventure playground’ for inquisitive visitors of all ages – join us on Sunday October 4 at the Kendall/MIT Open Space to celebrate our diverse, creative community together.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "675e5240d754044f7ac1a26ac910764b95ccc66ae83d13ee2b8f742431ae7f18",
+    "label": "Other event",
+    "gold": {
+      "event_name": {
+        "raw": "Carnival",
+        "start": 40,
+        "end": 48,
+        "normalized": null
+      },
+      "date": {
+        "raw": "Sunday October 4",
+        "start": 259,
+        "end": 275,
+        "normalized": null
+      },
+      "time": null,
+      "venue": {
+        "raw": "Kendall/MIT Open Space",
+        "start": 283,
+        "end": 305,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-6bc3f897fd9c",
+    "text": "Bookworms, this is your moment! Stop by the MIT Community Service Fund Used Book Sale to discover a large selection of unbelievably priced textbooks, nonfiction, novels, and more.",
+    "source_url": "https://www.openspace.mit.edu/calendar",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-54ece7fef6",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "a6a7acc8ff47a1b9cb4d5db10495e75f8390a5083035957984eda18bdee7fff6",
+    "label": "Other event",
+    "gold": {
+      "event_name": {
+        "raw": "MIT Community Service Fund Used Book Sale",
+        "start": 44,
+        "end": 85,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-4bdcff4e00d4",
+    "text": "FREE FOOD + FREE DRINKS 🎃🍻 Come to a Halloween social hosted by the Wu Tsai Neurosciences Institute in partnership with Next BioLeader. RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "94898059942fad094e692936759bd3cc2217b2dac7adfdc815e9050f6da2bca5",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-31162c440bed",
+    "text": "Join us for a showing of Hocus Pocus at 7pm on Thursday, 10/29. Get into the Halloween spirit with this movie, pizza, and candy! Costumes welcome!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "d2010f267d78bc0a40aabe41f6e784275cb9b4760d889e97cd1c7702e597f404",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": {
+        "raw": "Hocus Pocus",
+        "start": 25,
+        "end": 36,
+        "normalized": null
+      },
+      "date": {
+        "raw": "Thursday, 10/29",
+        "start": 47,
+        "end": 62,
+        "normalized": null
+      },
+      "time": {
+        "raw": "7pm",
+        "start": 40,
+        "end": 43,
+        "normalized": null
+      },
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-197be6febd82",
+    "text": "Come out to chat Israeli Elections and how they may be a precursor of our own midterms! We will be covering drink/pastry and excited for discussion!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "48e7de867911622b51def1b80d87ed1b65fe973232de6223254bec549d2979dd",
+    "label": "Seminar",
+    "gold": {
+      "event_name": {
+        "raw": "Israeli Elections",
+        "start": 17,
+        "end": 34,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-82dd7c3eac2c",
+    "text": "Join CC@S for a fun halloween movie night with activities and snacks. RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "12f48a9eff36ab66ca4b45202fd5dd46c39810f578648b84d1372fdda3246afb",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-730fe69ccae0",
+    "text": "Join Stanford Rural for a Halloween edition of your favorite line dances! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "3f4534e687799295949d1dadf3106471b78eb073e4037b978410f96afa66e07f",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-54a0dbbba4c3",
+    "text": "Come hang out and get to know other students on the ace spectrum! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "efd28b29d338da69ffe55916a596a131c0c77a1e577ca0bb1d4b0b5a2cd2790b",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-94afe2ad83ed",
+    "text": "Our biggest pop-up yet. DJs all night, plus a surprise headliner you’ll want to be there for. Come dressed to haunt (and dance).",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "ced43ddd6c1c2c1c19cd597684bbec2aa039d47280365f7e608b00b062a5a192",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-e931d34866dc",
+    "text": "Come together for the National TBTN rally at 5 PM in White Plaza, followed by a march. Brings friends, signs, and passion for ending sexual violence.",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "fc22dd5a059992a79868ac5a00e072837040a7c5bd2d76ea37b7a9e5082a928f",
+    "label": "Other event",
+    "gold": {
+      "event_name": {
+        "raw": "National TBTN rally",
+        "start": 22,
+        "end": 41,
+        "normalized": null
+      },
+      "date": null,
+      "time": {
+        "raw": "5 PM",
+        "start": 45,
+        "end": 49,
+        "normalized": null
+      },
+      "venue": {
+        "raw": "White Plaza",
+        "start": 53,
+        "end": 64,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-e5f75ae320ad",
+    "text": "Tom Steyer has taken on climate as an investor, an environmental organizer, and a political candidate. Join us for insights and food afterward!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "8dde74a3a5da3cff76260905a98c44929ede94bd44fc2ae3b0d5ed7e2063a687",
+    "label": "Seminar",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-ec8c188533e1",
+    "text": "Join AKA Xi Beta to decorate mini flower pots for a local elementary school while learning simple sustainability practices!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "8802dc1c95f6611693d8b2014264a7344ddf3fa48eebca1e7ee353d4515d1338",
+    "label": "Community service",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-8c8b71cb2e06",
+    "text": "Come out to chat Russian Sanctions and recent U.S. moves! We will be covering drink/pastry and looking forward to discussing these events!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "acc03c40894c1d26a0bff5fd7531bf552986f04ee93f0e668ce2be289f9d02f4",
+    "label": "Seminar",
+    "gold": {
+      "event_name": {
+        "raw": "Russian Sanctions",
+        "start": 17,
+        "end": 34,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-c9da8a902462",
+    "text": "Come hang out, eat pizza, and get to know other trans+ students! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "bc66017c87745b3e38daf5ac97f6f84fee0b603ee5906e9b02a45247b53501e4",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-faaf1180ce7f",
+    "text": "Join Camp Kaleidoscope for Open Kaleido-Mic! Drop by to show off a talent, enjoy the show, or connect with counselors. Sign up via the linked form!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "7cc583adf39b02e9d018a806ffad61b5f9bf3cff1ff7ba73548b6f7fe10a34a8",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": {
+        "raw": "Open Kaleido-Mic",
+        "start": 27,
+        "end": 43,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-06242ef48aab",
+    "text": "Join faculty, staff, students, fellows, and clinicians from across the university at the 10th Stanford Food Summit! P.S. There's food.",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "0f3968691aa605c53291c8f9c3e5cb55cb4296dfbb19832e93021de013f71262",
+    "label": "Conference",
+    "gold": {
+      "event_name": {
+        "raw": "10th Stanford Food Summit",
+        "start": 89,
+        "end": 114,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-b0a07dd58341",
+    "text": "Come for candle making, pumpkin carving, and apple bobbing — stay for a TON of yummy fall treats! 🍁Fun, snacks, and fall vibes… who could say no?!",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "11a409667724329c415246c351a1c64d13e0ea589103d6f89071b6ca30836f0f",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-520cb6dd6972",
+    "text": "Join us for music, dancing, snacks from Chaat Bhavan! Whether you’re a Garba pro or first-timer, grab your friends, & festive fit to celebrate! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "93d95c01fd88f58218e640f3e835f6eb02acded3fd1b7aadfc2733d70bce3fac",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-24e604d3e93e",
+    "text": "Come join us in costume at Narnia to get the spooky season kicked off. DJ Shed in the booth, TyPhi on the dance floor! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "b78dde608b55adda97630cae7daa27b45859f9a6c62a2e7c39accb42a2d34c29",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": {
+        "raw": "Narnia",
+        "start": 27,
+        "end": 33,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-c43b8799493e",
+    "text": "Join us at Stanford’s O’Donohue Family Farm for a morning of hands-on service! All experience levels welcome. RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "8679ddbb2e47dbcfd4f4a01608af9bdd07a8d1e3db6ed87d5424da14139c92b7",
+    "label": "Community service",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": {
+        "raw": "Stanford’s O’Donohue Family Farm",
+        "start": 11,
+        "end": 43,
+        "normalized": null
+      }
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-6e483df8ab1a",
+    "text": "LACE UP AND GATHER YOUR TEAM! ⚽️ Join Alpha Phi & Phi Psi for a 6v6 soccer tournament supporting La Casa de las Madres ❤️ Win $100! Sign up by Friday! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "c3e4a0920e5611e4e30eb48899f9940f9d831671f58575a920b63bf6d04188c9",
+    "label": "Sports event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-ecd4b4294ef7",
+    "text": "Join us for an evening of good food, great company, and fellowship! RSVP here .",
+    "source_url": "https://ose.stanford.edu/cards",
+    "institution": "Stanford Office of Student Engagement",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-200948da95",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "ccfb309682d69487ad8efc5e59d694e05637a51bf06d477cc28d02b4a3b8b785",
+    "label": "Social gathering",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-a4e59e48be1c",
+    "text": "TSMIT events bring Thai students and friends together throughout the academic year, from welcome dinners to cultural showcases and collaborations across MIT.",
+    "source_url": "https://web.mit.edu/tsmit/www/events.html",
+    "institution": "MIT Thai Students",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-700246ae9e",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "c5699b337a604dd3a5959afbdfda1f3d564069a6bfad9515df005f33e06a3a00",
+    "label": "Not an event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "unsupported",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-b5f6dd3784c4",
+    "text": "Join saxophonist/composer Joseph Borsellino III and bassist Tony Irons for Mkeka , their captivating new project featuring effects-laden textures and intricate grooves drawn from African diasporic music.",
+    "source_url": "https://www.openspace.mit.edu/calendar/midday-music-soup-joseph-borsellino-november-2026",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-2f0e452a61",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "b2d4789bfb7ebae4b3b34c6a5af639ecfd61bd7cb38dd9047e8fad539299c128",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": {
+        "raw": "Mkeka",
+        "start": 75,
+        "end": 80,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-3a50827f41c7",
+    "text": "Join artist Alie Reilinger, printer at Cambridge-based Albertine Press and owner of Yellow Leg Studios , for an afternoon of printmaking. Hand print your own small works of art, with the option to carve your own stamp. You'll leave the workshop with a set of five unique prints - perfect for gift tags, little love notes, bookmarks, and more. Please note that capacity is limited; space is available on a first come, first served basis regardless of registration.",
+    "source_url": "https://www.openspace.mit.edu/calendar/crafternoon-with-alie-reilinger-dec-3",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-f93d6919dc",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "09af7a572fa664fbe1c4e7b8d4dd87319d660f5ae6791850137ea1ce70355cd6",
+    "label": "Workshop",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-9807f1fc814d",
+    "text": "Enjoy music by Joseph Ntaimo , an MIT graduate student studying mechanical engineering with a focus in musical robotics. Alongside an upbeat DJ set, Ntaimo will play a ferro-instrument (a hyperinstrument that makes ferrofluid respond to music by altering the magnetic field) and other experimental musical devices he’s developing.",
+    "source_url": "https://www.openspace.mit.edu/calendar/midday-music-with-joseph-ntaimo",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-44c8a2cc33",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "ad76c93b737699946407498aff97c2f678975f88e4ea8ed36612e58a3a7621a8",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-8bfe9f3e8a0b",
+    "text": "Lumanyano Mzi presents Ithemba Elitsha (A New Hope), a unique sonic tapestry blending the rich heritage of South African jazz with global contemporary influences. This upbeat project transcends geographical boundaries to celebrate a shared bond of humanity and renewed hope.",
+    "source_url": "https://www.openspace.mit.edu/calendar/midday-music-lumanyano-mzi-quartet",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-b2bf9268d2",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "aa8dd80c325008eb77fbf8b1a0c4b160d2c3cb141f620c8ad1bd8a4bc3e8aa5a",
+    "label": "Cultural event",
+    "gold": {
+      "event_name": {
+        "raw": "Ithemba Elitsha (A New Hope)",
+        "start": 23,
+        "end": 51,
+        "normalized": null
+      },
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  },
+  {
+    "id": "review-425e21bd1e09",
+    "text": "This workshop-style event introduces young children to the art of dance using patterns, movement, words, music, and storytelling.",
+    "source_url": "https://www.openspace.mit.edu/calendar/leap-lab-creative-dance-for-kids-2026",
+    "institution": "MIT Open Space",
+    "collection_date": "2026-10-29",
+    "publication_date": null,
+    "provenance": "real",
+    "review_status": "reviewed",
+    "group_id": "source-1204c977a7",
+    "split": "external_review",
+    "collection_method": "one natural public HTML paragraph/list item; whitespace normalized only",
+    "source_excerpt_hash": "2c9b62842b6b82a00f51dd84f650f78835f290bd8bc0767c230f7682376a0538",
+    "label": "Workshop",
+    "gold": {
+      "event_name": null,
+      "date": null,
+      "time": null,
+      "venue": null
+    },
+    "reference_date": null,
+    "expected_status": "ok",
+    "label_origin": "human CSV with separately logged source-only validation"
+  }
+]

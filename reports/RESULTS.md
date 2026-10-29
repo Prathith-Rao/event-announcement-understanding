@@ -78,3 +78,6 @@ Complete-record accuracy: rules **0.5227**, hybrid **0.5638**.
 | rules | v2-00-07-001 | event_name | Willow Design Thinking | None | Willow Design Thinking A skill-building session. Date: 22 November Time: 8 am Venue: Crimson Garden Work through practical activities in small groups. |
 | rules | v2-00-07-002 | event_name | Crimson Data Storytelling | None | Crimson Data Storytelling A guided practical session. Date: tomorrow Time: 14:30 Venue: Cypress Studio Participants will build something themselves with help from an instructor. |
 | rules | v2-00-07-003 | event_name | Meadow Creative Electronics | None | Meadow Creative Electronics A guided practical session. Date: 13 August 2029 Time: 09:30 Venue: Ivory Atrium Work through practical activities in small groups. |
+
+
+Separate completed real-data results: [real_review_v1/RESULTS.md](real_review_v1/RESULTS.md). These do not replace the frozen synthetic results.

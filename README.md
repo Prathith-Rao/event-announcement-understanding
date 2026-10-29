@@ -115,3 +115,7 @@ No personal or certification details have been invented. Automated assistance an
 The blind review packet contains 82 public-source excerpts in [data/real_review](data/real_review). Read ANNOTATION_GUIDE.md, review ANNOUNCEMENTS.md, and fill annotations.csv without changing original text. Labels remain blank until human review. This convenience sample is source-clustered, not class-balanced; invitation-only evaluation does not measure non-event rejection. Report its reviewed results separately from frozen synthetic results.
 
 Repository: https://github.com/Prathith-Rao/event-announcement-understanding
+
+## Completed real-data evaluation
+
+One supplied human annotation file covers82 public excerpts:59 accepted,19 unresolved and4 excluded. Frozen-model results, class/source coverage, new-only34-record slice and per-record predictions are in [reports/real_review_v1](reports/real_review_v1/RESULTS.md). Full hybrid accuracy is54.24%; word/character LR accuracy47.46%. These are source-clustered convenience-sample measurements, not new training results. The original supplied CSV is preserved privately; public gold retains source text and validated spans.
