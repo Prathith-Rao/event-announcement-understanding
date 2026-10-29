@@ -1,0 +1,30 @@
+{
+  "records": 82,
+  "human_reviewed": 0,
+  "institution_distribution": {
+    "IIT Kanpur": 1,
+    "Alliance University": 1,
+    "Indian Institute of Tropical Meteorology": 1,
+    "S.A. College of Arts and Science": 1,
+    "University of Baltimore": 1,
+    "Hang Seng University of Hong Kong": 8,
+    "Indira Gandhi National Tribal University": 1,
+    "College of San Mateo": 1,
+    "Udbhav Sports and Cultural Association": 2,
+    "Punjab Engineering College": 1,
+    "Pomona College": 1,
+    "IIM Ahmedabad": 1,
+    "University of Colorado Boulder": 1,
+    "University of Texas at Austin": 1,
+    "North Carolina State University": 1,
+    "University of the South": 1,
+    "University of Notre Dame": 1,
+    "Maharaja Institute of Technology Mysore": 1,
+    "IISER Pune": 1,
+    "MIT Open Space": 32,
+    "Stanford Office of Student Engagement": 20,
+    "MIT Thai Students": 1,
+    "Stanford Storytelling": 2
+  },
+  "purpose": "Separate external evaluation candidate pool; not used to fit/tune frozen v2; public convenience sample with source/template clustering."
+}

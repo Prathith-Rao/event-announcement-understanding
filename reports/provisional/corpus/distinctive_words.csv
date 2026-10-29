@@ -1,0 +1,71 @@
+category,word,log_probability_ratio,count
+Workshop,workshop,2.457996807036332,6
+Workshop,university,1.8983810191009094,3
+Workshop,education,1.6106989466491284,2
+Workshop,october,1.6106989466491284,2
+Workshop,language,1.6106989466491284,2
+Workshop,bring,1.205233838540964,1
+Workshop,educator,1.205233838540964,1
+Workshop,leader,1.205233838540964,1
+Workshop,researcher,1.205233838540964,1
+Workshop,stakeholder,1.205233838540964,1
+Workshop,examine,1.205233838540964,1
+Workshop,ai,1.205233838540964,1
+Workshop,genuinely,1.205233838540964,1
+Workshop,support,1.205233838540964,1
+Workshop,high,1.205233838540964,1
+Seminar,national,1.6902900090631952,1
+Seminar,seminar,1.6902900090631952,1
+Seminar,tradition,1.6902900090631952,1
+Seminar,tribe,1.6902900090631952,1
+Seminar,organize,1.6902900090631952,1
+Seminar,birsa,1.6902900090631952,1
+Seminar,munda,1.6902900090631952,1
+Seminar,chair,1.6902900090631952,1
+Seminar,november,1.6902900090631952,1
+Seminar,culture,-0.10146946016485965,1
+Competition,innovation,2.4320802845789404,14
+Competition,competition,2.121925356275101,10
+Competition,project,2.0266151764707763,9
+Competition,hsuhk,1.9212546608129497,8
+Competition,centre,1.8034716251565663,7
+Competition,social,1.5157895527047853,5
+Competition,creativity,1.5157895527047853,5
+Competition,enrich,1.5157895527047853,5
+Competition,learn,1.5157895527047853,5
+Competition,experience,1.5157895527047853,5
+Competition,teaching,1.3334679959108307,4
+Competition,learning,1.3334679959108307,4
+Competition,ctl,1.3334679959108307,4
+Competition,student,1.3334679959108307,9
+Competition,issue,1.3334679959108307,4
+Meeting,meeting,2.0306775277960973,2
+Meeting,first,1.6252124196879327,1
+Meeting,hold,1.6252124196879327,1
+Meeting,tuesday,1.6252124196879327,1
+Meeting,september,1.6252124196879327,1
+Meeting,naylor,1.6252124196879327,1
+Meeting,auditorium,1.6252124196879327,1
+Meeting,gailor,1.6252124196879327,1
+Meeting,hall,1.6252124196879327,1
+Meeting,date,1.6252124196879327,1
+Meeting,time,1.6252124196879327,1
+Meeting,subject,1.6252124196879327,1
+Meeting,change,1.6252124196879327,1
+Meeting,please,1.6252124196879327,1
+Meeting,refer,1.6252124196879327,1
+Cultural event,come,1.6486586255873816,1
+Cultural event,festival,1.6486586255873816,1
+Cultural event,truly,1.6486586255873816,1
+Cultural event,unforgettable,1.6486586255873816,1
+Cultural event,detail,1.6486586255873816,1
+Cultural event,attached,1.6486586255873816,1
+Cultural event,document,1.6486586255873816,1
+Cultural event,look,1.6486586255873816,1
+Cultural event,forward,1.6486586255873816,1
+Cultural event,positive,1.6486586255873816,1
+Cultural event,reply,1.6486586255873816,1
+Cultural event,host,1.6486586255873816,1
+Cultural event,gwalior,1.6486586255873816,1
+Cultural event,thank,1.6486586255873816,1
+Cultural event,together,0.9555114450274363,1

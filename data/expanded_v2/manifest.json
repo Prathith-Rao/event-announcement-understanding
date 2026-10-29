@@ -1,0 +1,38 @@
+{
+  "version": "expanded_v2",
+  "seed": 42,
+  "records": 11922,
+  "provenance": "synthetic",
+  "labels": {
+    "Workshop": 600,
+    "Seminar": 600,
+    "Competition": 600,
+    "Meeting": 600,
+    "Cultural event": 600,
+    "Conference": 600,
+    "Webinar": 600,
+    "Hackathon": 600,
+    "Sports event": 600,
+    "Exhibition": 600,
+    "Career event": 600,
+    "Community service": 600,
+    "Social gathering": 600,
+    "Training course": 600,
+    "Product launch": 600,
+    "Academic assessment": 600,
+    "Ceremony": 600,
+    "Tour or excursion": 600,
+    "Other event": 600,
+    "Not an event": 522
+  },
+  "splits": {
+    "train": 7152,
+    "test": 2384,
+    "validation": 2386
+  },
+  "template_families": 70,
+  "human_reviewed": 0,
+  "split_policy": "Preassigned construction families; separate proper-name/venue prefix pools by partition. Negative construction families are also disjoint.",
+  "limitations": "Authored templates and label descriptions can be easier than naturally occurring announcements. This is not human-reviewed real-data accuracy.",
+  "sha256": "58d59f01ff975e1c20f76660ac40df4b3f0a23e061dec6c4c09950217e678b10"
+}

@@ -1,0 +1,9 @@
+{
+  "scope": "Warm local HTTP requests, six short regression sentences, 60 requests; excludes browser rendering",
+  "requests": 60,
+  "median_ms": 41.01174999959767,
+  "p95_ms": 48.35208000113198,
+  "minimum_ms": 38.90200000023469,
+  "maximum_ms": 315.23439999728,
+  "failures": 0
+}

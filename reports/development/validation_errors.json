@@ -1,0 +1,107 @@
+[
+  {
+    "id": "synthetic-seminar-01",
+    "text": "The department is hosting a lecture on Modern Astronomy. It will be held on 11 April 2027 at 2:30 PM. Venue: West Hall. Listen to an invited researcher discuss recent discoveries.",
+    "truth": "Seminar",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-seminar-05",
+    "text": "Our association announces a lecture about Modern Astronomy. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. Listen to an invited researcher discuss recent discoveries.",
+    "truth": "Seminar",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-seminar-09",
+    "text": "All members can join the lecture \"Modern Astronomy\". Date: 19 December 2027. Time: 6:00 PM. Venue: Main Auditorium. Listen to an invited researcher discuss recent discoveries.",
+    "truth": "Seminar",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-competition-01",
+    "text": "The department is hosting a hackathon on Campus Code Cup. It will be held on 11 April 2027 at 2:30 PM. Venue: West Hall. Entries will be ranked and winners receive awards.",
+    "truth": "Competition",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-competition-05",
+    "text": "Our association announces a hackathon about Campus Code Cup. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. Entries will be ranked and winners receive awards.",
+    "truth": "Competition",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-competition-09",
+    "text": "All members can join the hackathon \"Campus Code Cup\". Date: 19 December 2027. Time: 6:00 PM. Venue: Main Auditorium. Entries will be ranked and winners receive awards.",
+    "truth": "Competition",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-meeting-01",
+    "text": "The department is hosting a meeting on Planning Committee. It will be held on 11 April 2027 at 2:30 PM. Venue: West Hall. Representatives should bring suggestions for the budget discussion.",
+    "truth": "Meeting",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-meeting-05",
+    "text": "Our association announces a meeting about Planning Committee. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. Representatives should bring suggestions for the budget discussion.",
+    "truth": "Meeting",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-meeting-09",
+    "text": "All members can join the meeting \"Planning Committee\". Date: 19 December 2027. Time: 6:00 PM. Venue: Main Auditorium. Representatives should bring suggestions for the budget discussion.",
+    "truth": "Meeting",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-cultural-01",
+    "text": "The department is hosting a festival on Campus Arts. It will be held on 11 April 2027 at 2:30 PM. Venue: West Hall. The celebration features dance, theatre and musical performances.",
+    "truth": "Cultural event",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-cultural-05",
+    "text": "Our association announces a festival about Campus Arts. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. The celebration features dance, theatre and musical performances.",
+    "truth": "Cultural event",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-cultural-09",
+    "text": "All members can join the festival \"Campus Arts\". Date: 19 December 2027. Time: 6:00 PM. Venue: Main Auditorium. The celebration features dance, theatre and musical performances.",
+    "truth": "Cultural event",
+    "model": "majority",
+    "prediction": "Workshop"
+  },
+  {
+    "id": "synthetic-workshop-05",
+    "text": "Our association announces a training about Digital Mapping. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. Bring a laptop for guided practical activities.",
+    "truth": "Workshop",
+    "model": "keywords",
+    "prediction": null
+  },
+  {
+    "id": "synthetic-seminar-05",
+    "text": "Our association announces a lecture about Modern Astronomy. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. Listen to an invited researcher discuss recent discoveries.",
+    "truth": "Seminar",
+    "model": "keywords",
+    "prediction": null
+  },
+  {
+    "id": "synthetic-competition-05",
+    "text": "Our association announces a hackathon about Campus Code Cup. Save 15 August 2027 for this event at 4:00 PM. Venue: River Theatre. Entries will be ranked and winners receive awards.",
+    "truth": "Competition",
+    "model": "keywords",
+    "prediction": null
+  }
+]

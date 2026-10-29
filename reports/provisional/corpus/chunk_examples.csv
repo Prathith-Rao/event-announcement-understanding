@@ -1,0 +1,138 @@
+id,category,label,raw,pattern,start,end
+real-a41a9b325714,Workshop,EVENT,The workshop,DT NN,0,12
+real-a41a9b325714,Workshop,EVENT,educators,NNS,29,38
+real-a41a9b325714,Workshop,EVENT,academic leaders,JJ NNS,40,56
+real-a41a9b325714,Workshop,EVENT,AI,NNP,102,104
+real-a41a9b325714,Workshop,EVENT,higher education,JJR NN,127,143
+real-a41a9b325714,Workshop,EVENT,academic quality,JJ NN,161,177
+real-a41a9b325714,Workshop,VENUE,The workshop,DT NN,0,12
+real-a41a9b325714,Workshop,VENUE,academic,JJ,40,48
+real-a41a9b325714,Workshop,VENUE,AI,NNP,102,104
+real-a41a9b325714,Workshop,VENUE,higher education,JJR NN,127,143
+real-a41a9b325714,Workshop,VENUE,academic quality,JJ NN,161,177
+real-1cf0475356dc,Workshop,EVENT,Alliance University,NNP NNP,0,19
+real-1cf0475356dc,Workshop,EVENT,a one-day Advanced Energy Transition Workshop on 26 October 2026,DT JJ NNP NNP NNP NNP IN CD NNP CD,34,98
+real-1cf0475356dc,Workshop,EVENT,the guidance of Padma Bhushan Dr. V. K. Saraswat,DT NN IN NNP NNP NNP NNP NNP NNP,139,187
+real-1cf0475356dc,Workshop,VENUE,Alliance University,NNP NNP,0,19
+real-1cf0475356dc,Workshop,VENUE,one-day Advanced Energy Transition Workshop on 26 October 2026,JJ NNP NNP NNP NNP IN CD NNP CD,36,98
+real-1cf0475356dc,Workshop,VENUE,guidance of Padma Bhushan Dr. V. K. Saraswat,NN IN NNP NNP NNP NNP NNP NNP,143,187
+real-06dedc9fbed2,Competition,EVENT,The HSUHK Innovation Project Competition,DT NNP NNP NNP NNP,0,40
+real-06dedc9fbed2,Competition,EVENT,“the Competition”,NNP NNP,42,59
+real-06dedc9fbed2,Competition,EVENT,the Centre for Teaching,DT NNP IN NNP,75,98
+real-06dedc9fbed2,Competition,EVENT,Learning,NNP,103,111
+real-06dedc9fbed2,Competition,EVENT,10th anniversary,JJ NN,142,158
+real-06dedc9fbed2,Competition,VENUE,The HSUHK Innovation Project Competition,DT NNP NNP NNP NNP,0,40
+real-06dedc9fbed2,Competition,VENUE,“the Competition”,NNP NNP,42,59
+real-06dedc9fbed2,Competition,VENUE,Centre for Teaching,NNP IN NNP,79,98
+real-06dedc9fbed2,Competition,VENUE,Learning,NNP,103,111
+real-06dedc9fbed2,Competition,VENUE,10th anniversary,JJ NN,142,158
+real-06dedc9fbed2,Competition,EVENT,the past decade,DT JJ NN,165,180
+real-06dedc9fbed2,Competition,EVENT,this Competition,DT NNP,182,198
+real-06dedc9fbed2,Competition,EVENT,countless innovative ideas,JJ JJ NNS,212,238
+real-06dedc9fbed2,Competition,EVENT,empowered students,JJ NNS,243,261
+real-06dedc9fbed2,Competition,EVENT,a real impact on the world,DT JJ NN IN DT NN,279,305
+real-06dedc9fbed2,Competition,VENUE,the past decade,DT JJ NN,165,180
+real-06dedc9fbed2,Competition,VENUE,this Competition,DT NNP,182,198
+real-06dedc9fbed2,Competition,VENUE,countless innovative,JJ JJ,212,232
+real-06dedc9fbed2,Competition,VENUE,empowered,JJ,243,252
+real-06dedc9fbed2,Competition,VENUE,real impact on the world,JJ NN IN DT NN,281,305
+real-06dedc9fbed2,Competition,EVENT,This year,DT NN,307,316
+real-06dedc9fbed2,Competition,EVENT,the boundaries,DT NNS,346,360
+real-06dedc9fbed2,Competition,EVENT,society today—through the lens,NN IN DT NNS,430,460
+real-06dedc9fbed2,Competition,EVENT,principles,NNS,508,518
+real-06dedc9fbed2,Competition,VENUE,This year,DT NN,307,316
+real-06dedc9fbed2,Competition,VENUE,society,NN,430,437
+real-1d7839947927,Seminar,EVENT,A National Seminar on “The Culture,DT NNP NNP IN JJ NNP,0,34
+real-1d7839947927,Seminar,EVENT,Traditions of Tribes,NNP IN NNP,39,59
+real-1d7839947927,Seminar,EVENT,India”,NNP,63,69
+real-1d7839947927,Seminar,EVENT,the Birsa Munda Chair on November 14,DT NNP NNP NNP IN NNP CD,91,127
+real-1d7839947927,Seminar,EVENT,2025,CD,129,133
+real-1d7839947927,Seminar,VENUE,National Seminar on “The Culture,NNP NNP IN JJ NNP,2,34
+real-1d7839947927,Seminar,VENUE,Traditions of Tribes,NNP IN NNP,39,59
+real-1d7839947927,Seminar,VENUE,India”,NNP,63,69
+real-1d7839947927,Seminar,VENUE,Birsa Munda Chair on November 14,NNP NNP NNP IN NNP CD,95,127
+real-1d7839947927,Seminar,VENUE,2025,CD,129,133
+real-1835d76fdbfa,Cultural event,EVENT,Let’s,NNP,0,5
+real-1835d76fdbfa,Cultural event,EVENT,this festival,DT NN,28,41
+real-1835d76fdbfa,Cultural event,EVENT,unforgettable,JJ,48,61
+real-1835d76fdbfa,Cultural event,VENUE,Let’s,NNP,0,5
+real-1835d76fdbfa,Cultural event,VENUE,this festival,DT NN,28,41
+real-1835d76fdbfa,Cultural event,VENUE,unforgettable,JJ,48,61
+real-1835d76fdbfa,Cultural event,EVENT,the details,DT NNS,67,78
+real-1835d76fdbfa,Cultural event,EVENT,available in the attached document,JJ IN DT JJ NN,83,117
+real-1835d76fdbfa,Cultural event,VENUE,available in the attached document,JJ IN DT JJ NN,83,117
+real-1835d76fdbfa,Cultural event,EVENT,a positive reply,DT JJ NN,143,159
+real-1835d76fdbfa,Cultural event,EVENT,host,NN,164,168
+real-1835d76fdbfa,Cultural event,VENUE,a positive reply,DT JJ NN,143,159
+real-1835d76fdbfa,Cultural event,VENUE,host,NN,164,168
+real-b2580dc34866,Workshop,EVENT,Punjab Engineering College,NNP NNP NNP,0,26
+real-b2580dc34866,Workshop,EVENT,a three-day AICTE-sponsored ATAL–VAANI workshop,DT JJ JJ NNP NN,78,125
+real-b2580dc34866,Workshop,EVENT,“Roadmap for Green Technologies,NN IN NNP NNPS,133,164
+real-b2580dc34866,Workshop,EVENT,Net Zero Emission in India,NNP NNP NNP IN NNP,167,193
+real-b2580dc34866,Workshop,EVENT,2070” today,CD NN,197,208
+real-b2580dc34866,Workshop,VENUE,Punjab Engineering College,NNP NNP NNP,0,26
+real-b2580dc34866,Workshop,VENUE,a three-day AICTE-sponsored ATAL–VAANI workshop,DT JJ JJ NNP NN,78,125
+real-b2580dc34866,Workshop,VENUE,“Roadmap for Green Technologies,NN IN NNP NNPS,133,164
+real-b2580dc34866,Workshop,VENUE,Net Zero Emission in India,NNP NNP NNP IN NNP,167,193
+real-b2580dc34866,Workshop,VENUE,2070” today,CD NN,197,208
+real-b2580dc34866,Workshop,EVENT,the Dogri language from 14,DT NNP NN IN CD,229,255
+real-b2580dc34866,Workshop,EVENT,16 October 2026,CD NNP CD,259,274
+real-b2580dc34866,Workshop,EVENT,awareness of sustainable technologies,NN IN JJ NNS,305,342
+real-b2580dc34866,Workshop,EVENT,the use of regional languages,DT NN IN JJ NNS,394,423
+real-b2580dc34866,Workshop,VENUE,Dogri language from 14,NNP NN IN CD,233,255
+real-b2580dc34866,Workshop,VENUE,16 October 2026,CD NNP CD,259,274
+real-b2580dc34866,Workshop,VENUE,awareness of sustainable,NN IN JJ,305,329
+real-efe66b850258,Workshop,EVENT,the earliest,DT JJS,51,63
+real-efe66b850258,Workshop,EVENT,spot in the workshop,NN IN DT NN,80,100
+real-efe66b850258,Workshop,VENUE,the earliest,DT JJS,51,63
+real-efe66b850258,Workshop,VENUE,spot in the workshop,NN IN DT NN,80,100
+real-0c6281d24597,Competition,EVENT,The “HSUHK Innovation Project Competition”,DT JJ NNP NNP NNP,0,42
+real-0c6281d24597,Competition,EVENT,HSUHK students,NNP NNS,140,154
+real-0c6281d24597,Competition,EVENT,a culture of innovation,DT NN IN NN,155,178
+real-0c6281d24597,Competition,EVENT,creativity,NN,183,193
+real-0c6281d24597,Competition,EVENT,awareness of the critical social issues,NN IN DT JJ JJ NNS,213,252
+real-0c6281d24597,Competition,VENUE,The “HSUHK Innovation Project Competition”,DT JJ NNP NNP NNP,0,42
+real-0c6281d24597,Competition,VENUE,culture of innovation,NN IN NN,157,178
+real-0c6281d24597,Competition,VENUE,awareness of the critical social,NN IN DT JJ JJ,213,245
+real-0c6281d24597,Competition,EVENT,training of various modes,NN IN JJ NNS,283,308
+real-0c6281d24597,Competition,EVENT,a showcase of project proposals,DT NN IN NN NNS,334,365
+real-0c6281d24597,Competition,EVENT,experience at HSUHK,NN IN NNP,453,472
+real-0c6281d24597,Competition,VENUE,training of various,NN IN JJ,283,302
+real-0c6281d24597,Competition,VENUE,experience at HSUHK,NN IN NNP,453,472
+real-015a80003706,Competition,EVENT,grateful,JJ,492,500
+real-015a80003706,Competition,EVENT,Information Technology Services Centre,NNP NNP NNP NNP,620,658
+real-015a80003706,Competition,VENUE,Information Technology Services Centre,NNP NNP NNP NNP,620,658
+real-015a80003706,Competition,EVENT,Same as last year,NN IN JJ NN,688,705
+real-015a80003706,Competition,EVENT,the Institute of Youth Sustainability,DT NNP IN NNP NNP,720,757
+real-015a80003706,Competition,EVENT,the Wu Jieh Yee Centre for Innovation,DT NNP NNP NNP NNP IN NNP,786,823
+real-015a80003706,Competition,VENUE,Same as last year,NN IN JJ NN,688,705
+real-015a80003706,Competition,VENUE,Institute of Youth Sustainability,NNP IN NNP NNP,724,757
+real-015a80003706,Competition,VENUE,Wu Jieh Yee Centre for Innovation,NNP NNP NNP NNP IN NNP,790,823
+real-3bca48af15f4,Competition,EVENT,the Competition “The HSUHK Innovation Project Competition”,DT NNP NNP NNP NNP NNP NNP,6,64
+real-3bca48af15f4,Competition,VENUE,the Competition “The HSUHK Innovation Project Competition”,DT NNP NNP NNP NNP NNP NNP,6,64
+real-3bca48af15f4,Competition,EVENT,the creative concepts,DT JJ NNS,200,221
+real-3bca48af15f4,Competition,VENUE,the creative,DT JJ,200,212
+real-51cda2ad44a2,Competition,EVENT,three areas,CD NNS,32,43
+real-51cda2ad44a2,Competition,VENUE,three,CD,32,37
+real-59ae52510e09,Meeting,EVENT,The first College Faculty Meeting of the 2026-2027 academic year,DT JJ NNP NNP NNP IN DT JJ JJ NN,0,64
+real-59ae52510e09,Meeting,EVENT,Tuesday,NNP,81,88
+real-59ae52510e09,Meeting,EVENT,September 1,NNP CD,91,102
+real-59ae52510e09,Meeting,EVENT,Naylor Auditorium of Gailor Hall,NNP NNP IN NNP NNP,107,139
+real-59ae52510e09,Meeting,VENUE,first College Faculty Meeting of the 2026-2027 academic year,JJ NNP NNP NNP IN DT JJ JJ NN,4,64
+real-59ae52510e09,Meeting,VENUE,Tuesday,NNP,81,88
+real-59ae52510e09,Meeting,VENUE,September 1,NNP CD,91,102
+real-59ae52510e09,Meeting,VENUE,Naylor Auditorium of Gailor Hall,NNP NNP IN NNP NNP,107,139
+real-59ae52510e09,Meeting,EVENT,Dates,NNS,141,146
+real-59ae52510e09,Meeting,EVENT,subject,JJ,161,168
+real-59ae52510e09,Meeting,VENUE,subject,JJ,161,168
+real-59ae52510e09,Meeting,EVENT,Please refer,NNP NN,180,192
+real-59ae52510e09,Meeting,EVENT,the college-faculty calendar before the meeting,DT NN NN IN DT NN,196,243
+real-59ae52510e09,Meeting,VENUE,Please refer,NNP NN,180,192
+real-59ae52510e09,Meeting,VENUE,college-faculty calendar before the meeting,NN NN IN DT NN,200,243
+real-a6f988da2f33,Workshop,EVENT,postdocs,NN,13,21
+real-a6f988da2f33,Workshop,EVENT,graduate students at the University,NN NNS IN DT NNP,27,62
+real-a6f988da2f33,Workshop,EVENT,welcome,JJ,81,88
+real-a6f988da2f33,Workshop,VENUE,postdocs,NN,13,21
+real-a6f988da2f33,Workshop,VENUE,University of Notre Dame,NNP IN NNP NNP,52,76
+real-a6f988da2f33,Workshop,EVENT,available on a first-come,JJ IN DT JJ,159,184
+real-a6f988da2f33,Workshop,VENUE,available on a first-come,JJ IN DT JJ,159,184

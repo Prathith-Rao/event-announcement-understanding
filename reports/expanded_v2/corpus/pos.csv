@@ -1,0 +1,572 @@
+category,pos,count
+Workshop,NN,1775
+Workshop,NNS,677
+Workshop,IN,1589
+Workshop,CD,840
+Workshop,JJ,1157
+Workshop,VBZ,218
+Workshop,DT,641
+Workshop,RB,49
+Workshop,VBN,163
+Workshop,VBP,147
+Workshop,.,879
+Workshop,MD,199
+Workshop,VB,260
+Workshop,PRP,297
+Workshop,POS,60
+Workshop,NNP,1764
+Workshop,",",183
+Workshop,VBG,191
+Workshop,VBD,62
+Workshop,CC,111
+Workshop,TO,66
+Workshop,PRP$,90
+Workshop,NNPS,23
+Workshop,:,188
+Workshop,(,9
+Workshop,),9
+Workshop,RP,5
+Workshop,EX,10
+Seminar,NN,2128
+Seminar,NNS,818
+Seminar,IN,1203
+Seminar,CD,841
+Seminar,JJ,745
+Seminar,VBZ,242
+Seminar,DT,864
+Seminar,VBN,290
+Seminar,",",297
+Seminar,.,881
+Seminar,MD,303
+Seminar,VB,339
+Seminar,CC,241
+Seminar,JJR,125
+Seminar,POS,60
+Seminar,PRP,162
+Seminar,VBP,134
+Seminar,VBG,83
+Seminar,NNP,1891
+Seminar,NNPS,4
+Seminar,TO,186
+Seminar,RB,35
+Seminar,VBD,57
+Seminar,JJS,22
+Seminar,PRP$,92
+Seminar,:,174
+Seminar,(,9
+Seminar,),9
+Seminar,RP,6
+Seminar,EX,9
+Competition,NN,1580
+Competition,NNS,993
+Competition,IN,1202
+Competition,CD,838
+Competition,JJ,714
+Competition,VBZ,223
+Competition,DT,622
+Competition,VBG,370
+Competition,",",178
+Competition,VBN,547
+Competition,VB,583
+Competition,CC,231
+Competition,.,880
+Competition,POS,60
+Competition,NNP,1866
+Competition,MD,422
+Competition,RB,38
+Competition,PRP,158
+Competition,VBP,121
+Competition,VBD,61
+Competition,TO,74
+Competition,PRP$,95
+Competition,JJS,4
+Competition,:,198
+Competition,NNPS,2
+Competition,(,10
+Competition,),10
+Competition,RP,9
+Competition,EX,11
+Meeting,NN,1958
+Meeting,NNS,874
+Meeting,IN,1259
+Meeting,CD,853
+Meeting,JJ,528
+Meeting,VBZ,231
+Meeting,DT,752
+Meeting,VB,824
+Meeting,CC,360
+Meeting,TO,209
+Meeting,.,872
+Meeting,POS,60
+Meeting,NNP,1813
+Meeting,",",259
+Meeting,VBP,138
+Meeting,MD,284
+Meeting,VBN,278
+Meeting,PRP,157
+Meeting,RB,42
+Meeting,VBD,58
+Meeting,VBG,79
+Meeting,PRP$,95
+Meeting,:,183
+Meeting,(,9
+Meeting,),9
+Meeting,RP,7
+Meeting,EX,11
+Meeting,NNPS,7
+Cultural event,NN,2064
+Cultural event,NNS,667
+Cultural event,IN,1242
+Cultural event,CD,839
+Cultural event,JJ,830
+Cultural event,VBZ,350
+Cultural event,DT,890
+Cultural event,",",279
+Cultural event,VBN,167
+Cultural event,CC,235
+Cultural event,.,875
+Cultural event,POS,60
+Cultural event,NNP,1861
+Cultural event,MD,184
+Cultural event,VB,356
+Cultural event,TO,189
+Cultural event,NNPS,16
+Cultural event,PRP,151
+Cultural event,VBP,132
+Cultural event,VBD,58
+Cultural event,RB,48
+Cultural event,VBG,91
+Cultural event,PRP$,102
+Cultural event,:,164
+Cultural event,(,11
+Cultural event,),11
+Cultural event,RP,8
+Cultural event,EX,10
+Conference,NN,1564
+Conference,NNS,1463
+Conference,IN,1258
+Conference,CD,857
+Conference,JJ,965
+Conference,VBZ,349
+Conference,DT,530
+Conference,VBN,161
+Conference,",",418
+Conference,RB,172
+Conference,CC,234
+Conference,.,883
+Conference,POS,60
+Conference,PRP,170
+Conference,VBP,140
+Conference,VBG,83
+Conference,NNP,1719
+Conference,MD,296
+Conference,VB,333
+Conference,NNPS,44
+Conference,TO,70
+Conference,VBD,59
+Conference,PRP$,86
+Conference,:,160
+Conference,(,9
+Conference,),9
+Conference,RP,5
+Conference,EX,10
+Webinar,NN,2324
+Webinar,NNS,675
+Webinar,IN,1158
+Webinar,CD,808
+Webinar,JJ,849
+Webinar,PRP,170
+Webinar,VBP,150
+Webinar,VBG,122
+Webinar,DT,859
+Webinar,.,884
+Webinar,MD,311
+Webinar,VB,566
+Webinar,VBN,281
+Webinar,TO,183
+Webinar,POS,60
+Webinar,VBZ,217
+Webinar,NNP,1620
+Webinar,CC,245
+Webinar,RB,162
+Webinar,NNPS,10
+Webinar,",",140
+Webinar,VBD,50
+Webinar,PRP$,99
+Webinar,:,158
+Webinar,(,8
+Webinar,),8
+Webinar,RP,3
+Webinar,$,1
+Webinar,EX,9
+Hackathon,NN,2138
+Hackathon,NNS,657
+Hackathon,IN,1297
+Hackathon,CD,969
+Hackathon,JJ,751
+Hackathon,VBZ,227
+Hackathon,DT,779
+Hackathon,.,882
+Hackathon,VB,587
+Hackathon,PRP$,326
+Hackathon,POS,60
+Hackathon,NNP,1983
+Hackathon,",",167
+Hackathon,VBP,262
+Hackathon,TO,303
+Hackathon,CC,234
+Hackathon,VBN,143
+Hackathon,PRP,161
+Hackathon,VBG,112
+Hackathon,MD,172
+Hackathon,RB,149
+Hackathon,VBD,50
+Hackathon,:,166
+Hackathon,JJS,2
+Hackathon,(,10
+Hackathon,),10
+Hackathon,RP,5
+Hackathon,EX,12
+Hackathon,$,1
+Sports event,NN,1881
+Sports event,NNS,813
+Sports event,IN,1587
+Sports event,CD,824
+Sports event,JJ,858
+Sports event,VBZ,229
+Sports event,DT,870
+Sports event,VBN,151
+Sports event,.,878
+Sports event,MD,301
+Sports event,VB,348
+Sports event,CC,243
+Sports event,POS,60
+Sports event,PRP,282
+Sports event,VBP,392
+Sports event,VBG,89
+Sports event,NNP,1814
+Sports event,",",175
+Sports event,:,310
+Sports event,TO,69
+Sports event,VBD,57
+Sports event,$,2
+Sports event,RB,37
+Sports event,PRP$,92
+Sports event,NNPS,11
+Sports event,(,8
+Sports event,),8
+Sports event,RP,8
+Sports event,EX,9
+Exhibition,NN,1775
+Exhibition,NNS,1030
+Exhibition,IN,1393
+Exhibition,CD,830
+Exhibition,JJ,723
+Exhibition,VBZ,240
+Exhibition,DT,749
+Exhibition,VBP,245
+Exhibition,.,872
+Exhibition,CC,360
+Exhibition,MD,295
+Exhibition,VB,335
+Exhibition,PRP$,213
+Exhibition,TO,182
+Exhibition,VBG,191
+Exhibition,POS,60
+Exhibition,NNP,1756
+Exhibition,RB,44
+Exhibition,",",305
+Exhibition,VBN,170
+Exhibition,PRP,162
+Exhibition,$,2
+Exhibition,VBD,44
+Exhibition,FW,1
+Exhibition,:,179
+Exhibition,NNPS,8
+Exhibition,(,9
+Exhibition,),9
+Exhibition,RP,4
+Exhibition,EX,11
+Exhibition,'',1
+Exhibition,PDT,1
+Career event,NN,1900
+Career event,NNS,1214
+Career event,IN,1419
+Career event,CD,816
+Career event,JJ,720
+Career event,VBZ,233
+Career event,DT,545
+Career event,.,889
+Career event,MD,272
+Career event,CC,360
+Career event,VB,463
+Career event,POS,60
+Career event,NNP,1946
+Career event,",",304
+Career event,PRP,172
+Career event,VBP,139
+Career event,VBG,129
+Career event,VBD,49
+Career event,RB,181
+Career event,VBN,166
+Career event,TO,79
+Career event,PRP$,89
+Career event,:,174
+Career event,NNPS,3
+Career event,(,10
+Career event,),10
+Career event,RP,6
+Career event,EX,7
+Community service,NN,2056
+Community service,NNS,1023
+Community service,IN,1435
+Community service,CD,825
+Community service,JJ,680
+Community service,VBG,363
+Community service,VBZ,220
+Community service,DT,621
+Community service,WDT,131
+Community service,VBP,498
+Community service,.,879
+Community service,POS,60
+Community service,NNP,1859
+Community service,MD,170
+Community service,VB,210
+Community service,:,292
+Community service,CC,106
+Community service,PRP,280
+Community service,RB,167
+Community service,",",172
+Community service,VBD,56
+Community service,VBN,158
+Community service,TO,70
+Community service,PRP$,97
+Community service,NNPS,4
+Community service,(,12
+Community service,),12
+Community service,RP,7
+Community service,EX,10
+Community service,RBR,1
+Social gathering,NN,2128
+Social gathering,NNS,529
+Social gathering,IN,1458
+Social gathering,CD,822
+Social gathering,JJ,634
+Social gathering,VBZ,221
+Social gathering,DT,523
+Social gathering,VBP,246
+Social gathering,CC,473
+Social gathering,VBN,289
+Social gathering,TO,308
+Social gathering,VB,330
+Social gathering,RB,184
+Social gathering,.,883
+Social gathering,POS,60
+Social gathering,NNP,1852
+Social gathering,",",304
+Social gathering,VBD,61
+Social gathering,PRP,160
+Social gathering,VBG,337
+Social gathering,RP,139
+Social gathering,MD,57
+Social gathering,PRP$,98
+Social gathering,:,160
+Social gathering,NNPS,4
+Social gathering,(,10
+Social gathering,),10
+Social gathering,EX,9
+Training course,NN,2173
+Training course,NNS,904
+Training course,IN,1399
+Training course,CD,879
+Training course,JJ,980
+Training course,VBZ,346
+Training course,DT,1011
+Training course,",",296
+Training course,.,891
+Training course,CC,360
+Training course,POS,60
+Training course,PRP,172
+Training course,VBP,151
+Training course,VBG,96
+Training course,VBN,167
+Training course,NNP,1922
+Training course,MD,188
+Training course,VB,474
+Training course,TO,191
+Training course,VBD,58
+Training course,RB,54
+Training course,PRP$,92
+Training course,:,169
+Training course,NNPS,1
+Training course,$,1
+Training course,(,7
+Training course,),7
+Training course,RP,3
+Training course,EX,10
+Product launch,NN,2172
+Product launch,NNS,547
+Product launch,IN,1089
+Product launch,CD,818
+Product launch,JJ,913
+Product launch,VBZ,228
+Product launch,DT,1109
+Product launch,VBN,168
+Product launch,VB,621
+Product launch,TO,301
+Product launch,CC,360
+Product launch,PRP$,455
+Product launch,.,875
+Product launch,POS,60
+Product launch,NNP,1856
+Product launch,MD,306
+Product launch,",",290
+Product launch,JJR,132
+Product launch,VBP,152
+Product launch,VBG,98
+Product launch,RB,43
+Product launch,JJS,116
+Product launch,PRP,165
+Product launch,VBD,51
+Product launch,:,162
+Product launch,(,9
+Product launch,),9
+Product launch,RP,6
+Product launch,EX,11
+Product launch,$,1
+Academic assessment,NN,1826
+Academic assessment,NNS,740
+Academic assessment,IN,1349
+Academic assessment,CD,831
+Academic assessment,JJ,737
+Academic assessment,VBZ,359
+Academic assessment,DT,862
+Academic assessment,VBN,380
+Academic assessment,MD,305
+Academic assessment,VB,467
+Academic assessment,PRP$,344
+Academic assessment,CC,256
+Academic assessment,.,882
+Academic assessment,POS,60
+Academic assessment,NNP,1852
+Academic assessment,RB,46
+Academic assessment,:,275
+Academic assessment,VBP,259
+Academic assessment,NNPS,19
+Academic assessment,VBD,52
+Academic assessment,FW,4
+Academic assessment,PRP,165
+Academic assessment,VBG,87
+Academic assessment,",",164
+Academic assessment,TO,71
+Academic assessment,(,10
+Academic assessment,),10
+Academic assessment,RP,8
+Academic assessment,EX,10
+Ceremony,NN,1524
+Ceremony,NNS,1052
+Ceremony,IN,1336
+Ceremony,CD,831
+Ceremony,JJ,774
+Ceremony,VBZ,220
+Ceremony,DT,848
+Ceremony,VB,600
+Ceremony,PRP$,242
+Ceremony,CC,360
+Ceremony,VBP,287
+Ceremony,.,876
+Ceremony,POS,60
+Ceremony,PRP,163
+Ceremony,VBG,72
+Ceremony,NNP,1910
+Ceremony,MD,281
+Ceremony,RB,48
+Ceremony,VBN,170
+Ceremony,",",172
+Ceremony,TO,70
+Ceremony,VBD,42
+Ceremony,:,192
+Ceremony,(,11
+Ceremony,),11
+Ceremony,RP,4
+Ceremony,EX,10
+Ceremony,NNPS,7
+Tour or excursion,NN,1855
+Tour or excursion,NNS,518
+Tour or excursion,IN,1346
+Tour or excursion,CD,825
+Tour or excursion,JJ,1080
+Tour or excursion,VBZ,219
+Tour or excursion,DT,1001
+Tour or excursion,MD,304
+Tour or excursion,.,878
+Tour or excursion,VB,473
+Tour or excursion,RB,283
+Tour or excursion,CC,236
+Tour or excursion,POS,60
+Tour or excursion,NNP,1834
+Tour or excursion,VBN,149
+Tour or excursion,",",187
+Tour or excursion,VBD,62
+Tour or excursion,PRP,171
+Tour or excursion,VBP,144
+Tour or excursion,VBG,85
+Tour or excursion,TO,68
+Tour or excursion,PRP$,96
+Tour or excursion,:,162
+Tour or excursion,(,7
+Tour or excursion,),7
+Tour or excursion,RP,5
+Tour or excursion,EX,11
+Tour or excursion,NNPS,5
+Other event,NN,1729
+Other event,NNS,665
+Other event,IN,1072
+Other event,CD,804
+Other event,JJ,877
+Other event,PRP,172
+Other event,VBP,283
+Other event,VBG,88
+Other event,DT,1244
+Other event,.,885
+Other event,MD,178
+Other event,VB,821
+Other event,",",293
+Other event,CC,231
+Other event,POS,60
+Other event,VBZ,339
+Other event,NNP,1775
+Other event,VBN,322
+Other event,TO,319
+Other event,VBD,56
+Other event,RB,46
+Other event,PRP$,83
+Other event,NNPS,7
+Other event,:,180
+Other event,(,11
+Other event,),11
+Other event,RP,8
+Other event,EX,9
+Not an event,DT,417
+Not an event,JJ,253
+Not an event,NNS,225
+Not an event,IN,313
+Not an event,NNP,334
+Not an event,.,417
+Not an event,PRP,260
+Not an event,VBP,156
+Not an event,VBG,117
+Not an event,NN,690
+Not an event,MD,51
+Not an event,VB,121
+Not an event,CC,103
+Not an event,VBN,208
+Not an event,PRP$,105
+Not an event,:,53
+Not an event,VBZ,210
+Not an event,RB,55
+Not an event,NNPS,13
+Not an event,WRB,51
+Not an event,VBD,53
+Not an event,WP,54
+Not an event,",",52

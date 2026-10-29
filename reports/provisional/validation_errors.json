@@ -1,0 +1,16 @@
+[
+  {
+    "id": "real-69add16c9d7e",
+    "text": "The AMS/ACSM User Workshop 2026, organized at the Indian Institute of Tropical Meteorology (IITM), Pune, will bring together scientists, researchers, and students working on atmospheric aerosol measurements and mass spectrometry.",
+    "truth": "Workshop",
+    "model": "majority",
+    "prediction": "Competition"
+  },
+  {
+    "id": "real-aa03cf7c0c1d",
+    "text": "We are delighted to invite you to participate in a One-Day Workshop on “AI for Education and Research”. The workshop will provide practical insights into the effective application of Artificial Intelligence tools in teaching, learning, research, academic writing, and research productivity.",
+    "truth": "Workshop",
+    "model": "majority",
+    "prediction": "Competition"
+  }
+]

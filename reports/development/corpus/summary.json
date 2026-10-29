@@ -1,0 +1,1390 @@
+{
+  "partition": "train_only",
+  "mode": "development",
+  "records": 50,
+  "class_counts": {
+    "Workshop": 10,
+    "Seminar": 10,
+    "Competition": 10,
+    "Meeting": 10,
+    "Cultural event": 10
+  },
+  "raw_tokens": 1654,
+  "raw_vocabulary": 187,
+  "preprocessed_tokens": 775,
+  "preprocessed_vocabulary": 119,
+  "collocation_min_frequency": 2,
+  "collocation_statistic": "PMI within sentences; no cross-sentence pairs",
+  "frequent": [
+    {
+      "category": "Workshop",
+      "word": "practical",
+      "count": 10
+    },
+    {
+      "category": "Workshop",
+      "word": "venue",
+      "count": 7
+    },
+    {
+      "category": "Workshop",
+      "word": "workshop",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "python",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "practice",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "cod",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "exercise",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "instructor",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "feedback",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "pm",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "room",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "training",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "digital",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "mapping",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "bring",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "laptop",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "guided",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "activity",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "hall",
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "entitle",
+      "count": 2
+    },
+    {
+      "category": "Seminar",
+      "word": "venue",
+      "count": 7
+    },
+    {
+      "category": "Seminar",
+      "word": "seminar",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "climate",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "research",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "speaker",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "present",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "finding",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "follow",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "audience",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "question",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "pm",
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "invite",
+      "count": 5
+    },
+    {
+      "category": "Seminar",
+      "word": "room",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "lecture",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "modern",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "astronomy",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "listen",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "researcher",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "discus",
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "recent",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "award",
+      "count": 10
+    },
+    {
+      "category": "Competition",
+      "word": "venue",
+      "count": 7
+    },
+    {
+      "category": "Competition",
+      "word": "competition",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "design",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "challenge",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "team",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "compete",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "prize",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "panel",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "judge",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "pm",
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "room",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "hackathon",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "campus",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "code",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "cup",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "entry",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "rank",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "winner",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "receive",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "meeting",
+      "count": 10
+    },
+    {
+      "category": "Meeting",
+      "word": "student",
+      "count": 8
+    },
+    {
+      "category": "Meeting",
+      "word": "venue",
+      "count": 7
+    },
+    {
+      "category": "Meeting",
+      "word": "council",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "member",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "discuss",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "agenda",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "vote",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "proposal",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "pm",
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "room",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "planning",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "committee",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "representative",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "bring",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "suggestion",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "budget",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "discussion",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "hall",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "entitle",
+      "count": 2
+    },
+    {
+      "category": "Cultural event",
+      "word": "performance",
+      "count": 10
+    },
+    {
+      "category": "Cultural event",
+      "word": "venue",
+      "count": 7
+    },
+    {
+      "category": "Cultural event",
+      "word": "concert",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "spring",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "melody",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "enjoy",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "evening",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "live",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "music",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "artistic",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "pm",
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "theatre",
+      "count": 5
+    },
+    {
+      "category": "Cultural event",
+      "word": "room",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "festival",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "campus",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "art",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "celebration",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "feature",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "dance",
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "musical",
+      "count": 4
+    }
+  ],
+  "distinctive": [
+    {
+      "category": "Workshop",
+      "word": "practical",
+      "log_probability_ratio": 3.4202925106670734,
+      "count": 10
+    },
+    {
+      "category": "Workshop",
+      "word": "workshop",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "python",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "practice",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "cod",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "exercise",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "instructor",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "feedback",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "training",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "digital",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "mapping",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "laptop",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "guided",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "activity",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Workshop",
+      "word": "bring",
+      "log_probability_ratio": 1.0223972378687027,
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "seminar",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "climate",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "research",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "speaker",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "present",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "finding",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "follow",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "audience",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "question",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Seminar",
+      "word": "lecture",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "modern",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "astronomy",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "listen",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "researcher",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Seminar",
+      "word": "discus",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "award",
+      "log_probability_ratio": 3.3701446583205703,
+      "count": 10
+    },
+    {
+      "category": "Competition",
+      "word": "competition",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "design",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "challenge",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "team",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "compete",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "prize",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "panel",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "judge",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Competition",
+      "word": "hackathon",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "code",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "cup",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "entry",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "rank",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "winner",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "meeting",
+      "log_probability_ratio": 3.4202925106670734,
+      "count": 10
+    },
+    {
+      "category": "Meeting",
+      "word": "council",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "member",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "discuss",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "agenda",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "vote",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "proposal",
+      "log_probability_ratio": 2.968307386924016,
+      "count": 6
+    },
+    {
+      "category": "Meeting",
+      "word": "planning",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "committee",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "representative",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "suggestion",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "budget",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "discussion",
+      "log_probability_ratio": 2.6318351503028032,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "student",
+      "log_probability_ratio": 1.022397237868703,
+      "count": 8
+    },
+    {
+      "category": "Meeting",
+      "word": "bring",
+      "log_probability_ratio": 1.0223972378687027,
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "performance",
+      "log_probability_ratio": 3.3701446583205703,
+      "count": 10
+    },
+    {
+      "category": "Cultural event",
+      "word": "concert",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "spring",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "melody",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "enjoy",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "evening",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "live",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "music",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "artistic",
+      "log_probability_ratio": 2.918159534577513,
+      "count": 6
+    },
+    {
+      "category": "Cultural event",
+      "word": "festival",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "art",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "celebration",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "feature",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "dance",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    },
+    {
+      "category": "Cultural event",
+      "word": "musical",
+      "log_probability_ratio": 2.5816872979563,
+      "count": 4
+    }
+  ],
+  "collocations": [
+    {
+      "bigram": "budget discussion",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "celebration features",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "code cup",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "digital mapping",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "features dance",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "modern astronomy",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "planning committee",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "receive awards",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "recent discoveries",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "representatives should",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "winners receive",
+      "frequency": 4,
+      "pmi": 8.222794902868111
+    },
+    {
+      "bigram": "date may",
+      "frequency": 5,
+      "pmi": 7.900866807980749
+    },
+    {
+      "bigram": "east auditorium",
+      "frequency": 5,
+      "pmi": 7.900866807980749
+    },
+    {
+      "bigram": "it starts",
+      "frequency": 5,
+      "pmi": 7.900866807980749
+    },
+    {
+      "bigram": "registration closes",
+      "frequency": 5,
+      "pmi": 7.900866807980749
+    },
+    {
+      "bigram": "takes place",
+      "frequency": 5,
+      "pmi": 7.900866807980749
+    },
+    {
+      "bigram": "welcomes all",
+      "frequency": 5,
+      "pmi": 7.900866807980749
+    },
+    {
+      "bigram": "audience questions",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "climate research",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "coding with",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "design challenge",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "findings followed",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "instructor feedback",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "live music",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "practice coding",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "present findings",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "prizes awarded",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "spring melodies",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "student council",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    },
+    {
+      "bigram": "with exercises",
+      "frequency": 6,
+      "pmi": 7.637832402146955
+    }
+  ],
+  "pos": {
+    "Workshop": {
+      "VB": 5,
+      "PRP$": 2,
+      "NN": 39,
+      "NNP": 81,
+      "IN": 37,
+      "CD": 32,
+      ".": 31,
+      "VBG": 10,
+      "NNS": 13,
+      "CC": 6,
+      "PRP": 2,
+      "VBP": 2,
+      "VBN": 6,
+      "TO": 1,
+      "DT": 14,
+      "VBD": 2,
+      "JJ": 14,
+      ":": 10,
+      "MD": 2,
+      "VBZ": 4,
+      "EX": 1
+    },
+    "Seminar": {
+      "VB": 11,
+      "PRP$": 2,
+      "NN": 43,
+      "NNP": 79,
+      "IN": 33,
+      "CD": 32,
+      ".": 31,
+      "DT": 20,
+      "MD": 8,
+      "NNS": 19,
+      "VBN": 16,
+      "PRP": 2,
+      "VBP": 2,
+      "TO": 5,
+      "VBD": 2,
+      "JJ": 10,
+      ":": 10,
+      "VBZ": 4,
+      "EX": 1
+    },
+    "Competition": {
+      "VB": 15,
+      "PRP$": 2,
+      "NN": 29,
+      "NNP": 87,
+      "IN": 45,
+      "CD": 32,
+      ".": 31,
+      "MD": 12,
+      "NNS": 27,
+      "VBN": 16,
+      "DT": 16,
+      "PRP": 2,
+      "VBP": 6,
+      "TO": 1,
+      "VBD": 2,
+      "JJ": 4,
+      ":": 10,
+      "CC": 4,
+      "VBZ": 4,
+      "EX": 1
+    },
+    "Meeting": {
+      "VB": 15,
+      "PRP$": 2,
+      "NN": 43,
+      "JJ": 6,
+      "NNP": 74,
+      "IN": 37,
+      "CD": 33,
+      ".": 31,
+      "NNS": 23,
+      "MD": 12,
+      "DT": 20,
+      "CC": 6,
+      "PRP": 2,
+      "VBP": 2,
+      "VBN": 6,
+      "TO": 1,
+      "VBD": 2,
+      ":": 10,
+      "VBZ": 4,
+      "EX": 1
+    },
+    "Cultural event": {
+      "VB": 5,
+      "PRP$": 2,
+      "NN": 52,
+      "NNP": 70,
+      "IN": 33,
+      "CD": 33,
+      ".": 31,
+      "DT": 20,
+      "JJ": 22,
+      "CC": 10,
+      "NNS": 16,
+      "PRP": 2,
+      "VBP": 4,
+      "VBN": 5,
+      "TO": 1,
+      "VBD": 3,
+      ":": 10,
+      "VBZ": 7,
+      ",": 4,
+      "MD": 2,
+      "EX": 1,
+      "NNPS": 1
+    }
+  },
+  "chunk_patterns": [
+    {
+      "label": "VENUE",
+      "pattern": "NN",
+      "count": 70
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN",
+      "count": 53
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNS",
+      "count": 45
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP NNP",
+      "count": 40
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP NNP",
+      "count": 40
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT NN",
+      "count": 37
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN",
+      "count": 31
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP",
+      "count": 27
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP",
+      "count": 27
+    },
+    {
+      "label": "EVENT",
+      "pattern": "CD NNP CD IN CD NNP",
+      "count": 21
+    },
+    {
+      "label": "VENUE",
+      "pattern": "CD NNP CD IN CD NNP",
+      "count": 21
+    },
+    {
+      "label": "EVENT",
+      "pattern": "CD NNP",
+      "count": 19
+    },
+    {
+      "label": "VENUE",
+      "pattern": "CD NNP",
+      "count": 19
+    },
+    {
+      "label": "VENUE",
+      "pattern": "CD NNP CD",
+      "count": 15
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ",
+      "count": 15
+    },
+    {
+      "label": "EVENT",
+      "pattern": "CD NNP IN NNP NNP",
+      "count": 10
+    },
+    {
+      "label": "VENUE",
+      "pattern": "CD NNP IN NNP NNP",
+      "count": 10
+    },
+    {
+      "label": "EVENT",
+      "pattern": "CD NNP CD",
+      "count": 10
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ NNS",
+      "count": 10
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT JJ NN IN NNP NNP",
+      "count": 8
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ NN IN NNP NNP",
+      "count": 8
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN NN",
+      "count": 6
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NN NN",
+      "count": 6
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ NN",
+      "count": 6
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP NNP NNP NNP",
+      "count": 6
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP NNP NNP NNP",
+      "count": 6
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN NNP NNP NNP NNP",
+      "count": 6
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT NN NNP NNP NNP NNP",
+      "count": 6
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN NNS",
+      "count": 6
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN IN NNS",
+      "count": 6
+    }
+  ]
+}

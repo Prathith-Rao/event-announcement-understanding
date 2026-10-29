@@ -1,0 +1,322 @@
+{
+  "synthetic-workshop-00": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-workshop-01": {
+    "group_id": "g-f3410f89db8a",
+    "split": "validation"
+  },
+  "synthetic-workshop-02": {
+    "group_id": "g-c7a67116e50b",
+    "split": "train"
+  },
+  "synthetic-workshop-03": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-workshop-04": {
+    "group_id": "g-c5efba2eeb11",
+    "split": "train"
+  },
+  "synthetic-workshop-05": {
+    "group_id": "g-d051e8ab400c",
+    "split": "validation"
+  },
+  "synthetic-workshop-06": {
+    "group_id": "g-f62bed617f8d",
+    "split": "train"
+  },
+  "synthetic-workshop-07": {
+    "group_id": "g-7054281b250e",
+    "split": "train"
+  },
+  "synthetic-workshop-08": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-workshop-09": {
+    "group_id": "g-77714b7885c7",
+    "split": "validation"
+  },
+  "synthetic-workshop-10": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-workshop-11": {
+    "group_id": "g-c3154b2ce116",
+    "split": "train"
+  },
+  "synthetic-workshop-12": {
+    "group_id": "g-d173d655348d",
+    "split": "test"
+  },
+  "synthetic-workshop-13": {
+    "group_id": "g-d40a9e15fd42",
+    "split": "test"
+  },
+  "synthetic-workshop-14": {
+    "group_id": "g-8a4e59011d90",
+    "split": "test"
+  },
+  "synthetic-workshop-15": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-seminar-00": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-seminar-01": {
+    "group_id": "g-f3410f89db8a",
+    "split": "validation"
+  },
+  "synthetic-seminar-02": {
+    "group_id": "g-c7a67116e50b",
+    "split": "train"
+  },
+  "synthetic-seminar-03": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-seminar-04": {
+    "group_id": "g-c5efba2eeb11",
+    "split": "train"
+  },
+  "synthetic-seminar-05": {
+    "group_id": "g-d051e8ab400c",
+    "split": "validation"
+  },
+  "synthetic-seminar-06": {
+    "group_id": "g-f62bed617f8d",
+    "split": "train"
+  },
+  "synthetic-seminar-07": {
+    "group_id": "g-7054281b250e",
+    "split": "train"
+  },
+  "synthetic-seminar-08": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-seminar-09": {
+    "group_id": "g-77714b7885c7",
+    "split": "validation"
+  },
+  "synthetic-seminar-10": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-seminar-11": {
+    "group_id": "g-c3154b2ce116",
+    "split": "train"
+  },
+  "synthetic-seminar-12": {
+    "group_id": "g-d173d655348d",
+    "split": "test"
+  },
+  "synthetic-seminar-13": {
+    "group_id": "g-d40a9e15fd42",
+    "split": "test"
+  },
+  "synthetic-seminar-14": {
+    "group_id": "g-8a4e59011d90",
+    "split": "test"
+  },
+  "synthetic-seminar-15": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-competition-00": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-competition-01": {
+    "group_id": "g-f3410f89db8a",
+    "split": "validation"
+  },
+  "synthetic-competition-02": {
+    "group_id": "g-c7a67116e50b",
+    "split": "train"
+  },
+  "synthetic-competition-03": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-competition-04": {
+    "group_id": "g-c5efba2eeb11",
+    "split": "train"
+  },
+  "synthetic-competition-05": {
+    "group_id": "g-d051e8ab400c",
+    "split": "validation"
+  },
+  "synthetic-competition-06": {
+    "group_id": "g-f62bed617f8d",
+    "split": "train"
+  },
+  "synthetic-competition-07": {
+    "group_id": "g-7054281b250e",
+    "split": "train"
+  },
+  "synthetic-competition-08": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-competition-09": {
+    "group_id": "g-77714b7885c7",
+    "split": "validation"
+  },
+  "synthetic-competition-10": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-competition-11": {
+    "group_id": "g-c3154b2ce116",
+    "split": "train"
+  },
+  "synthetic-competition-12": {
+    "group_id": "g-d173d655348d",
+    "split": "test"
+  },
+  "synthetic-competition-13": {
+    "group_id": "g-d40a9e15fd42",
+    "split": "test"
+  },
+  "synthetic-competition-14": {
+    "group_id": "g-8a4e59011d90",
+    "split": "test"
+  },
+  "synthetic-competition-15": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-meeting-00": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-meeting-01": {
+    "group_id": "g-f3410f89db8a",
+    "split": "validation"
+  },
+  "synthetic-meeting-02": {
+    "group_id": "g-c7a67116e50b",
+    "split": "train"
+  },
+  "synthetic-meeting-03": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-meeting-04": {
+    "group_id": "g-c5efba2eeb11",
+    "split": "train"
+  },
+  "synthetic-meeting-05": {
+    "group_id": "g-d051e8ab400c",
+    "split": "validation"
+  },
+  "synthetic-meeting-06": {
+    "group_id": "g-f62bed617f8d",
+    "split": "train"
+  },
+  "synthetic-meeting-07": {
+    "group_id": "g-7054281b250e",
+    "split": "train"
+  },
+  "synthetic-meeting-08": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-meeting-09": {
+    "group_id": "g-77714b7885c7",
+    "split": "validation"
+  },
+  "synthetic-meeting-10": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-meeting-11": {
+    "group_id": "g-c3154b2ce116",
+    "split": "train"
+  },
+  "synthetic-meeting-12": {
+    "group_id": "g-d173d655348d",
+    "split": "test"
+  },
+  "synthetic-meeting-13": {
+    "group_id": "g-d40a9e15fd42",
+    "split": "test"
+  },
+  "synthetic-meeting-14": {
+    "group_id": "g-8a4e59011d90",
+    "split": "test"
+  },
+  "synthetic-meeting-15": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-cultural-00": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-cultural-01": {
+    "group_id": "g-f3410f89db8a",
+    "split": "validation"
+  },
+  "synthetic-cultural-02": {
+    "group_id": "g-c7a67116e50b",
+    "split": "train"
+  },
+  "synthetic-cultural-03": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  },
+  "synthetic-cultural-04": {
+    "group_id": "g-c5efba2eeb11",
+    "split": "train"
+  },
+  "synthetic-cultural-05": {
+    "group_id": "g-d051e8ab400c",
+    "split": "validation"
+  },
+  "synthetic-cultural-06": {
+    "group_id": "g-f62bed617f8d",
+    "split": "train"
+  },
+  "synthetic-cultural-07": {
+    "group_id": "g-7054281b250e",
+    "split": "train"
+  },
+  "synthetic-cultural-08": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-cultural-09": {
+    "group_id": "g-77714b7885c7",
+    "split": "validation"
+  },
+  "synthetic-cultural-10": {
+    "group_id": "g-d3f573382824",
+    "split": "train"
+  },
+  "synthetic-cultural-11": {
+    "group_id": "g-c3154b2ce116",
+    "split": "train"
+  },
+  "synthetic-cultural-12": {
+    "group_id": "g-d173d655348d",
+    "split": "test"
+  },
+  "synthetic-cultural-13": {
+    "group_id": "g-d40a9e15fd42",
+    "split": "test"
+  },
+  "synthetic-cultural-14": {
+    "group_id": "g-8a4e59011d90",
+    "split": "test"
+  },
+  "synthetic-cultural-15": {
+    "group_id": "g-c26a74c61bb7",
+    "split": "train"
+  }
+}

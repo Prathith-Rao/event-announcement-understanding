@@ -1,0 +1,164 @@
+{
+  "version": "expanded_v2",
+  "mode": "expanded_v2",
+  "label_status": "AI-authored synthetic",
+  "provenance": "synthetic",
+  "seed": 42,
+  "created_at": "2026-10-28T15:41:44.550267+00:00",
+  "source_file": "data/expanded_v2/records.jsonl",
+  "source_hash": "58d59f01ff975e1c20f76660ac40df4b3f0a23e061dec6c4c09950217e678b10",
+  "model_sha256": "346ac8fb6873540a1ffc91a2b377e5e860b91850a11f2fec6141b65262c38bb8",
+  "split_sizes": {
+    "train": 7152,
+    "test": 2384,
+    "validation": 2386
+  },
+  "audit": {
+    "group_overlap": 0,
+    "normalized_duplicate_overlap": 0,
+    "groups": 70,
+    "records": 11922,
+    "coverage": {
+      "train": {
+        "Workshop": 360,
+        "Seminar": 360,
+        "Competition": 360,
+        "Meeting": 360,
+        "Cultural event": 360,
+        "Conference": 360,
+        "Webinar": 360,
+        "Hackathon": 360,
+        "Sports event": 360,
+        "Exhibition": 360,
+        "Career event": 360,
+        "Community service": 360,
+        "Social gathering": 360,
+        "Training course": 360,
+        "Product launch": 360,
+        "Academic assessment": 360,
+        "Ceremony": 360,
+        "Tour or excursion": 360,
+        "Other event": 360,
+        "Not an event": 312
+      },
+      "validation": {
+        "Workshop": 120,
+        "Seminar": 120,
+        "Competition": 120,
+        "Meeting": 120,
+        "Cultural event": 120,
+        "Conference": 120,
+        "Webinar": 120,
+        "Hackathon": 120,
+        "Sports event": 120,
+        "Exhibition": 120,
+        "Career event": 120,
+        "Community service": 120,
+        "Social gathering": 120,
+        "Training course": 120,
+        "Product launch": 120,
+        "Academic assessment": 120,
+        "Ceremony": 120,
+        "Tour or excursion": 120,
+        "Other event": 120,
+        "Not an event": 106
+      },
+      "test": {
+        "Workshop": 120,
+        "Seminar": 120,
+        "Competition": 120,
+        "Meeting": 120,
+        "Cultural event": 120,
+        "Conference": 120,
+        "Webinar": 120,
+        "Hackathon": 120,
+        "Sports event": 120,
+        "Exhibition": 120,
+        "Career event": 120,
+        "Community service": 120,
+        "Social gathering": 120,
+        "Training course": 120,
+        "Product launch": 120,
+        "Academic assessment": 120,
+        "Ceremony": 120,
+        "Tour or excursion": 120,
+        "Other event": 120,
+        "Not an event": 104
+      }
+    }
+  },
+  "categories": [
+    "Workshop",
+    "Seminar",
+    "Competition",
+    "Meeting",
+    "Cultural event",
+    "Conference",
+    "Webinar",
+    "Hackathon",
+    "Sports event",
+    "Exhibition",
+    "Career event",
+    "Community service",
+    "Social gathering",
+    "Training course",
+    "Product launch",
+    "Academic assessment",
+    "Ceremony",
+    "Tour or excursion",
+    "Other event",
+    "Not an event"
+  ],
+  "selection": {
+    "raw": {
+      "selected_C": 1.0,
+      "trials": [
+        {
+          "C": 1.0,
+          "macro_f1": 0.932945501243517
+        },
+        {
+          "C": 4.0,
+          "macro_f1": 0.931847614433633
+        }
+      ]
+    },
+    "preprocessed": {
+      "selected_C": 1.0,
+      "trials": [
+        {
+          "C": 1.0,
+          "macro_f1": 0.9307999338212692
+        },
+        {
+          "C": 4.0,
+          "macro_f1": 0.9296656174220577
+        }
+      ]
+    },
+    "word_char": {
+      "selected_C": 4.0,
+      "trials": [
+        {
+          "C": 1.0,
+          "macro_f1": 0.9557661969613264
+        },
+        {
+          "C": 4.0,
+          "macro_f1": 0.9573320861888795
+        }
+      ]
+    }
+  },
+  "default_classifier": "word_char",
+  "nb_vocabulary_size": 622,
+  "sequence_training_records": 4000,
+  "feature_notes": "NB: 1500 train-derived binary POS-aware lemmas. LR: raw/lemmatized word unigrams+bigrams, plus an additional word/character 3\u20135-gram model. CRF: NLTK token/POS, shape and +/-2-token features; 4000 deterministic train-only examples. Select classifiers on validation only. Scores are uncalibrated.",
+  "test_evaluated": true,
+  "versions": {
+    "nltk": "3.10.4",
+    "scikit-learn": "1.9.1",
+    "sklearn-crfsuite": "0.5.0",
+    "python-crfsuite": "0.9.12"
+  }
+}

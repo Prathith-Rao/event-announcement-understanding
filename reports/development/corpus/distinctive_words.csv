@@ -1,0 +1,76 @@
+category,word,log_probability_ratio,count
+Workshop,practical,3.4202925106670734,10
+Workshop,workshop,2.968307386924016,6
+Workshop,python,2.968307386924016,6
+Workshop,practice,2.968307386924016,6
+Workshop,cod,2.968307386924016,6
+Workshop,exercise,2.968307386924016,6
+Workshop,instructor,2.968307386924016,6
+Workshop,feedback,2.968307386924016,6
+Workshop,training,2.6318351503028032,4
+Workshop,digital,2.6318351503028032,4
+Workshop,mapping,2.6318351503028032,4
+Workshop,laptop,2.6318351503028032,4
+Workshop,guided,2.6318351503028032,4
+Workshop,activity,2.6318351503028032,4
+Workshop,bring,1.0223972378687027,4
+Seminar,seminar,2.918159534577513,6
+Seminar,climate,2.918159534577513,6
+Seminar,research,2.918159534577513,6
+Seminar,speaker,2.918159534577513,6
+Seminar,present,2.918159534577513,6
+Seminar,finding,2.918159534577513,6
+Seminar,follow,2.918159534577513,6
+Seminar,audience,2.918159534577513,6
+Seminar,question,2.918159534577513,6
+Seminar,lecture,2.5816872979563,4
+Seminar,modern,2.5816872979563,4
+Seminar,astronomy,2.5816872979563,4
+Seminar,listen,2.5816872979563,4
+Seminar,researcher,2.5816872979563,4
+Seminar,discus,2.5816872979563,4
+Competition,award,3.3701446583205703,10
+Competition,competition,2.918159534577513,6
+Competition,design,2.918159534577513,6
+Competition,challenge,2.918159534577513,6
+Competition,team,2.918159534577513,6
+Competition,compete,2.918159534577513,6
+Competition,prize,2.918159534577513,6
+Competition,panel,2.918159534577513,6
+Competition,judge,2.918159534577513,6
+Competition,hackathon,2.5816872979563,4
+Competition,code,2.5816872979563,4
+Competition,cup,2.5816872979563,4
+Competition,entry,2.5816872979563,4
+Competition,rank,2.5816872979563,4
+Competition,winner,2.5816872979563,4
+Meeting,meeting,3.4202925106670734,10
+Meeting,council,2.968307386924016,6
+Meeting,member,2.968307386924016,6
+Meeting,discuss,2.968307386924016,6
+Meeting,agenda,2.968307386924016,6
+Meeting,vote,2.968307386924016,6
+Meeting,proposal,2.968307386924016,6
+Meeting,planning,2.6318351503028032,4
+Meeting,committee,2.6318351503028032,4
+Meeting,representative,2.6318351503028032,4
+Meeting,suggestion,2.6318351503028032,4
+Meeting,budget,2.6318351503028032,4
+Meeting,discussion,2.6318351503028032,4
+Meeting,student,1.022397237868703,8
+Meeting,bring,1.0223972378687027,4
+Cultural event,performance,3.3701446583205703,10
+Cultural event,concert,2.918159534577513,6
+Cultural event,spring,2.918159534577513,6
+Cultural event,melody,2.918159534577513,6
+Cultural event,enjoy,2.918159534577513,6
+Cultural event,evening,2.918159534577513,6
+Cultural event,live,2.918159534577513,6
+Cultural event,music,2.918159534577513,6
+Cultural event,artistic,2.918159534577513,6
+Cultural event,festival,2.5816872979563,4
+Cultural event,art,2.5816872979563,4
+Cultural event,celebration,2.5816872979563,4
+Cultural event,feature,2.5816872979563,4
+Cultural event,dance,2.5816872979563,4
+Cultural event,musical,2.5816872979563,4

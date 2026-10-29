@@ -1,0 +1,51 @@
+id,category,words,characters
+synthetic-workshop-00,Workshop,26,134
+synthetic-workshop-02,Workshop,37,181
+synthetic-workshop-03,Workshop,29,149
+synthetic-workshop-04,Workshop,37,183
+synthetic-workshop-06,Workshop,33,185
+synthetic-workshop-07,Workshop,32,153
+synthetic-workshop-08,Workshop,31,159
+synthetic-workshop-10,Workshop,29,151
+synthetic-workshop-11,Workshop,32,162
+synthetic-workshop-15,Workshop,28,139
+synthetic-seminar-00,Seminar,28,141
+synthetic-seminar-02,Seminar,39,188
+synthetic-seminar-03,Seminar,30,161
+synthetic-seminar-04,Seminar,39,190
+synthetic-seminar-06,Seminar,35,192
+synthetic-seminar-07,Seminar,33,165
+synthetic-seminar-08,Seminar,33,166
+synthetic-seminar-10,Seminar,31,158
+synthetic-seminar-11,Seminar,33,174
+synthetic-seminar-15,Seminar,29,151
+synthetic-competition-00,Competition,30,141
+synthetic-competition-02,Competition,41,188
+synthetic-competition-03,Competition,31,153
+synthetic-competition-04,Competition,41,190
+synthetic-competition-06,Competition,37,192
+synthetic-competition-07,Competition,34,157
+synthetic-competition-08,Competition,35,166
+synthetic-competition-10,Competition,33,158
+synthetic-competition-11,Competition,34,166
+synthetic-competition-15,Competition,30,143
+synthetic-meeting-00,Meeting,28,131
+synthetic-meeting-02,Meeting,39,178
+synthetic-meeting-03,Meeting,30,171
+synthetic-meeting-04,Meeting,39,180
+synthetic-meeting-06,Meeting,35,182
+synthetic-meeting-07,Meeting,33,175
+synthetic-meeting-08,Meeting,33,156
+synthetic-meeting-10,Meeting,31,148
+synthetic-meeting-11,Meeting,33,184
+synthetic-meeting-15,Meeting,29,161
+synthetic-cultural-00,Cultural event,28,134
+synthetic-cultural-02,Cultural event,39,181
+synthetic-cultural-03,Cultural event,31,163
+synthetic-cultural-04,Cultural event,39,183
+synthetic-cultural-06,Cultural event,35,185
+synthetic-cultural-07,Cultural event,34,167
+synthetic-cultural-08,Cultural event,33,159
+synthetic-cultural-10,Cultural event,31,151
+synthetic-cultural-11,Cultural event,34,176
+synthetic-cultural-15,Cultural event,30,153

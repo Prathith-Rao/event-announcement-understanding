@@ -1,0 +1,103 @@
+category,pos,count
+Workshop,VB,5
+Workshop,PRP$,2
+Workshop,NN,39
+Workshop,NNP,81
+Workshop,IN,37
+Workshop,CD,32
+Workshop,.,31
+Workshop,VBG,10
+Workshop,NNS,13
+Workshop,CC,6
+Workshop,PRP,2
+Workshop,VBP,2
+Workshop,VBN,6
+Workshop,TO,1
+Workshop,DT,14
+Workshop,VBD,2
+Workshop,JJ,14
+Workshop,:,10
+Workshop,MD,2
+Workshop,VBZ,4
+Workshop,EX,1
+Seminar,VB,11
+Seminar,PRP$,2
+Seminar,NN,43
+Seminar,NNP,79
+Seminar,IN,33
+Seminar,CD,32
+Seminar,.,31
+Seminar,DT,20
+Seminar,MD,8
+Seminar,NNS,19
+Seminar,VBN,16
+Seminar,PRP,2
+Seminar,VBP,2
+Seminar,TO,5
+Seminar,VBD,2
+Seminar,JJ,10
+Seminar,:,10
+Seminar,VBZ,4
+Seminar,EX,1
+Competition,VB,15
+Competition,PRP$,2
+Competition,NN,29
+Competition,NNP,87
+Competition,IN,45
+Competition,CD,32
+Competition,.,31
+Competition,MD,12
+Competition,NNS,27
+Competition,VBN,16
+Competition,DT,16
+Competition,PRP,2
+Competition,VBP,6
+Competition,TO,1
+Competition,VBD,2
+Competition,JJ,4
+Competition,:,10
+Competition,CC,4
+Competition,VBZ,4
+Competition,EX,1
+Meeting,VB,15
+Meeting,PRP$,2
+Meeting,NN,43
+Meeting,JJ,6
+Meeting,NNP,74
+Meeting,IN,37
+Meeting,CD,33
+Meeting,.,31
+Meeting,NNS,23
+Meeting,MD,12
+Meeting,DT,20
+Meeting,CC,6
+Meeting,PRP,2
+Meeting,VBP,2
+Meeting,VBN,6
+Meeting,TO,1
+Meeting,VBD,2
+Meeting,:,10
+Meeting,VBZ,4
+Meeting,EX,1
+Cultural event,VB,5
+Cultural event,PRP$,2
+Cultural event,NN,52
+Cultural event,NNP,70
+Cultural event,IN,33
+Cultural event,CD,33
+Cultural event,.,31
+Cultural event,DT,20
+Cultural event,JJ,22
+Cultural event,CC,10
+Cultural event,NNS,16
+Cultural event,PRP,2
+Cultural event,VBP,4
+Cultural event,VBN,5
+Cultural event,TO,1
+Cultural event,VBD,3
+Cultural event,:,10
+Cultural event,VBZ,7
+Cultural event,",",4
+Cultural event,MD,2
+Cultural event,EX,1
+Cultural event,NNPS,1

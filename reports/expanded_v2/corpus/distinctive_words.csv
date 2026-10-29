@@ -1,0 +1,301 @@
+category,word,log_probability_ratio,count
+Workshop,something,7.788455369800398,132
+Workshop,instructor,7.788455369800398,132
+Workshop,small,7.66879086604431,117
+Workshop,laptop,7.616605112873739,111
+Workshop,exercise,7.616605112873739,111
+Workshop,individual,7.616605112873739,111
+Workshop,practice,7.616605112873739,111
+Workshop,storytelling,6.659306357272207,42
+Workshop,electronics,6.6357758598620125,41
+Workshop,thinking,6.265402071565118,57
+Workshop,lab,6.163865652345695,130
+Workshop,workshop,6.033600457507794,68
+Workshop,watercolour,5.893838515132636,59
+Workshop,basic,5.893838515132636,59
+Workshop,robotics,5.769785866462656,52
+Seminar,finding,7.644524740125284,125
+Seminar,listen,7.595734575955852,119
+Seminar,recent,7.595734575955852,119
+Seminar,scholarly,7.056738075223166,69
+Seminar,invited,6.902587395395907,179
+Seminar,ocean,6.868685843720225,57
+Seminar,climate,6.720265838601953,49
+Seminar,frontier,6.720265838601953,49
+Seminar,modern,6.679443844081697,47
+Seminar,biology,6.679443844081697,47
+Seminar,seminar,6.471804479303453,77
+Seminar,talk,6.225969516787172,60
+Seminar,quantum,6.066339371195288,51
+Seminar,urban,6.027118658042007,49
+Seminar,method,5.621653549933843,49
+Competition,judge,8.397842771082232,260
+Competition,winner,7.70851968696069,130
+Competition,select,7.70851968696069,130
+Competition,use,7.70851968696069,130
+Competition,publish,7.70851968696069,130
+Competition,criterion,7.70851968696069,130
+Competition,contestant,7.6124458568710685,118
+Competition,judging,7.6124458568710685,118
+Competition,entry,7.56071018247188,112
+Competition,prize,6.816114440075892,160
+Competition,competition,6.559015790996192,82
+Competition,competitive,6.3596828883757,67
+Competition,intercollege,6.31456245309523,64
+Competition,quiz,6.31456245309523,64
+Competition,math,6.234519745421694,59
+Meeting,discuss,8.294590810667424,235
+Meeting,update,7.7724014282511185,139
+Meeting,proposal,7.7724014282511185,139
+Meeting,representative,7.667040912593292,125
+Meeting,vote,7.667040912593292,125
+Meeting,propose,7.667040912593292,125
+Meeting,assign,7.667040912593292,125
+Meeting,responsibility,7.667040912593292,125
+Meeting,member,7.4054699841451965,96
+Meeting,agenda,7.4054699841451965,96
+Meeting,progress,7.4054699841451965,96
+Meeting,decide,7.4054699841451965,96
+Meeting,step,7.4054699841451965,96
+Meeting,budget,7.330568675972079,179
+Meeting,committee,7.261575804485127,83
+Cultural event,artistic,7.6963858002339185,126
+Cultural event,culture,7.6963858002339185,126
+Cultural event,performer,7.688480620726805,125
+Cultural event,entertain,7.688480620726805,125
+Cultural event,performance,7.525027548237233,320
+Cultural event,dance,7.026585983670964,194
+Cultural event,stage,6.901080901920671,171
+Cultural event,music,6.871580237523973,166
+Cultural event,ragas,6.680840110264422,45
+Cultural event,show,6.463116626419551,73
+Cultural event,musical,6.202102801049932,56
+Cultural event,cultural,6.0576515183113875,73
+Cultural event,festival,6.0576515183113875,73
+Cultural event,rhythm,6.030252544123273,47
+Cultural event,night,6.030252544123273,47
+Conference,delegate,8.239400335698262,234
+Conference,institution,7.624001908012694,126
+Conference,paper,7.624001908012694,126
+Conference,across,7.624001908012694,126
+Conference,multiple,7.624001908012694,126
+Conference,track,7.624001908012694,126
+Conference,parallel,7.461946048678323,107
+Conference,keynote,7.461946048678323,107
+Conference,industry,6.656210649339098,192
+Conference,international,6.404155754530468,74
+Conference,system,6.320774145591417,68
+Conference,symposium,6.245550724353829,63
+Conference,conference,6.112019331729307,83
+Conference,society,6.112019331729307,55
+Conference,sustainability,5.9784879391047845,48
+Webinar,presenter,7.677654621505014,133
+Webinar,slide,7.677654621505014,133
+Webinar,remotely,7.677654621505014,133
+Webinar,link,7.5334050126604675,115
+Webinar,send,7.5334050126604675,115
+Webinar,register,7.5334050126604675,115
+Webinar,broadcast,7.507202640266444,112
+Webinar,submit,7.507202640266444,112
+Webinar,chat,7.507202640266444,112
+Webinar,joining,7.4802951873465195,109
+Webinar,online,7.396913578407468,505
+Webinar,virtual,6.417400981280489,75
+Webinar,webinar,6.291360260385123,66
+Webinar,brief,6.112019331729307,27
+Webinar,webcast,5.998690646422304,74
+Hackathon,hour,7.679182534065383,128
+Hackathon,working,7.679182534065383,128
+Hackathon,software,7.679182534065383,128
+Hackathon,timed,7.663557216162302,126
+Hackathon,developer,7.492198964165618,106
+Hackathon,overnight,7.492198964165618,106
+Hackathon,pitch,7.492198964165618,106
+Hackathon,mentor,7.492198964165618,106
+Hackathon,prototype,7.3573315659983525,186
+Hackathon,coding,7.193028514707076,237
+Hackathon,code,7.123435222907881,147
+Hackathon,codeathon,7.109829570852102,72
+Hackathon,hackathon,7.009024871730137,65
+Hackathon,hack,6.844721820438861,55
+Hackathon,byte,6.808354176267986,53
+Sports event,player,7.751180090003911,129
+Sports event,spectator,7.751180090003911,129
+Sports event,cheer,7.654330264013993,117
+Sports event,sporting,7.654330264013993,117
+Sports event,fixture,7.654330264013993,117
+Sports event,athlete,7.628577767911578,114
+Sports event,early,7.628577767911578,114
+Sports event,referee,7.628577767911578,114
+Sports event,victory,6.994519503721639,60
+Sports event,series,6.994519503721639,60
+Sports event,football,6.795668644976474,49
+Sports event,match,6.795668644976474,49
+Sports event,cricket,6.424604963585642,68
+Sports event,tournament,6.259525213226193,116
+Sports event,basketball,6.102521464416529,49
+Exhibition,browse,7.7256750619022005,131
+Exhibition,installation,7.7256750619022005,131
+Exhibition,photograph,7.7256750619022005,131
+Exhibition,exhibitor,7.630364882097876,119
+Exhibition,visitor,7.552403340628164,110
+Exhibition,view,7.552403340628164,110
+Exhibition,exhibited,7.552403340628164,110
+Exhibition,object,7.386167921585834,187
+Exhibition,showcase,7.133332580464221,72
+Exhibition,display,6.939991628420656,360
+Exhibition,expo,6.920410583221549,58
+Exhibition,opening,6.3692336639319915,67
+Exhibition,gallery,6.308609042115556,127
+Exhibition,exhibition,5.945215147928079,88
+Exhibition,perspective,5.7332448972119945,53
+Career event,network,7.792066963780999,150
+Career event,recruiter,7.751520869386649,144
+Career event,updated,7.751520869386649,144
+Career event,resume,7.751520869386649,144
+Career event,employer,7.524057656927923,230
+Career event,manager,7.502174945678415,112
+Career event,vacancy,7.502174945678415,112
+Career event,speak,7.428747477123598,104
+Career event,internship,7.428747477123598,104
+Career event,position,7.428747477123598,104
+Career event,job,7.1142541472211605,229
+Career event,fair,6.79416865071472,166
+Career event,opportunity,6.640766193892814,190
+Career event,networking,6.438348773095721,38
+Career event,recruitment,6.240523029765801,63
+Community service,resident,7.668100779967358,131
+Community service,benefit,7.668100779967358,131
+Community service,people,7.668100779967358,131
+Community service,need,7.668100779967358,131
+Community service,cause,7.605580422986025,123
+Community service,support,7.458127691842893,106
+Community service,volunteer,7.328593639650991,281
+Community service,donation,7.279537482661797,178
+Community service,cleanup,7.102786970917298,74
+Community service,rescue,6.862836301286707,58
+Community service,hand,6.402950802206556,148
+Community service,blood,6.382611117969433,72
+Community service,camp,6.382611117969433,72
+Community service,volunteering,6.043395395402469,25
+Community service,environmental,6.017419908999209,75
+Social gathering,dish,7.72321871009094,132
+Social gathering,catch,7.72321871009094,132
+Social gathering,along,7.586459772975551,115
+Social gathering,informal,7.586459772975551,115
+Social gathering,conversation,7.586459772975551,115
+Social gathering,food,7.586459772975551,115
+Social gathering,relax,7.569068030263682,113
+Social gathering,celebrate,7.569068030263682,113
+Social gathering,family,7.349208554150662,182
+Social gathering,friend,7.059703327137366,273
+Social gathering,picnic,6.9188458944207705,118
+Social gathering,social,6.538278337934333,121
+Social gathering,party,6.457210514845552,74
+Social gathering,birthday,6.274888958051597,124
+Social gathering,reunion,6.156105422061629,110
+Training course,complete,8.256014161572136,242
+Training course,structured,8.009976790392074,189
+Training course,learner,7.575137073604005,122
+Training course,curriculum,7.575137073604005,122
+Training course,enrol,7.558743263828329,120
+Training course,module,7.558743263828329,120
+Training course,assignment,7.558743263828329,120
+Training course,include,7.542076211343117,118
+Training course,lesson,7.542076211343117,118
+Training course,completion,7.542076211343117,118
+Training course,certificate,7.181793326028186,165
+Training course,certification,7.093686058517919,227
+Training course,cloud,6.751936764795863,53
+Training course,foundation,6.751936764795863,53
+Training course,course,6.69869225027705,255
+Product launch,launch,7.72853373639641,139
+Product launch,unveil,7.721365246917798,138
+Product launch,product,7.695862954106861,270
+Product launch,feature,7.677240442008859,132
+Product launch,company,7.549065248584862,116
+Product launch,introduce,7.549065248584862,116
+Product launch,late,7.549065248584862,116
+Product launch,offering,7.549065248584862,116
+Product launch,customer,7.549065248584862,116
+Product launch,press,7.549065248584862,116
+Product launch,among,7.514279132499446,112
+Product launch,demonstration,7.514279132499446,112
+Product launch,smart,6.812243004522255,55
+Product launch,release,6.645513542488136,236
+Product launch,debut,6.384203574375552,72
+Academic assessment,must,7.745714626894447,134
+Academic assessment,id,7.745714626894447,134
+Academic assessment,prepare,7.652624203828435,122
+Academic assessment,evaluate,7.4944001986135405,104
+Academic assessment,examiner,7.4944001986135405,104
+Academic assessment,material,7.4944001986135405,104
+Academic assessment,permit,7.4944001986135405,104
+Academic assessment,evaluation,7.2224664831298995,159
+Academic assessment,viva,6.6093620102434905,129
+Academic assessment,thesis,6.529319302569954,79
+Academic assessment,defense,6.529319302569954,79
+Academic assessment,defence,6.1175845814481935,52
+Academic assessment,algorithm,6.079118300620398,50
+Academic assessment,examination,6.043186291394334,122
+Academic assessment,semester,5.784878827622458,37
+Ceremony,proceeding,8.367895758490803,251
+Ceremony,formal,8.22296173376847,217
+Ceremony,seat,7.808279970555382,143
+Ceremony,procession,7.808279970555382,143
+Ceremony,official,7.808279970555382,143
+Ceremony,dignitary,7.538947036771797,109
+Ceremony,preside,7.538947036771797,109
+Ceremony,congratulate,7.538947036771797,109
+Ceremony,recipient,7.538947036771797,109
+Ceremony,witness,7.529814553208524,108
+Ceremony,honour,7.1357520771981715,146
+Ceremony,ceremony,6.9696252063241975,248
+Ceremony,felicitation,6.527346125093317,79
+Ceremony,graduation,6.319706760315072,64
+Ceremony,convocation,6.158694990107869,82
+Tour or excursion,depart,7.672405500686584,124
+Tour or excursion,educational,7.672405500686584,124
+Tour or excursion,travel,7.6562761187567006,122
+Tour or excursion,location,7.6562761187567006,122
+Tour or excursion,wear,7.589023891747533,114
+Tour or excursion,comfortable,7.589023891747533,114
+Tour or excursion,shoe,7.589023891747533,114
+Tour or excursion,outdoor,7.589023891747533,114
+Tour or excursion,exploration,7.589023891747533,114
+Tour or excursion,trip,7.3713004079026625,184
+Tour or excursion,tour,6.4276107018403925,71
+Tour or excursion,heritage,6.228482026730057,117
+Tour or excursion,historic,6.158277768056808,54
+Tour or excursion,trail,6.158277768056808,54
+Tour or excursion,excursion,6.152198721980426,81
+Other event,organize,7.990610318196702,176
+Other event,drop,7.568050776729238,115
+Other event,door,6.528032652327181,40
+Other event,special,6.280196488422599,63
+Other event,connection,5.776291307501182,57
+Other event,organized,5.7588995647893135,18
+Other event,gathering,3.816446038601911,206
+Other event,public,3.0250859185796797,257
+Other event,forum,2.9799750241004466,58
+Other event,scheduled,2.869810680706038,129
+Other event,event,2.6656718489370004,186
+Other event,explore,2.5913170343086636,115
+Other event,gather,2.4089954775147087,1
+Other event,day,2.3036349618568823,152
+Other event,invite,2.0765555044214343,141
+Not an event,mean,7.859237438585662,54
+Not an event,definition,7.859237438585662,54
+Not an event,homework,7.840888299917466,53
+Not an event,website,7.8221961669053135,52
+Not an event,section,7.8221961669053135,52
+Not an event,contains,7.803147971934619,51
+Not an event,book,7.803147971934619,51
+Not an event,read,7.803147971934619,51
+Not an event,difference,7.803147971934619,51
+Not an event,article,7.803147971934619,51
+Not an event,describe,7.803147971934619,51
+Not an event,become,7.803147971934619,51
+Not an event,popular,7.803147971934619,51
+Not an event,relate,7.783729886077517,50
+Not an event,machine,5.238198614473082,3

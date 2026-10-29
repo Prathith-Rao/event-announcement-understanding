@@ -1,0 +1,13 @@
+.venv/
+nltk_data/
+__pycache__/
+.pytest_cache/
+node_modules/
+frontend/dist/
+*.log
+tmp/
+
+archive/
+output/
+*.zip
+*.pdf

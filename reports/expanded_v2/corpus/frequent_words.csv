@@ -1,0 +1,401 @@
+category,word,count
+Workshop,practical,194
+Workshop,guided,176
+Workshop,participant,161
+Workshop,pm,143
+Workshop,session,133
+Workshop,build,132
+Workshop,something,132
+Workshop,help,132
+Workshop,instructor,132
+Workshop,lab,130
+Workshop,work,117
+Workshop,activity,117
+Workshop,small,117
+Workshop,group,117
+Workshop,bring,111
+Workshop,laptop,111
+Workshop,exercise,111
+Workshop,individual,111
+Workshop,practice,111
+Workshop,schedule,104
+Seminar,speaker,241
+Seminar,audience,241
+Seminar,question,241
+Seminar,discussion,188
+Seminar,invited,179
+Seminar,pm,136
+Seminar,present,133
+Seminar,take,133
+Seminar,finding,125
+Seminar,answer,125
+Seminar,listen,119
+Seminar,researcher,119
+Seminar,explain,119
+Seminar,recent,119
+Seminar,discovery,119
+Seminar,follow,119
+Seminar,share,116
+Seminar,insight,116
+Seminar,research,109
+Seminar,schedule,107
+Competition,judge,260
+Competition,prize,160
+Competition,contest,147
+Competition,place,140
+Competition,pm,138
+Competition,winner,130
+Competition,select,130
+Competition,use,130
+Competition,publish,130
+Competition,criterion,130
+Competition,challenge,120
+Competition,contestant,118
+Competition,compete,118
+Competition,first,118
+Competition,award,118
+Competition,judging,118
+Competition,panel,118
+Competition,schedule,115
+Competition,team,115
+Competition,entry,112
+Meeting,discuss,235
+Meeting,review,197
+Meeting,group,185
+Meeting,budget,179
+Meeting,please,149
+Meeting,discussion,148
+Meeting,bring,139
+Meeting,update,139
+Meeting,proposal,139
+Meeting,next,135
+Meeting,pm,128
+Meeting,representative,125
+Meeting,vote,125
+Meeting,propose,125
+Meeting,assign,125
+Meeting,responsibility,125
+Meeting,planning,108
+Meeting,schedule,107
+Meeting,member,96
+Meeting,agenda,96
+Cultural event,performance,320
+Cultural event,evening,219
+Cultural event,dance,194
+Cultural event,stage,171
+Cultural event,music,166
+Cultural event,take,144
+Cultural event,pm,141
+Cultural event,bring,126
+Cultural event,artistic,126
+Cultural event,celebration,126
+Cultural event,culture,126
+Cultural event,performer,125
+Cultural event,entertain,125
+Cultural event,audience,125
+Cultural event,schedule,117
+Cultural event,enjoy,109
+Cultural event,live,109
+Cultural event,local,109
+Cultural event,artist,109
+Cultural event,theatre,87
+Conference,delegate,234
+Conference,panel,234
+Conference,industry,192
+Conference,summit,176
+Conference,programme,138
+Conference,present,138
+Conference,bring,127
+Conference,together,127
+Conference,speaker,127
+Conference,researcher,126
+Conference,several,126
+Conference,institution,126
+Conference,paper,126
+Conference,across,126
+Conference,multiple,126
+Conference,track,126
+Conference,attend,123
+Conference,pm,111
+Conference,schedule,110
+Conference,parallel,107
+Webinar,online,505
+Webinar,via,278
+Webinar,question,245
+Webinar,live,188
+Webinar,take,153
+Webinar,participant,143
+Webinar,presenter,133
+Webinar,share,133
+Webinar,slide,133
+Webinar,remotely,133
+Webinar,audience,133
+Webinar,join,131
+Webinar,pm,121
+Webinar,link,115
+Webinar,send,115
+Webinar,register,115
+Webinar,broadcast,112
+Webinar,submit,112
+Webinar,chat,112
+Webinar,schedule,111
+Hackathon,build,304
+Hackathon,team,258
+Hackathon,coding,237
+Hackathon,challenge,195
+Hackathon,prototype,186
+Hackathon,code,147
+Hackathon,pm,142
+Hackathon,sprint,129
+Hackathon,hour,128
+Hackathon,demonstrate,128
+Hackathon,working,128
+Hackathon,software,128
+Hackathon,app,126
+Hackathon,timed,126
+Hackathon,developer,106
+Hackathon,together,106
+Hackathon,overnight,106
+Hackathon,pitch,106
+Hackathon,project,106
+Hackathon,mentor,106
+Sports event,team,260
+Sports event,compete,246
+Sports event,welcome,158
+Sports event,player,129
+Sports event,spectator,129
+Sports event,field,129
+Sports event,pm,120
+Sports event,cheer,117
+Sports event,sporting,117
+Sports event,fixture,117
+Sports event,tournament,116
+Sports event,athlete,114
+Sports event,arrive,114
+Sports event,early,114
+Sports event,referee,114
+Sports event,briefing,114
+Sports event,schedule,102
+Sports event,game,96
+Sports event,athletics,87
+Sports event,run,85
+Exhibition,display,360
+Exhibition,work,229
+Exhibition,public,203
+Exhibition,object,187
+Exhibition,browse,131
+Exhibition,installation,131
+Exhibition,photograph,131
+Exhibition,pm,129
+Exhibition,gallery,127
+Exhibition,artist,119
+Exhibition,exhibitor,119
+Exhibition,explain,119
+Exhibition,visit,119
+Exhibition,audience,119
+Exhibition,visitor,110
+Exhibition,walk,110
+Exhibition,view,110
+Exhibition,exhibited,110
+Exhibition,schedule,105
+Exhibition,science,101
+Career event,employer,230
+Career event,job,229
+Career event,opportunity,190
+Career event,fair,166
+Career event,meet,162
+Career event,hiring,157
+Career event,network,150
+Career event,recruiter,144
+Career event,explore,144
+Career event,bring,144
+Career event,updated,144
+Career event,resume,144
+Career event,pm,141
+Career event,career,132
+Career event,open,125
+Career event,student,112
+Career event,manager,112
+Career event,apply,112
+Career event,vacancy,112
+Career event,schedule,106
+Community service,community,359
+Community service,volunteer,281
+Community service,donation,178
+Community service,hand,148
+Community service,join,147
+Community service,welcome,134
+Community service,resident,131
+Community service,service,131
+Community service,activity,131
+Community service,benefit,131
+Community service,people,131
+Community service,need,131
+Community service,pm,128
+Community service,bring,123
+Community service,together,123
+Community service,cause,123
+Community service,schedule,117
+Community service,help,115
+Community service,river,111
+Community service,support,106
+Social gathering,friend,273
+Social gathering,family,182
+Social gathering,together,162
+Social gathering,time,151
+Social gathering,everyone,149
+Social gathering,pm,143
+Social gathering,come,133
+Social gathering,bring,132
+Social gathering,dish,132
+Social gathering,share,132
+Social gathering,enjoy,132
+Social gathering,catch,132
+Social gathering,birthday,124
+Social gathering,invite,123
+Social gathering,social,121
+Social gathering,picnic,118
+Social gathering,schedule,115
+Social gathering,along,115
+Social gathering,informal,115
+Social gathering,conversation,115
+Training course,programme,277
+Training course,course,255
+Training course,complete,242
+Training course,certification,227
+Training course,structured,189
+Training course,certificate,165
+Training course,pm,144
+Training course,training,141
+Training course,learner,122
+Training course,curriculum,122
+Training course,several,122
+Training course,session,122
+Training course,receive,122
+Training course,enrol,120
+Training course,follow,120
+Training course,module,120
+Training course,practical,120
+Training course,assignment,120
+Training course,include,118
+Training course,lesson,118
+Product launch,new,326
+Product launch,product,270
+Product launch,release,236
+Product launch,launch,139
+Product launch,unveil,138
+Product launch,pm,137
+Product launch,team,135
+Product launch,demonstrate,132
+Product launch,feature,132
+Product launch,answer,132
+Product launch,question,132
+Product launch,see,123
+Product launch,schedule,116
+Product launch,company,116
+Product launch,introduce,116
+Product launch,late,116
+Product launch,offering,116
+Product launch,customer,116
+Product launch,press,116
+Product launch,among,112
+Academic assessment,assessment,265
+Academic assessment,student,238
+Academic assessment,evaluation,159
+Academic assessment,must,134
+Academic assessment,bring,134
+Academic assessment,id,134
+Academic assessment,arrive,134
+Academic assessment,begin,134
+Academic assessment,candidate,133
+Academic assessment,viva,129
+Academic assessment,pm,123
+Academic assessment,examination,122
+Academic assessment,prepare,122
+Academic assessment,answer,122
+Academic assessment,presentation,122
+Academic assessment,academic,122
+Academic assessment,practical,122
+Academic assessment,schedule,119
+Academic assessment,evaluate,104
+Academic assessment,examiner,104
+Ceremony,proceeding,251
+Ceremony,ceremony,248
+Ceremony,formal,217
+Ceremony,take,162
+Ceremony,please,152
+Ceremony,honour,146
+Ceremony,seat,143
+Ceremony,procession,143
+Ceremony,official,143
+Ceremony,begin,143
+Ceremony,pm,116
+Ceremony,award,114
+Ceremony,schedule,114
+Ceremony,dignitary,109
+Ceremony,preside,109
+Ceremony,congratulate,109
+Ceremony,recipient,109
+Ceremony,guest,108
+Ceremony,witness,108
+Ceremony,presentation,108
+Tour or excursion,visit,316
+Tour or excursion,together,246
+Tour or excursion,trip,184
+Tour or excursion,guided,173
+Tour or excursion,participant,150
+Tour or excursion,pm,140
+Tour or excursion,guide,134
+Tour or excursion,group,124
+Tour or excursion,depart,124
+Tour or excursion,educational,124
+Tour or excursion,travel,122
+Tour or excursion,scheduled,122
+Tour or excursion,location,122
+Tour or excursion,heritage,117
+Tour or excursion,wear,114
+Tour or excursion,comfortable,114
+Tour or excursion,shoe,114
+Tour or excursion,outdoor,114
+Tour or excursion,exploration,114
+Tour or excursion,schedule,107
+Other event,organizer,314
+Other event,public,257
+Other event,meet,246
+Other event,gathering,206
+Other event,welcome,200
+Other event,programme,189
+Other event,event,186
+Other event,organize,176
+Other event,day,152
+Other event,participant,149
+Other event,open,148
+Other event,join,143
+Other event,invite,141
+Other event,everyone,140
+Other event,host,137
+Other event,attend,136
+Other event,scheduled,129
+Other event,pm,125
+Other event,drop,115
+Other event,explore,115
+Not an event,mean,54
+Not an event,please,54
+Not an event,give,54
+Not an event,definition,54
+Not an event,study,53
+Not an event,homework,53
+Not an event,invitation,53
+Not an event,idea,52
+Not an event,website,52
+Not an event,section,52
+Not an event,date,52
+Not an event,announce,52
+Not an event,library,51
+Not an event,contains,51
+Not an event,several,51
+Not an event,book,51
+Not an event,enjoy,51
+Not an event,read,51
+Not an event,home,51
+Not an event,explain,51

@@ -1,0 +1,4754 @@
+{
+  "partition": "train_only",
+  "mode": "expanded_v2",
+  "records": 7152,
+  "class_counts": {
+    "Workshop": 360,
+    "Seminar": 360,
+    "Competition": 360,
+    "Meeting": 360,
+    "Cultural event": 360,
+    "Conference": 360,
+    "Webinar": 360,
+    "Hackathon": 360,
+    "Sports event": 360,
+    "Exhibition": 360,
+    "Career event": 360,
+    "Community service": 360,
+    "Social gathering": 360,
+    "Training course": 360,
+    "Product launch": 360,
+    "Academic assessment": 360,
+    "Ceremony": 360,
+    "Tour or excursion": 360,
+    "Other event": 360,
+    "Not an event": 312
+  },
+  "raw_tokens": 238424,
+  "raw_vocabulary": 2297,
+  "preprocessed_tokens": 125021,
+  "preprocessed_vocabulary": 622,
+  "collocation_min_frequency": 2,
+  "collocation_statistic": "PMI within sentences; no cross-sentence pairs",
+  "frequent": [
+    {
+      "category": "Workshop",
+      "word": "practical",
+      "count": 194
+    },
+    {
+      "category": "Workshop",
+      "word": "guided",
+      "count": 176
+    },
+    {
+      "category": "Workshop",
+      "word": "participant",
+      "count": 161
+    },
+    {
+      "category": "Workshop",
+      "word": "pm",
+      "count": 143
+    },
+    {
+      "category": "Workshop",
+      "word": "session",
+      "count": 133
+    },
+    {
+      "category": "Workshop",
+      "word": "build",
+      "count": 132
+    },
+    {
+      "category": "Workshop",
+      "word": "something",
+      "count": 132
+    },
+    {
+      "category": "Workshop",
+      "word": "help",
+      "count": 132
+    },
+    {
+      "category": "Workshop",
+      "word": "instructor",
+      "count": 132
+    },
+    {
+      "category": "Workshop",
+      "word": "lab",
+      "count": 130
+    },
+    {
+      "category": "Workshop",
+      "word": "work",
+      "count": 117
+    },
+    {
+      "category": "Workshop",
+      "word": "activity",
+      "count": 117
+    },
+    {
+      "category": "Workshop",
+      "word": "small",
+      "count": 117
+    },
+    {
+      "category": "Workshop",
+      "word": "group",
+      "count": 117
+    },
+    {
+      "category": "Workshop",
+      "word": "bring",
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "laptop",
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "exercise",
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "individual",
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "practice",
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "schedule",
+      "count": 104
+    },
+    {
+      "category": "Seminar",
+      "word": "speaker",
+      "count": 241
+    },
+    {
+      "category": "Seminar",
+      "word": "audience",
+      "count": 241
+    },
+    {
+      "category": "Seminar",
+      "word": "question",
+      "count": 241
+    },
+    {
+      "category": "Seminar",
+      "word": "discussion",
+      "count": 188
+    },
+    {
+      "category": "Seminar",
+      "word": "invited",
+      "count": 179
+    },
+    {
+      "category": "Seminar",
+      "word": "pm",
+      "count": 136
+    },
+    {
+      "category": "Seminar",
+      "word": "present",
+      "count": 133
+    },
+    {
+      "category": "Seminar",
+      "word": "take",
+      "count": 133
+    },
+    {
+      "category": "Seminar",
+      "word": "finding",
+      "count": 125
+    },
+    {
+      "category": "Seminar",
+      "word": "answer",
+      "count": 125
+    },
+    {
+      "category": "Seminar",
+      "word": "listen",
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "researcher",
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "explain",
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "recent",
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "discovery",
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "follow",
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "share",
+      "count": 116
+    },
+    {
+      "category": "Seminar",
+      "word": "insight",
+      "count": 116
+    },
+    {
+      "category": "Seminar",
+      "word": "research",
+      "count": 109
+    },
+    {
+      "category": "Seminar",
+      "word": "schedule",
+      "count": 107
+    },
+    {
+      "category": "Competition",
+      "word": "judge",
+      "count": 260
+    },
+    {
+      "category": "Competition",
+      "word": "prize",
+      "count": 160
+    },
+    {
+      "category": "Competition",
+      "word": "contest",
+      "count": 147
+    },
+    {
+      "category": "Competition",
+      "word": "place",
+      "count": 140
+    },
+    {
+      "category": "Competition",
+      "word": "pm",
+      "count": 138
+    },
+    {
+      "category": "Competition",
+      "word": "winner",
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "select",
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "use",
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "publish",
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "criterion",
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "challenge",
+      "count": 120
+    },
+    {
+      "category": "Competition",
+      "word": "contestant",
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "compete",
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "first",
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "award",
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "judging",
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "panel",
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "schedule",
+      "count": 115
+    },
+    {
+      "category": "Competition",
+      "word": "team",
+      "count": 115
+    },
+    {
+      "category": "Competition",
+      "word": "entry",
+      "count": 112
+    },
+    {
+      "category": "Meeting",
+      "word": "discuss",
+      "count": 235
+    },
+    {
+      "category": "Meeting",
+      "word": "review",
+      "count": 197
+    },
+    {
+      "category": "Meeting",
+      "word": "group",
+      "count": 185
+    },
+    {
+      "category": "Meeting",
+      "word": "budget",
+      "count": 179
+    },
+    {
+      "category": "Meeting",
+      "word": "please",
+      "count": 149
+    },
+    {
+      "category": "Meeting",
+      "word": "discussion",
+      "count": 148
+    },
+    {
+      "category": "Meeting",
+      "word": "bring",
+      "count": 139
+    },
+    {
+      "category": "Meeting",
+      "word": "update",
+      "count": 139
+    },
+    {
+      "category": "Meeting",
+      "word": "proposal",
+      "count": 139
+    },
+    {
+      "category": "Meeting",
+      "word": "next",
+      "count": 135
+    },
+    {
+      "category": "Meeting",
+      "word": "pm",
+      "count": 128
+    },
+    {
+      "category": "Meeting",
+      "word": "representative",
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "vote",
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "propose",
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "assign",
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "responsibility",
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "planning",
+      "count": 108
+    },
+    {
+      "category": "Meeting",
+      "word": "schedule",
+      "count": 107
+    },
+    {
+      "category": "Meeting",
+      "word": "member",
+      "count": 96
+    },
+    {
+      "category": "Meeting",
+      "word": "agenda",
+      "count": 96
+    },
+    {
+      "category": "Cultural event",
+      "word": "performance",
+      "count": 320
+    },
+    {
+      "category": "Cultural event",
+      "word": "evening",
+      "count": 219
+    },
+    {
+      "category": "Cultural event",
+      "word": "dance",
+      "count": 194
+    },
+    {
+      "category": "Cultural event",
+      "word": "stage",
+      "count": 171
+    },
+    {
+      "category": "Cultural event",
+      "word": "music",
+      "count": 166
+    },
+    {
+      "category": "Cultural event",
+      "word": "take",
+      "count": 144
+    },
+    {
+      "category": "Cultural event",
+      "word": "pm",
+      "count": 141
+    },
+    {
+      "category": "Cultural event",
+      "word": "bring",
+      "count": 126
+    },
+    {
+      "category": "Cultural event",
+      "word": "artistic",
+      "count": 126
+    },
+    {
+      "category": "Cultural event",
+      "word": "celebration",
+      "count": 126
+    },
+    {
+      "category": "Cultural event",
+      "word": "culture",
+      "count": 126
+    },
+    {
+      "category": "Cultural event",
+      "word": "performer",
+      "count": 125
+    },
+    {
+      "category": "Cultural event",
+      "word": "entertain",
+      "count": 125
+    },
+    {
+      "category": "Cultural event",
+      "word": "audience",
+      "count": 125
+    },
+    {
+      "category": "Cultural event",
+      "word": "schedule",
+      "count": 117
+    },
+    {
+      "category": "Cultural event",
+      "word": "enjoy",
+      "count": 109
+    },
+    {
+      "category": "Cultural event",
+      "word": "live",
+      "count": 109
+    },
+    {
+      "category": "Cultural event",
+      "word": "local",
+      "count": 109
+    },
+    {
+      "category": "Cultural event",
+      "word": "artist",
+      "count": 109
+    },
+    {
+      "category": "Cultural event",
+      "word": "theatre",
+      "count": 87
+    },
+    {
+      "category": "Conference",
+      "word": "delegate",
+      "count": 234
+    },
+    {
+      "category": "Conference",
+      "word": "panel",
+      "count": 234
+    },
+    {
+      "category": "Conference",
+      "word": "industry",
+      "count": 192
+    },
+    {
+      "category": "Conference",
+      "word": "summit",
+      "count": 176
+    },
+    {
+      "category": "Conference",
+      "word": "programme",
+      "count": 138
+    },
+    {
+      "category": "Conference",
+      "word": "present",
+      "count": 138
+    },
+    {
+      "category": "Conference",
+      "word": "bring",
+      "count": 127
+    },
+    {
+      "category": "Conference",
+      "word": "together",
+      "count": 127
+    },
+    {
+      "category": "Conference",
+      "word": "speaker",
+      "count": 127
+    },
+    {
+      "category": "Conference",
+      "word": "researcher",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "several",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "institution",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "paper",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "across",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "multiple",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "track",
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "attend",
+      "count": 123
+    },
+    {
+      "category": "Conference",
+      "word": "pm",
+      "count": 111
+    },
+    {
+      "category": "Conference",
+      "word": "schedule",
+      "count": 110
+    },
+    {
+      "category": "Conference",
+      "word": "parallel",
+      "count": 107
+    },
+    {
+      "category": "Webinar",
+      "word": "online",
+      "count": 505
+    },
+    {
+      "category": "Webinar",
+      "word": "via",
+      "count": 278
+    },
+    {
+      "category": "Webinar",
+      "word": "question",
+      "count": 245
+    },
+    {
+      "category": "Webinar",
+      "word": "live",
+      "count": 188
+    },
+    {
+      "category": "Webinar",
+      "word": "take",
+      "count": 153
+    },
+    {
+      "category": "Webinar",
+      "word": "participant",
+      "count": 143
+    },
+    {
+      "category": "Webinar",
+      "word": "presenter",
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "share",
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "slide",
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "remotely",
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "audience",
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "join",
+      "count": 131
+    },
+    {
+      "category": "Webinar",
+      "word": "pm",
+      "count": 121
+    },
+    {
+      "category": "Webinar",
+      "word": "link",
+      "count": 115
+    },
+    {
+      "category": "Webinar",
+      "word": "send",
+      "count": 115
+    },
+    {
+      "category": "Webinar",
+      "word": "register",
+      "count": 115
+    },
+    {
+      "category": "Webinar",
+      "word": "broadcast",
+      "count": 112
+    },
+    {
+      "category": "Webinar",
+      "word": "submit",
+      "count": 112
+    },
+    {
+      "category": "Webinar",
+      "word": "chat",
+      "count": 112
+    },
+    {
+      "category": "Webinar",
+      "word": "schedule",
+      "count": 111
+    },
+    {
+      "category": "Hackathon",
+      "word": "build",
+      "count": 304
+    },
+    {
+      "category": "Hackathon",
+      "word": "team",
+      "count": 258
+    },
+    {
+      "category": "Hackathon",
+      "word": "coding",
+      "count": 237
+    },
+    {
+      "category": "Hackathon",
+      "word": "challenge",
+      "count": 195
+    },
+    {
+      "category": "Hackathon",
+      "word": "prototype",
+      "count": 186
+    },
+    {
+      "category": "Hackathon",
+      "word": "code",
+      "count": 147
+    },
+    {
+      "category": "Hackathon",
+      "word": "pm",
+      "count": 142
+    },
+    {
+      "category": "Hackathon",
+      "word": "sprint",
+      "count": 129
+    },
+    {
+      "category": "Hackathon",
+      "word": "hour",
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "demonstrate",
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "working",
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "software",
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "app",
+      "count": 126
+    },
+    {
+      "category": "Hackathon",
+      "word": "timed",
+      "count": 126
+    },
+    {
+      "category": "Hackathon",
+      "word": "developer",
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "together",
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "overnight",
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "pitch",
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "project",
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "mentor",
+      "count": 106
+    },
+    {
+      "category": "Sports event",
+      "word": "team",
+      "count": 260
+    },
+    {
+      "category": "Sports event",
+      "word": "compete",
+      "count": 246
+    },
+    {
+      "category": "Sports event",
+      "word": "welcome",
+      "count": 158
+    },
+    {
+      "category": "Sports event",
+      "word": "player",
+      "count": 129
+    },
+    {
+      "category": "Sports event",
+      "word": "spectator",
+      "count": 129
+    },
+    {
+      "category": "Sports event",
+      "word": "field",
+      "count": 129
+    },
+    {
+      "category": "Sports event",
+      "word": "pm",
+      "count": 120
+    },
+    {
+      "category": "Sports event",
+      "word": "cheer",
+      "count": 117
+    },
+    {
+      "category": "Sports event",
+      "word": "sporting",
+      "count": 117
+    },
+    {
+      "category": "Sports event",
+      "word": "fixture",
+      "count": 117
+    },
+    {
+      "category": "Sports event",
+      "word": "tournament",
+      "count": 116
+    },
+    {
+      "category": "Sports event",
+      "word": "athlete",
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "arrive",
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "early",
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "referee",
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "briefing",
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "schedule",
+      "count": 102
+    },
+    {
+      "category": "Sports event",
+      "word": "game",
+      "count": 96
+    },
+    {
+      "category": "Sports event",
+      "word": "athletics",
+      "count": 87
+    },
+    {
+      "category": "Sports event",
+      "word": "run",
+      "count": 85
+    },
+    {
+      "category": "Exhibition",
+      "word": "display",
+      "count": 360
+    },
+    {
+      "category": "Exhibition",
+      "word": "work",
+      "count": 229
+    },
+    {
+      "category": "Exhibition",
+      "word": "public",
+      "count": 203
+    },
+    {
+      "category": "Exhibition",
+      "word": "object",
+      "count": 187
+    },
+    {
+      "category": "Exhibition",
+      "word": "browse",
+      "count": 131
+    },
+    {
+      "category": "Exhibition",
+      "word": "installation",
+      "count": 131
+    },
+    {
+      "category": "Exhibition",
+      "word": "photograph",
+      "count": 131
+    },
+    {
+      "category": "Exhibition",
+      "word": "pm",
+      "count": 129
+    },
+    {
+      "category": "Exhibition",
+      "word": "gallery",
+      "count": 127
+    },
+    {
+      "category": "Exhibition",
+      "word": "artist",
+      "count": 119
+    },
+    {
+      "category": "Exhibition",
+      "word": "exhibitor",
+      "count": 119
+    },
+    {
+      "category": "Exhibition",
+      "word": "explain",
+      "count": 119
+    },
+    {
+      "category": "Exhibition",
+      "word": "visit",
+      "count": 119
+    },
+    {
+      "category": "Exhibition",
+      "word": "audience",
+      "count": 119
+    },
+    {
+      "category": "Exhibition",
+      "word": "visitor",
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "walk",
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "view",
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "exhibited",
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "schedule",
+      "count": 105
+    },
+    {
+      "category": "Exhibition",
+      "word": "science",
+      "count": 101
+    },
+    {
+      "category": "Career event",
+      "word": "employer",
+      "count": 230
+    },
+    {
+      "category": "Career event",
+      "word": "job",
+      "count": 229
+    },
+    {
+      "category": "Career event",
+      "word": "opportunity",
+      "count": 190
+    },
+    {
+      "category": "Career event",
+      "word": "fair",
+      "count": 166
+    },
+    {
+      "category": "Career event",
+      "word": "meet",
+      "count": 162
+    },
+    {
+      "category": "Career event",
+      "word": "hiring",
+      "count": 157
+    },
+    {
+      "category": "Career event",
+      "word": "network",
+      "count": 150
+    },
+    {
+      "category": "Career event",
+      "word": "recruiter",
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "explore",
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "bring",
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "updated",
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "resume",
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "pm",
+      "count": 141
+    },
+    {
+      "category": "Career event",
+      "word": "career",
+      "count": 132
+    },
+    {
+      "category": "Career event",
+      "word": "open",
+      "count": 125
+    },
+    {
+      "category": "Career event",
+      "word": "student",
+      "count": 112
+    },
+    {
+      "category": "Career event",
+      "word": "manager",
+      "count": 112
+    },
+    {
+      "category": "Career event",
+      "word": "apply",
+      "count": 112
+    },
+    {
+      "category": "Career event",
+      "word": "vacancy",
+      "count": 112
+    },
+    {
+      "category": "Career event",
+      "word": "schedule",
+      "count": 106
+    },
+    {
+      "category": "Community service",
+      "word": "community",
+      "count": 359
+    },
+    {
+      "category": "Community service",
+      "word": "volunteer",
+      "count": 281
+    },
+    {
+      "category": "Community service",
+      "word": "donation",
+      "count": 178
+    },
+    {
+      "category": "Community service",
+      "word": "hand",
+      "count": 148
+    },
+    {
+      "category": "Community service",
+      "word": "join",
+      "count": 147
+    },
+    {
+      "category": "Community service",
+      "word": "welcome",
+      "count": 134
+    },
+    {
+      "category": "Community service",
+      "word": "resident",
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "service",
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "activity",
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "benefit",
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "people",
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "need",
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "pm",
+      "count": 128
+    },
+    {
+      "category": "Community service",
+      "word": "bring",
+      "count": 123
+    },
+    {
+      "category": "Community service",
+      "word": "together",
+      "count": 123
+    },
+    {
+      "category": "Community service",
+      "word": "cause",
+      "count": 123
+    },
+    {
+      "category": "Community service",
+      "word": "schedule",
+      "count": 117
+    },
+    {
+      "category": "Community service",
+      "word": "help",
+      "count": 115
+    },
+    {
+      "category": "Community service",
+      "word": "river",
+      "count": 111
+    },
+    {
+      "category": "Community service",
+      "word": "support",
+      "count": 106
+    },
+    {
+      "category": "Social gathering",
+      "word": "friend",
+      "count": 273
+    },
+    {
+      "category": "Social gathering",
+      "word": "family",
+      "count": 182
+    },
+    {
+      "category": "Social gathering",
+      "word": "together",
+      "count": 162
+    },
+    {
+      "category": "Social gathering",
+      "word": "time",
+      "count": 151
+    },
+    {
+      "category": "Social gathering",
+      "word": "everyone",
+      "count": 149
+    },
+    {
+      "category": "Social gathering",
+      "word": "pm",
+      "count": 143
+    },
+    {
+      "category": "Social gathering",
+      "word": "come",
+      "count": 133
+    },
+    {
+      "category": "Social gathering",
+      "word": "bring",
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "dish",
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "share",
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "enjoy",
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "catch",
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "birthday",
+      "count": 124
+    },
+    {
+      "category": "Social gathering",
+      "word": "invite",
+      "count": 123
+    },
+    {
+      "category": "Social gathering",
+      "word": "social",
+      "count": 121
+    },
+    {
+      "category": "Social gathering",
+      "word": "picnic",
+      "count": 118
+    },
+    {
+      "category": "Social gathering",
+      "word": "schedule",
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "along",
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "informal",
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "conversation",
+      "count": 115
+    },
+    {
+      "category": "Training course",
+      "word": "programme",
+      "count": 277
+    },
+    {
+      "category": "Training course",
+      "word": "course",
+      "count": 255
+    },
+    {
+      "category": "Training course",
+      "word": "complete",
+      "count": 242
+    },
+    {
+      "category": "Training course",
+      "word": "certification",
+      "count": 227
+    },
+    {
+      "category": "Training course",
+      "word": "structured",
+      "count": 189
+    },
+    {
+      "category": "Training course",
+      "word": "certificate",
+      "count": 165
+    },
+    {
+      "category": "Training course",
+      "word": "pm",
+      "count": 144
+    },
+    {
+      "category": "Training course",
+      "word": "training",
+      "count": 141
+    },
+    {
+      "category": "Training course",
+      "word": "learner",
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "curriculum",
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "several",
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "session",
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "receive",
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "enrol",
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "follow",
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "module",
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "practical",
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "assignment",
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "include",
+      "count": 118
+    },
+    {
+      "category": "Training course",
+      "word": "lesson",
+      "count": 118
+    },
+    {
+      "category": "Product launch",
+      "word": "new",
+      "count": 326
+    },
+    {
+      "category": "Product launch",
+      "word": "product",
+      "count": 270
+    },
+    {
+      "category": "Product launch",
+      "word": "release",
+      "count": 236
+    },
+    {
+      "category": "Product launch",
+      "word": "launch",
+      "count": 139
+    },
+    {
+      "category": "Product launch",
+      "word": "unveil",
+      "count": 138
+    },
+    {
+      "category": "Product launch",
+      "word": "pm",
+      "count": 137
+    },
+    {
+      "category": "Product launch",
+      "word": "team",
+      "count": 135
+    },
+    {
+      "category": "Product launch",
+      "word": "demonstrate",
+      "count": 132
+    },
+    {
+      "category": "Product launch",
+      "word": "feature",
+      "count": 132
+    },
+    {
+      "category": "Product launch",
+      "word": "answer",
+      "count": 132
+    },
+    {
+      "category": "Product launch",
+      "word": "question",
+      "count": 132
+    },
+    {
+      "category": "Product launch",
+      "word": "see",
+      "count": 123
+    },
+    {
+      "category": "Product launch",
+      "word": "schedule",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "company",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "introduce",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "late",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "offering",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "customer",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "press",
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "among",
+      "count": 112
+    },
+    {
+      "category": "Academic assessment",
+      "word": "assessment",
+      "count": 265
+    },
+    {
+      "category": "Academic assessment",
+      "word": "student",
+      "count": 238
+    },
+    {
+      "category": "Academic assessment",
+      "word": "evaluation",
+      "count": 159
+    },
+    {
+      "category": "Academic assessment",
+      "word": "must",
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "bring",
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "id",
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "arrive",
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "begin",
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "candidate",
+      "count": 133
+    },
+    {
+      "category": "Academic assessment",
+      "word": "viva",
+      "count": 129
+    },
+    {
+      "category": "Academic assessment",
+      "word": "pm",
+      "count": 123
+    },
+    {
+      "category": "Academic assessment",
+      "word": "examination",
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "prepare",
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "answer",
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "presentation",
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "academic",
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "practical",
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "schedule",
+      "count": 119
+    },
+    {
+      "category": "Academic assessment",
+      "word": "evaluate",
+      "count": 104
+    },
+    {
+      "category": "Academic assessment",
+      "word": "examiner",
+      "count": 104
+    },
+    {
+      "category": "Ceremony",
+      "word": "proceeding",
+      "count": 251
+    },
+    {
+      "category": "Ceremony",
+      "word": "ceremony",
+      "count": 248
+    },
+    {
+      "category": "Ceremony",
+      "word": "formal",
+      "count": 217
+    },
+    {
+      "category": "Ceremony",
+      "word": "take",
+      "count": 162
+    },
+    {
+      "category": "Ceremony",
+      "word": "please",
+      "count": 152
+    },
+    {
+      "category": "Ceremony",
+      "word": "honour",
+      "count": 146
+    },
+    {
+      "category": "Ceremony",
+      "word": "seat",
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "procession",
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "official",
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "begin",
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "pm",
+      "count": 116
+    },
+    {
+      "category": "Ceremony",
+      "word": "award",
+      "count": 114
+    },
+    {
+      "category": "Ceremony",
+      "word": "schedule",
+      "count": 114
+    },
+    {
+      "category": "Ceremony",
+      "word": "dignitary",
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "preside",
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "congratulate",
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "recipient",
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "guest",
+      "count": 108
+    },
+    {
+      "category": "Ceremony",
+      "word": "witness",
+      "count": 108
+    },
+    {
+      "category": "Ceremony",
+      "word": "presentation",
+      "count": 108
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "visit",
+      "count": 316
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "together",
+      "count": 246
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "trip",
+      "count": 184
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "guided",
+      "count": 173
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "participant",
+      "count": 150
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "pm",
+      "count": 140
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "guide",
+      "count": 134
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "group",
+      "count": 124
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "depart",
+      "count": 124
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "educational",
+      "count": 124
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "travel",
+      "count": 122
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "scheduled",
+      "count": 122
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "location",
+      "count": 122
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "heritage",
+      "count": 117
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "wear",
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "comfortable",
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "shoe",
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "outdoor",
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "exploration",
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "schedule",
+      "count": 107
+    },
+    {
+      "category": "Other event",
+      "word": "organizer",
+      "count": 314
+    },
+    {
+      "category": "Other event",
+      "word": "public",
+      "count": 257
+    },
+    {
+      "category": "Other event",
+      "word": "meet",
+      "count": 246
+    },
+    {
+      "category": "Other event",
+      "word": "gathering",
+      "count": 206
+    },
+    {
+      "category": "Other event",
+      "word": "welcome",
+      "count": 200
+    },
+    {
+      "category": "Other event",
+      "word": "programme",
+      "count": 189
+    },
+    {
+      "category": "Other event",
+      "word": "event",
+      "count": 186
+    },
+    {
+      "category": "Other event",
+      "word": "organize",
+      "count": 176
+    },
+    {
+      "category": "Other event",
+      "word": "day",
+      "count": 152
+    },
+    {
+      "category": "Other event",
+      "word": "participant",
+      "count": 149
+    },
+    {
+      "category": "Other event",
+      "word": "open",
+      "count": 148
+    },
+    {
+      "category": "Other event",
+      "word": "join",
+      "count": 143
+    },
+    {
+      "category": "Other event",
+      "word": "invite",
+      "count": 141
+    },
+    {
+      "category": "Other event",
+      "word": "everyone",
+      "count": 140
+    },
+    {
+      "category": "Other event",
+      "word": "host",
+      "count": 137
+    },
+    {
+      "category": "Other event",
+      "word": "attend",
+      "count": 136
+    },
+    {
+      "category": "Other event",
+      "word": "scheduled",
+      "count": 129
+    },
+    {
+      "category": "Other event",
+      "word": "pm",
+      "count": 125
+    },
+    {
+      "category": "Other event",
+      "word": "drop",
+      "count": 115
+    },
+    {
+      "category": "Other event",
+      "word": "explore",
+      "count": 115
+    },
+    {
+      "category": "Not an event",
+      "word": "mean",
+      "count": 54
+    },
+    {
+      "category": "Not an event",
+      "word": "please",
+      "count": 54
+    },
+    {
+      "category": "Not an event",
+      "word": "give",
+      "count": 54
+    },
+    {
+      "category": "Not an event",
+      "word": "definition",
+      "count": 54
+    },
+    {
+      "category": "Not an event",
+      "word": "study",
+      "count": 53
+    },
+    {
+      "category": "Not an event",
+      "word": "homework",
+      "count": 53
+    },
+    {
+      "category": "Not an event",
+      "word": "invitation",
+      "count": 53
+    },
+    {
+      "category": "Not an event",
+      "word": "idea",
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "website",
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "section",
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "date",
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "announce",
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "library",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "contains",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "several",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "book",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "enjoy",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "read",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "home",
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "explain",
+      "count": 51
+    }
+  ],
+  "distinctive": [
+    {
+      "category": "Workshop",
+      "word": "something",
+      "log_probability_ratio": 7.788455369800398,
+      "count": 132
+    },
+    {
+      "category": "Workshop",
+      "word": "instructor",
+      "log_probability_ratio": 7.788455369800398,
+      "count": 132
+    },
+    {
+      "category": "Workshop",
+      "word": "small",
+      "log_probability_ratio": 7.66879086604431,
+      "count": 117
+    },
+    {
+      "category": "Workshop",
+      "word": "laptop",
+      "log_probability_ratio": 7.616605112873739,
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "exercise",
+      "log_probability_ratio": 7.616605112873739,
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "individual",
+      "log_probability_ratio": 7.616605112873739,
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "practice",
+      "log_probability_ratio": 7.616605112873739,
+      "count": 111
+    },
+    {
+      "category": "Workshop",
+      "word": "storytelling",
+      "log_probability_ratio": 6.659306357272207,
+      "count": 42
+    },
+    {
+      "category": "Workshop",
+      "word": "electronics",
+      "log_probability_ratio": 6.6357758598620125,
+      "count": 41
+    },
+    {
+      "category": "Workshop",
+      "word": "thinking",
+      "log_probability_ratio": 6.265402071565118,
+      "count": 57
+    },
+    {
+      "category": "Workshop",
+      "word": "lab",
+      "log_probability_ratio": 6.163865652345695,
+      "count": 130
+    },
+    {
+      "category": "Workshop",
+      "word": "workshop",
+      "log_probability_ratio": 6.033600457507794,
+      "count": 68
+    },
+    {
+      "category": "Workshop",
+      "word": "watercolour",
+      "log_probability_ratio": 5.893838515132636,
+      "count": 59
+    },
+    {
+      "category": "Workshop",
+      "word": "basic",
+      "log_probability_ratio": 5.893838515132636,
+      "count": 59
+    },
+    {
+      "category": "Workshop",
+      "word": "robotics",
+      "log_probability_ratio": 5.769785866462656,
+      "count": 52
+    },
+    {
+      "category": "Seminar",
+      "word": "finding",
+      "log_probability_ratio": 7.644524740125284,
+      "count": 125
+    },
+    {
+      "category": "Seminar",
+      "word": "listen",
+      "log_probability_ratio": 7.595734575955852,
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "recent",
+      "log_probability_ratio": 7.595734575955852,
+      "count": 119
+    },
+    {
+      "category": "Seminar",
+      "word": "scholarly",
+      "log_probability_ratio": 7.056738075223166,
+      "count": 69
+    },
+    {
+      "category": "Seminar",
+      "word": "invited",
+      "log_probability_ratio": 6.902587395395907,
+      "count": 179
+    },
+    {
+      "category": "Seminar",
+      "word": "ocean",
+      "log_probability_ratio": 6.868685843720225,
+      "count": 57
+    },
+    {
+      "category": "Seminar",
+      "word": "climate",
+      "log_probability_ratio": 6.720265838601953,
+      "count": 49
+    },
+    {
+      "category": "Seminar",
+      "word": "frontier",
+      "log_probability_ratio": 6.720265838601953,
+      "count": 49
+    },
+    {
+      "category": "Seminar",
+      "word": "modern",
+      "log_probability_ratio": 6.679443844081697,
+      "count": 47
+    },
+    {
+      "category": "Seminar",
+      "word": "biology",
+      "log_probability_ratio": 6.679443844081697,
+      "count": 47
+    },
+    {
+      "category": "Seminar",
+      "word": "seminar",
+      "log_probability_ratio": 6.471804479303453,
+      "count": 77
+    },
+    {
+      "category": "Seminar",
+      "word": "talk",
+      "log_probability_ratio": 6.225969516787172,
+      "count": 60
+    },
+    {
+      "category": "Seminar",
+      "word": "quantum",
+      "log_probability_ratio": 6.066339371195288,
+      "count": 51
+    },
+    {
+      "category": "Seminar",
+      "word": "urban",
+      "log_probability_ratio": 6.027118658042007,
+      "count": 49
+    },
+    {
+      "category": "Seminar",
+      "word": "method",
+      "log_probability_ratio": 5.621653549933843,
+      "count": 49
+    },
+    {
+      "category": "Competition",
+      "word": "judge",
+      "log_probability_ratio": 8.397842771082232,
+      "count": 260
+    },
+    {
+      "category": "Competition",
+      "word": "winner",
+      "log_probability_ratio": 7.70851968696069,
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "select",
+      "log_probability_ratio": 7.70851968696069,
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "use",
+      "log_probability_ratio": 7.70851968696069,
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "publish",
+      "log_probability_ratio": 7.70851968696069,
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "criterion",
+      "log_probability_ratio": 7.70851968696069,
+      "count": 130
+    },
+    {
+      "category": "Competition",
+      "word": "contestant",
+      "log_probability_ratio": 7.6124458568710685,
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "judging",
+      "log_probability_ratio": 7.6124458568710685,
+      "count": 118
+    },
+    {
+      "category": "Competition",
+      "word": "entry",
+      "log_probability_ratio": 7.56071018247188,
+      "count": 112
+    },
+    {
+      "category": "Competition",
+      "word": "prize",
+      "log_probability_ratio": 6.816114440075892,
+      "count": 160
+    },
+    {
+      "category": "Competition",
+      "word": "competition",
+      "log_probability_ratio": 6.559015790996192,
+      "count": 82
+    },
+    {
+      "category": "Competition",
+      "word": "competitive",
+      "log_probability_ratio": 6.3596828883757,
+      "count": 67
+    },
+    {
+      "category": "Competition",
+      "word": "intercollege",
+      "log_probability_ratio": 6.31456245309523,
+      "count": 64
+    },
+    {
+      "category": "Competition",
+      "word": "quiz",
+      "log_probability_ratio": 6.31456245309523,
+      "count": 64
+    },
+    {
+      "category": "Competition",
+      "word": "math",
+      "log_probability_ratio": 6.234519745421694,
+      "count": 59
+    },
+    {
+      "category": "Meeting",
+      "word": "discuss",
+      "log_probability_ratio": 8.294590810667424,
+      "count": 235
+    },
+    {
+      "category": "Meeting",
+      "word": "update",
+      "log_probability_ratio": 7.7724014282511185,
+      "count": 139
+    },
+    {
+      "category": "Meeting",
+      "word": "proposal",
+      "log_probability_ratio": 7.7724014282511185,
+      "count": 139
+    },
+    {
+      "category": "Meeting",
+      "word": "representative",
+      "log_probability_ratio": 7.667040912593292,
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "vote",
+      "log_probability_ratio": 7.667040912593292,
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "propose",
+      "log_probability_ratio": 7.667040912593292,
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "assign",
+      "log_probability_ratio": 7.667040912593292,
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "responsibility",
+      "log_probability_ratio": 7.667040912593292,
+      "count": 125
+    },
+    {
+      "category": "Meeting",
+      "word": "member",
+      "log_probability_ratio": 7.4054699841451965,
+      "count": 96
+    },
+    {
+      "category": "Meeting",
+      "word": "agenda",
+      "log_probability_ratio": 7.4054699841451965,
+      "count": 96
+    },
+    {
+      "category": "Meeting",
+      "word": "progress",
+      "log_probability_ratio": 7.4054699841451965,
+      "count": 96
+    },
+    {
+      "category": "Meeting",
+      "word": "decide",
+      "log_probability_ratio": 7.4054699841451965,
+      "count": 96
+    },
+    {
+      "category": "Meeting",
+      "word": "step",
+      "log_probability_ratio": 7.4054699841451965,
+      "count": 96
+    },
+    {
+      "category": "Meeting",
+      "word": "budget",
+      "log_probability_ratio": 7.330568675972079,
+      "count": 179
+    },
+    {
+      "category": "Meeting",
+      "word": "committee",
+      "log_probability_ratio": 7.261575804485127,
+      "count": 83
+    },
+    {
+      "category": "Cultural event",
+      "word": "artistic",
+      "log_probability_ratio": 7.6963858002339185,
+      "count": 126
+    },
+    {
+      "category": "Cultural event",
+      "word": "culture",
+      "log_probability_ratio": 7.6963858002339185,
+      "count": 126
+    },
+    {
+      "category": "Cultural event",
+      "word": "performer",
+      "log_probability_ratio": 7.688480620726805,
+      "count": 125
+    },
+    {
+      "category": "Cultural event",
+      "word": "entertain",
+      "log_probability_ratio": 7.688480620726805,
+      "count": 125
+    },
+    {
+      "category": "Cultural event",
+      "word": "performance",
+      "log_probability_ratio": 7.525027548237233,
+      "count": 320
+    },
+    {
+      "category": "Cultural event",
+      "word": "dance",
+      "log_probability_ratio": 7.026585983670964,
+      "count": 194
+    },
+    {
+      "category": "Cultural event",
+      "word": "stage",
+      "log_probability_ratio": 6.901080901920671,
+      "count": 171
+    },
+    {
+      "category": "Cultural event",
+      "word": "music",
+      "log_probability_ratio": 6.871580237523973,
+      "count": 166
+    },
+    {
+      "category": "Cultural event",
+      "word": "ragas",
+      "log_probability_ratio": 6.680840110264422,
+      "count": 45
+    },
+    {
+      "category": "Cultural event",
+      "word": "show",
+      "log_probability_ratio": 6.463116626419551,
+      "count": 73
+    },
+    {
+      "category": "Cultural event",
+      "word": "musical",
+      "log_probability_ratio": 6.202102801049932,
+      "count": 56
+    },
+    {
+      "category": "Cultural event",
+      "word": "cultural",
+      "log_probability_ratio": 6.0576515183113875,
+      "count": 73
+    },
+    {
+      "category": "Cultural event",
+      "word": "festival",
+      "log_probability_ratio": 6.0576515183113875,
+      "count": 73
+    },
+    {
+      "category": "Cultural event",
+      "word": "rhythm",
+      "log_probability_ratio": 6.030252544123273,
+      "count": 47
+    },
+    {
+      "category": "Cultural event",
+      "word": "night",
+      "log_probability_ratio": 6.030252544123273,
+      "count": 47
+    },
+    {
+      "category": "Conference",
+      "word": "delegate",
+      "log_probability_ratio": 8.239400335698262,
+      "count": 234
+    },
+    {
+      "category": "Conference",
+      "word": "institution",
+      "log_probability_ratio": 7.624001908012694,
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "paper",
+      "log_probability_ratio": 7.624001908012694,
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "across",
+      "log_probability_ratio": 7.624001908012694,
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "multiple",
+      "log_probability_ratio": 7.624001908012694,
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "track",
+      "log_probability_ratio": 7.624001908012694,
+      "count": 126
+    },
+    {
+      "category": "Conference",
+      "word": "parallel",
+      "log_probability_ratio": 7.461946048678323,
+      "count": 107
+    },
+    {
+      "category": "Conference",
+      "word": "keynote",
+      "log_probability_ratio": 7.461946048678323,
+      "count": 107
+    },
+    {
+      "category": "Conference",
+      "word": "industry",
+      "log_probability_ratio": 6.656210649339098,
+      "count": 192
+    },
+    {
+      "category": "Conference",
+      "word": "international",
+      "log_probability_ratio": 6.404155754530468,
+      "count": 74
+    },
+    {
+      "category": "Conference",
+      "word": "system",
+      "log_probability_ratio": 6.320774145591417,
+      "count": 68
+    },
+    {
+      "category": "Conference",
+      "word": "symposium",
+      "log_probability_ratio": 6.245550724353829,
+      "count": 63
+    },
+    {
+      "category": "Conference",
+      "word": "conference",
+      "log_probability_ratio": 6.112019331729307,
+      "count": 83
+    },
+    {
+      "category": "Conference",
+      "word": "society",
+      "log_probability_ratio": 6.112019331729307,
+      "count": 55
+    },
+    {
+      "category": "Conference",
+      "word": "sustainability",
+      "log_probability_ratio": 5.9784879391047845,
+      "count": 48
+    },
+    {
+      "category": "Webinar",
+      "word": "presenter",
+      "log_probability_ratio": 7.677654621505014,
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "slide",
+      "log_probability_ratio": 7.677654621505014,
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "remotely",
+      "log_probability_ratio": 7.677654621505014,
+      "count": 133
+    },
+    {
+      "category": "Webinar",
+      "word": "link",
+      "log_probability_ratio": 7.5334050126604675,
+      "count": 115
+    },
+    {
+      "category": "Webinar",
+      "word": "send",
+      "log_probability_ratio": 7.5334050126604675,
+      "count": 115
+    },
+    {
+      "category": "Webinar",
+      "word": "register",
+      "log_probability_ratio": 7.5334050126604675,
+      "count": 115
+    },
+    {
+      "category": "Webinar",
+      "word": "broadcast",
+      "log_probability_ratio": 7.507202640266444,
+      "count": 112
+    },
+    {
+      "category": "Webinar",
+      "word": "submit",
+      "log_probability_ratio": 7.507202640266444,
+      "count": 112
+    },
+    {
+      "category": "Webinar",
+      "word": "chat",
+      "log_probability_ratio": 7.507202640266444,
+      "count": 112
+    },
+    {
+      "category": "Webinar",
+      "word": "joining",
+      "log_probability_ratio": 7.4802951873465195,
+      "count": 109
+    },
+    {
+      "category": "Webinar",
+      "word": "online",
+      "log_probability_ratio": 7.396913578407468,
+      "count": 505
+    },
+    {
+      "category": "Webinar",
+      "word": "virtual",
+      "log_probability_ratio": 6.417400981280489,
+      "count": 75
+    },
+    {
+      "category": "Webinar",
+      "word": "webinar",
+      "log_probability_ratio": 6.291360260385123,
+      "count": 66
+    },
+    {
+      "category": "Webinar",
+      "word": "brief",
+      "log_probability_ratio": 6.112019331729307,
+      "count": 27
+    },
+    {
+      "category": "Webinar",
+      "word": "webcast",
+      "log_probability_ratio": 5.998690646422304,
+      "count": 74
+    },
+    {
+      "category": "Hackathon",
+      "word": "hour",
+      "log_probability_ratio": 7.679182534065383,
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "working",
+      "log_probability_ratio": 7.679182534065383,
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "software",
+      "log_probability_ratio": 7.679182534065383,
+      "count": 128
+    },
+    {
+      "category": "Hackathon",
+      "word": "timed",
+      "log_probability_ratio": 7.663557216162302,
+      "count": 126
+    },
+    {
+      "category": "Hackathon",
+      "word": "developer",
+      "log_probability_ratio": 7.492198964165618,
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "overnight",
+      "log_probability_ratio": 7.492198964165618,
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "pitch",
+      "log_probability_ratio": 7.492198964165618,
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "mentor",
+      "log_probability_ratio": 7.492198964165618,
+      "count": 106
+    },
+    {
+      "category": "Hackathon",
+      "word": "prototype",
+      "log_probability_ratio": 7.3573315659983525,
+      "count": 186
+    },
+    {
+      "category": "Hackathon",
+      "word": "coding",
+      "log_probability_ratio": 7.193028514707076,
+      "count": 237
+    },
+    {
+      "category": "Hackathon",
+      "word": "code",
+      "log_probability_ratio": 7.123435222907881,
+      "count": 147
+    },
+    {
+      "category": "Hackathon",
+      "word": "codeathon",
+      "log_probability_ratio": 7.109829570852102,
+      "count": 72
+    },
+    {
+      "category": "Hackathon",
+      "word": "hackathon",
+      "log_probability_ratio": 7.009024871730137,
+      "count": 65
+    },
+    {
+      "category": "Hackathon",
+      "word": "hack",
+      "log_probability_ratio": 6.844721820438861,
+      "count": 55
+    },
+    {
+      "category": "Hackathon",
+      "word": "byte",
+      "log_probability_ratio": 6.808354176267986,
+      "count": 53
+    },
+    {
+      "category": "Sports event",
+      "word": "player",
+      "log_probability_ratio": 7.751180090003911,
+      "count": 129
+    },
+    {
+      "category": "Sports event",
+      "word": "spectator",
+      "log_probability_ratio": 7.751180090003911,
+      "count": 129
+    },
+    {
+      "category": "Sports event",
+      "word": "cheer",
+      "log_probability_ratio": 7.654330264013993,
+      "count": 117
+    },
+    {
+      "category": "Sports event",
+      "word": "sporting",
+      "log_probability_ratio": 7.654330264013993,
+      "count": 117
+    },
+    {
+      "category": "Sports event",
+      "word": "fixture",
+      "log_probability_ratio": 7.654330264013993,
+      "count": 117
+    },
+    {
+      "category": "Sports event",
+      "word": "athlete",
+      "log_probability_ratio": 7.628577767911578,
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "early",
+      "log_probability_ratio": 7.628577767911578,
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "referee",
+      "log_probability_ratio": 7.628577767911578,
+      "count": 114
+    },
+    {
+      "category": "Sports event",
+      "word": "victory",
+      "log_probability_ratio": 6.994519503721639,
+      "count": 60
+    },
+    {
+      "category": "Sports event",
+      "word": "series",
+      "log_probability_ratio": 6.994519503721639,
+      "count": 60
+    },
+    {
+      "category": "Sports event",
+      "word": "football",
+      "log_probability_ratio": 6.795668644976474,
+      "count": 49
+    },
+    {
+      "category": "Sports event",
+      "word": "match",
+      "log_probability_ratio": 6.795668644976474,
+      "count": 49
+    },
+    {
+      "category": "Sports event",
+      "word": "cricket",
+      "log_probability_ratio": 6.424604963585642,
+      "count": 68
+    },
+    {
+      "category": "Sports event",
+      "word": "tournament",
+      "log_probability_ratio": 6.259525213226193,
+      "count": 116
+    },
+    {
+      "category": "Sports event",
+      "word": "basketball",
+      "log_probability_ratio": 6.102521464416529,
+      "count": 49
+    },
+    {
+      "category": "Exhibition",
+      "word": "browse",
+      "log_probability_ratio": 7.7256750619022005,
+      "count": 131
+    },
+    {
+      "category": "Exhibition",
+      "word": "installation",
+      "log_probability_ratio": 7.7256750619022005,
+      "count": 131
+    },
+    {
+      "category": "Exhibition",
+      "word": "photograph",
+      "log_probability_ratio": 7.7256750619022005,
+      "count": 131
+    },
+    {
+      "category": "Exhibition",
+      "word": "exhibitor",
+      "log_probability_ratio": 7.630364882097876,
+      "count": 119
+    },
+    {
+      "category": "Exhibition",
+      "word": "visitor",
+      "log_probability_ratio": 7.552403340628164,
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "view",
+      "log_probability_ratio": 7.552403340628164,
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "exhibited",
+      "log_probability_ratio": 7.552403340628164,
+      "count": 110
+    },
+    {
+      "category": "Exhibition",
+      "word": "object",
+      "log_probability_ratio": 7.386167921585834,
+      "count": 187
+    },
+    {
+      "category": "Exhibition",
+      "word": "showcase",
+      "log_probability_ratio": 7.133332580464221,
+      "count": 72
+    },
+    {
+      "category": "Exhibition",
+      "word": "display",
+      "log_probability_ratio": 6.939991628420656,
+      "count": 360
+    },
+    {
+      "category": "Exhibition",
+      "word": "expo",
+      "log_probability_ratio": 6.920410583221549,
+      "count": 58
+    },
+    {
+      "category": "Exhibition",
+      "word": "opening",
+      "log_probability_ratio": 6.3692336639319915,
+      "count": 67
+    },
+    {
+      "category": "Exhibition",
+      "word": "gallery",
+      "log_probability_ratio": 6.308609042115556,
+      "count": 127
+    },
+    {
+      "category": "Exhibition",
+      "word": "exhibition",
+      "log_probability_ratio": 5.945215147928079,
+      "count": 88
+    },
+    {
+      "category": "Exhibition",
+      "word": "perspective",
+      "log_probability_ratio": 5.7332448972119945,
+      "count": 53
+    },
+    {
+      "category": "Career event",
+      "word": "network",
+      "log_probability_ratio": 7.792066963780999,
+      "count": 150
+    },
+    {
+      "category": "Career event",
+      "word": "recruiter",
+      "log_probability_ratio": 7.751520869386649,
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "updated",
+      "log_probability_ratio": 7.751520869386649,
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "resume",
+      "log_probability_ratio": 7.751520869386649,
+      "count": 144
+    },
+    {
+      "category": "Career event",
+      "word": "employer",
+      "log_probability_ratio": 7.524057656927923,
+      "count": 230
+    },
+    {
+      "category": "Career event",
+      "word": "manager",
+      "log_probability_ratio": 7.502174945678415,
+      "count": 112
+    },
+    {
+      "category": "Career event",
+      "word": "vacancy",
+      "log_probability_ratio": 7.502174945678415,
+      "count": 112
+    },
+    {
+      "category": "Career event",
+      "word": "speak",
+      "log_probability_ratio": 7.428747477123598,
+      "count": 104
+    },
+    {
+      "category": "Career event",
+      "word": "internship",
+      "log_probability_ratio": 7.428747477123598,
+      "count": 104
+    },
+    {
+      "category": "Career event",
+      "word": "position",
+      "log_probability_ratio": 7.428747477123598,
+      "count": 104
+    },
+    {
+      "category": "Career event",
+      "word": "job",
+      "log_probability_ratio": 7.1142541472211605,
+      "count": 229
+    },
+    {
+      "category": "Career event",
+      "word": "fair",
+      "log_probability_ratio": 6.79416865071472,
+      "count": 166
+    },
+    {
+      "category": "Career event",
+      "word": "opportunity",
+      "log_probability_ratio": 6.640766193892814,
+      "count": 190
+    },
+    {
+      "category": "Career event",
+      "word": "networking",
+      "log_probability_ratio": 6.438348773095721,
+      "count": 38
+    },
+    {
+      "category": "Career event",
+      "word": "recruitment",
+      "log_probability_ratio": 6.240523029765801,
+      "count": 63
+    },
+    {
+      "category": "Community service",
+      "word": "resident",
+      "log_probability_ratio": 7.668100779967358,
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "benefit",
+      "log_probability_ratio": 7.668100779967358,
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "people",
+      "log_probability_ratio": 7.668100779967358,
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "need",
+      "log_probability_ratio": 7.668100779967358,
+      "count": 131
+    },
+    {
+      "category": "Community service",
+      "word": "cause",
+      "log_probability_ratio": 7.605580422986025,
+      "count": 123
+    },
+    {
+      "category": "Community service",
+      "word": "support",
+      "log_probability_ratio": 7.458127691842893,
+      "count": 106
+    },
+    {
+      "category": "Community service",
+      "word": "volunteer",
+      "log_probability_ratio": 7.328593639650991,
+      "count": 281
+    },
+    {
+      "category": "Community service",
+      "word": "donation",
+      "log_probability_ratio": 7.279537482661797,
+      "count": 178
+    },
+    {
+      "category": "Community service",
+      "word": "cleanup",
+      "log_probability_ratio": 7.102786970917298,
+      "count": 74
+    },
+    {
+      "category": "Community service",
+      "word": "rescue",
+      "log_probability_ratio": 6.862836301286707,
+      "count": 58
+    },
+    {
+      "category": "Community service",
+      "word": "hand",
+      "log_probability_ratio": 6.402950802206556,
+      "count": 148
+    },
+    {
+      "category": "Community service",
+      "word": "blood",
+      "log_probability_ratio": 6.382611117969433,
+      "count": 72
+    },
+    {
+      "category": "Community service",
+      "word": "camp",
+      "log_probability_ratio": 6.382611117969433,
+      "count": 72
+    },
+    {
+      "category": "Community service",
+      "word": "volunteering",
+      "log_probability_ratio": 6.043395395402469,
+      "count": 25
+    },
+    {
+      "category": "Community service",
+      "word": "environmental",
+      "log_probability_ratio": 6.017419908999209,
+      "count": 75
+    },
+    {
+      "category": "Social gathering",
+      "word": "dish",
+      "log_probability_ratio": 7.72321871009094,
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "catch",
+      "log_probability_ratio": 7.72321871009094,
+      "count": 132
+    },
+    {
+      "category": "Social gathering",
+      "word": "along",
+      "log_probability_ratio": 7.586459772975551,
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "informal",
+      "log_probability_ratio": 7.586459772975551,
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "conversation",
+      "log_probability_ratio": 7.586459772975551,
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "food",
+      "log_probability_ratio": 7.586459772975551,
+      "count": 115
+    },
+    {
+      "category": "Social gathering",
+      "word": "relax",
+      "log_probability_ratio": 7.569068030263682,
+      "count": 113
+    },
+    {
+      "category": "Social gathering",
+      "word": "celebrate",
+      "log_probability_ratio": 7.569068030263682,
+      "count": 113
+    },
+    {
+      "category": "Social gathering",
+      "word": "family",
+      "log_probability_ratio": 7.349208554150662,
+      "count": 182
+    },
+    {
+      "category": "Social gathering",
+      "word": "friend",
+      "log_probability_ratio": 7.059703327137366,
+      "count": 273
+    },
+    {
+      "category": "Social gathering",
+      "word": "picnic",
+      "log_probability_ratio": 6.9188458944207705,
+      "count": 118
+    },
+    {
+      "category": "Social gathering",
+      "word": "social",
+      "log_probability_ratio": 6.538278337934333,
+      "count": 121
+    },
+    {
+      "category": "Social gathering",
+      "word": "party",
+      "log_probability_ratio": 6.457210514845552,
+      "count": 74
+    },
+    {
+      "category": "Social gathering",
+      "word": "birthday",
+      "log_probability_ratio": 6.274888958051597,
+      "count": 124
+    },
+    {
+      "category": "Social gathering",
+      "word": "reunion",
+      "log_probability_ratio": 6.156105422061629,
+      "count": 110
+    },
+    {
+      "category": "Training course",
+      "word": "complete",
+      "log_probability_ratio": 8.256014161572136,
+      "count": 242
+    },
+    {
+      "category": "Training course",
+      "word": "structured",
+      "log_probability_ratio": 8.009976790392074,
+      "count": 189
+    },
+    {
+      "category": "Training course",
+      "word": "learner",
+      "log_probability_ratio": 7.575137073604005,
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "curriculum",
+      "log_probability_ratio": 7.575137073604005,
+      "count": 122
+    },
+    {
+      "category": "Training course",
+      "word": "enrol",
+      "log_probability_ratio": 7.558743263828329,
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "module",
+      "log_probability_ratio": 7.558743263828329,
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "assignment",
+      "log_probability_ratio": 7.558743263828329,
+      "count": 120
+    },
+    {
+      "category": "Training course",
+      "word": "include",
+      "log_probability_ratio": 7.542076211343117,
+      "count": 118
+    },
+    {
+      "category": "Training course",
+      "word": "lesson",
+      "log_probability_ratio": 7.542076211343117,
+      "count": 118
+    },
+    {
+      "category": "Training course",
+      "word": "completion",
+      "log_probability_ratio": 7.542076211343117,
+      "count": 118
+    },
+    {
+      "category": "Training course",
+      "word": "certificate",
+      "log_probability_ratio": 7.181793326028186,
+      "count": 165
+    },
+    {
+      "category": "Training course",
+      "word": "certification",
+      "log_probability_ratio": 7.093686058517919,
+      "count": 227
+    },
+    {
+      "category": "Training course",
+      "word": "cloud",
+      "log_probability_ratio": 6.751936764795863,
+      "count": 53
+    },
+    {
+      "category": "Training course",
+      "word": "foundation",
+      "log_probability_ratio": 6.751936764795863,
+      "count": 53
+    },
+    {
+      "category": "Training course",
+      "word": "course",
+      "log_probability_ratio": 6.69869225027705,
+      "count": 255
+    },
+    {
+      "category": "Product launch",
+      "word": "launch",
+      "log_probability_ratio": 7.72853373639641,
+      "count": 139
+    },
+    {
+      "category": "Product launch",
+      "word": "unveil",
+      "log_probability_ratio": 7.721365246917798,
+      "count": 138
+    },
+    {
+      "category": "Product launch",
+      "word": "product",
+      "log_probability_ratio": 7.695862954106861,
+      "count": 270
+    },
+    {
+      "category": "Product launch",
+      "word": "feature",
+      "log_probability_ratio": 7.677240442008859,
+      "count": 132
+    },
+    {
+      "category": "Product launch",
+      "word": "company",
+      "log_probability_ratio": 7.549065248584862,
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "introduce",
+      "log_probability_ratio": 7.549065248584862,
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "late",
+      "log_probability_ratio": 7.549065248584862,
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "offering",
+      "log_probability_ratio": 7.549065248584862,
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "customer",
+      "log_probability_ratio": 7.549065248584862,
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "press",
+      "log_probability_ratio": 7.549065248584862,
+      "count": 116
+    },
+    {
+      "category": "Product launch",
+      "word": "among",
+      "log_probability_ratio": 7.514279132499446,
+      "count": 112
+    },
+    {
+      "category": "Product launch",
+      "word": "demonstration",
+      "log_probability_ratio": 7.514279132499446,
+      "count": 112
+    },
+    {
+      "category": "Product launch",
+      "word": "smart",
+      "log_probability_ratio": 6.812243004522255,
+      "count": 55
+    },
+    {
+      "category": "Product launch",
+      "word": "release",
+      "log_probability_ratio": 6.645513542488136,
+      "count": 236
+    },
+    {
+      "category": "Product launch",
+      "word": "debut",
+      "log_probability_ratio": 6.384203574375552,
+      "count": 72
+    },
+    {
+      "category": "Academic assessment",
+      "word": "must",
+      "log_probability_ratio": 7.745714626894447,
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "id",
+      "log_probability_ratio": 7.745714626894447,
+      "count": 134
+    },
+    {
+      "category": "Academic assessment",
+      "word": "prepare",
+      "log_probability_ratio": 7.652624203828435,
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "evaluate",
+      "log_probability_ratio": 7.4944001986135405,
+      "count": 104
+    },
+    {
+      "category": "Academic assessment",
+      "word": "examiner",
+      "log_probability_ratio": 7.4944001986135405,
+      "count": 104
+    },
+    {
+      "category": "Academic assessment",
+      "word": "material",
+      "log_probability_ratio": 7.4944001986135405,
+      "count": 104
+    },
+    {
+      "category": "Academic assessment",
+      "word": "permit",
+      "log_probability_ratio": 7.4944001986135405,
+      "count": 104
+    },
+    {
+      "category": "Academic assessment",
+      "word": "evaluation",
+      "log_probability_ratio": 7.2224664831298995,
+      "count": 159
+    },
+    {
+      "category": "Academic assessment",
+      "word": "viva",
+      "log_probability_ratio": 6.6093620102434905,
+      "count": 129
+    },
+    {
+      "category": "Academic assessment",
+      "word": "thesis",
+      "log_probability_ratio": 6.529319302569954,
+      "count": 79
+    },
+    {
+      "category": "Academic assessment",
+      "word": "defense",
+      "log_probability_ratio": 6.529319302569954,
+      "count": 79
+    },
+    {
+      "category": "Academic assessment",
+      "word": "defence",
+      "log_probability_ratio": 6.1175845814481935,
+      "count": 52
+    },
+    {
+      "category": "Academic assessment",
+      "word": "algorithm",
+      "log_probability_ratio": 6.079118300620398,
+      "count": 50
+    },
+    {
+      "category": "Academic assessment",
+      "word": "examination",
+      "log_probability_ratio": 6.043186291394334,
+      "count": 122
+    },
+    {
+      "category": "Academic assessment",
+      "word": "semester",
+      "log_probability_ratio": 5.784878827622458,
+      "count": 37
+    },
+    {
+      "category": "Ceremony",
+      "word": "proceeding",
+      "log_probability_ratio": 8.367895758490803,
+      "count": 251
+    },
+    {
+      "category": "Ceremony",
+      "word": "formal",
+      "log_probability_ratio": 8.22296173376847,
+      "count": 217
+    },
+    {
+      "category": "Ceremony",
+      "word": "seat",
+      "log_probability_ratio": 7.808279970555382,
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "procession",
+      "log_probability_ratio": 7.808279970555382,
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "official",
+      "log_probability_ratio": 7.808279970555382,
+      "count": 143
+    },
+    {
+      "category": "Ceremony",
+      "word": "dignitary",
+      "log_probability_ratio": 7.538947036771797,
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "preside",
+      "log_probability_ratio": 7.538947036771797,
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "congratulate",
+      "log_probability_ratio": 7.538947036771797,
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "recipient",
+      "log_probability_ratio": 7.538947036771797,
+      "count": 109
+    },
+    {
+      "category": "Ceremony",
+      "word": "witness",
+      "log_probability_ratio": 7.529814553208524,
+      "count": 108
+    },
+    {
+      "category": "Ceremony",
+      "word": "honour",
+      "log_probability_ratio": 7.1357520771981715,
+      "count": 146
+    },
+    {
+      "category": "Ceremony",
+      "word": "ceremony",
+      "log_probability_ratio": 6.9696252063241975,
+      "count": 248
+    },
+    {
+      "category": "Ceremony",
+      "word": "felicitation",
+      "log_probability_ratio": 6.527346125093317,
+      "count": 79
+    },
+    {
+      "category": "Ceremony",
+      "word": "graduation",
+      "log_probability_ratio": 6.319706760315072,
+      "count": 64
+    },
+    {
+      "category": "Ceremony",
+      "word": "convocation",
+      "log_probability_ratio": 6.158694990107869,
+      "count": 82
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "depart",
+      "log_probability_ratio": 7.672405500686584,
+      "count": 124
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "educational",
+      "log_probability_ratio": 7.672405500686584,
+      "count": 124
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "travel",
+      "log_probability_ratio": 7.6562761187567006,
+      "count": 122
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "location",
+      "log_probability_ratio": 7.6562761187567006,
+      "count": 122
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "wear",
+      "log_probability_ratio": 7.589023891747533,
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "comfortable",
+      "log_probability_ratio": 7.589023891747533,
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "shoe",
+      "log_probability_ratio": 7.589023891747533,
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "outdoor",
+      "log_probability_ratio": 7.589023891747533,
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "exploration",
+      "log_probability_ratio": 7.589023891747533,
+      "count": 114
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "trip",
+      "log_probability_ratio": 7.3713004079026625,
+      "count": 184
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "tour",
+      "log_probability_ratio": 6.4276107018403925,
+      "count": 71
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "heritage",
+      "log_probability_ratio": 6.228482026730057,
+      "count": 117
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "historic",
+      "log_probability_ratio": 6.158277768056808,
+      "count": 54
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "trail",
+      "log_probability_ratio": 6.158277768056808,
+      "count": 54
+    },
+    {
+      "category": "Tour or excursion",
+      "word": "excursion",
+      "log_probability_ratio": 6.152198721980426,
+      "count": 81
+    },
+    {
+      "category": "Other event",
+      "word": "organize",
+      "log_probability_ratio": 7.990610318196702,
+      "count": 176
+    },
+    {
+      "category": "Other event",
+      "word": "drop",
+      "log_probability_ratio": 7.568050776729238,
+      "count": 115
+    },
+    {
+      "category": "Other event",
+      "word": "door",
+      "log_probability_ratio": 6.528032652327181,
+      "count": 40
+    },
+    {
+      "category": "Other event",
+      "word": "special",
+      "log_probability_ratio": 6.280196488422599,
+      "count": 63
+    },
+    {
+      "category": "Other event",
+      "word": "connection",
+      "log_probability_ratio": 5.776291307501182,
+      "count": 57
+    },
+    {
+      "category": "Other event",
+      "word": "organized",
+      "log_probability_ratio": 5.7588995647893135,
+      "count": 18
+    },
+    {
+      "category": "Other event",
+      "word": "gathering",
+      "log_probability_ratio": 3.816446038601911,
+      "count": 206
+    },
+    {
+      "category": "Other event",
+      "word": "public",
+      "log_probability_ratio": 3.0250859185796797,
+      "count": 257
+    },
+    {
+      "category": "Other event",
+      "word": "forum",
+      "log_probability_ratio": 2.9799750241004466,
+      "count": 58
+    },
+    {
+      "category": "Other event",
+      "word": "scheduled",
+      "log_probability_ratio": 2.869810680706038,
+      "count": 129
+    },
+    {
+      "category": "Other event",
+      "word": "event",
+      "log_probability_ratio": 2.6656718489370004,
+      "count": 186
+    },
+    {
+      "category": "Other event",
+      "word": "explore",
+      "log_probability_ratio": 2.5913170343086636,
+      "count": 115
+    },
+    {
+      "category": "Other event",
+      "word": "gather",
+      "log_probability_ratio": 2.4089954775147087,
+      "count": 1
+    },
+    {
+      "category": "Other event",
+      "word": "day",
+      "log_probability_ratio": 2.3036349618568823,
+      "count": 152
+    },
+    {
+      "category": "Other event",
+      "word": "invite",
+      "log_probability_ratio": 2.0765555044214343,
+      "count": 141
+    },
+    {
+      "category": "Not an event",
+      "word": "mean",
+      "log_probability_ratio": 7.859237438585662,
+      "count": 54
+    },
+    {
+      "category": "Not an event",
+      "word": "definition",
+      "log_probability_ratio": 7.859237438585662,
+      "count": 54
+    },
+    {
+      "category": "Not an event",
+      "word": "homework",
+      "log_probability_ratio": 7.840888299917466,
+      "count": 53
+    },
+    {
+      "category": "Not an event",
+      "word": "website",
+      "log_probability_ratio": 7.8221961669053135,
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "section",
+      "log_probability_ratio": 7.8221961669053135,
+      "count": 52
+    },
+    {
+      "category": "Not an event",
+      "word": "contains",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "book",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "read",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "difference",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "article",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "describe",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "become",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "popular",
+      "log_probability_ratio": 7.803147971934619,
+      "count": 51
+    },
+    {
+      "category": "Not an event",
+      "word": "relate",
+      "log_probability_ratio": 7.783729886077517,
+      "count": 50
+    },
+    {
+      "category": "Not an event",
+      "word": "machine",
+      "log_probability_ratio": 5.238198614473082,
+      "count": 3
+    }
+  ],
+  "collocations": [
+    {
+      "bigram": "museum explorer",
+      "frequency": 37,
+      "pmi": 12.34556258381737
+    },
+    {
+      "bigram": "coastal journey",
+      "frequency": 46,
+      "pmi": 12.031453993389308
+    },
+    {
+      "bigram": "modern biology",
+      "frequency": 47,
+      "pmi": 12.000427097768682
+    },
+    {
+      "bigram": "rhythm nights",
+      "frequency": 48,
+      "pmi": 11.970053448725164
+    },
+    {
+      "bigram": "climate frontiers",
+      "frequency": 49,
+      "pmi": 11.940306105331112
+    },
+    {
+      "bigram": "football match",
+      "frequency": 49,
+      "pmi": 11.940306105331112
+    },
+    {
+      "bigram": "python essentials",
+      "frequency": 49,
+      "pmi": 11.940306105331112
+    },
+    {
+      "bigram": "basketball game",
+      "frequency": 50,
+      "pmi": 11.911159759671596
+    },
+    {
+      "bigram": "urban futures",
+      "frequency": 50,
+      "pmi": 11.911159759671596
+    },
+    {
+      "bigram": "visual stories",
+      "frequency": 50,
+      "pmi": 11.911159759671596
+    },
+    {
+      "bigram": "article describes",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "became popular",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "clean streets",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "describes how",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "difference between",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "nova device",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "reading them",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "related ideas",
+      "frequency": 51,
+      "pmi": 11.882590607474825
+    },
+    {
+      "bigram": "spring melodies",
+      "frequency": 52,
+      "pmi": 11.854576231305229
+    },
+    {
+      "bigram": "machine learning",
+      "frequency": 3,
+      "pmi": 11.854576231305227
+    },
+    {
+      "bigram": "cloud foundations",
+      "frequency": 53,
+      "pmi": 11.827095494883121
+    },
+    {
+      "bigram": "factory insight",
+      "frequency": 53,
+      "pmi": 11.827095494883121
+    },
+    {
+      "bigram": "idea arena",
+      "frequency": 53,
+      "pmi": 11.827095494883121
+    },
+    {
+      "bigram": "my homework",
+      "frequency": 53,
+      "pmi": 11.827095494883121
+    },
+    {
+      "bigram": "orbit platform",
+      "frequency": 54,
+      "pmi": 11.800128447282852
+    },
+    {
+      "bigram": "what does",
+      "frequency": 54,
+      "pmi": 11.800128447282852
+    },
+    {
+      "bigram": "eco mobility",
+      "frequency": 55,
+      "pmi": 11.77365623592166
+    },
+    {
+      "bigram": "historic trails",
+      "frequency": 55,
+      "pmi": 11.77365623592166
+    },
+    {
+      "bigram": "swimming race",
+      "frequency": 56,
+      "pmi": 11.747661027388716
+    },
+    {
+      "bigram": "arts mosaic",
+      "frequency": 57,
+      "pmi": 11.722125935281579
+    }
+  ],
+  "pos": {
+    "Workshop": {
+      "NN": 1775,
+      "NNS": 677,
+      "IN": 1589,
+      "CD": 840,
+      "JJ": 1157,
+      "VBZ": 218,
+      "DT": 641,
+      "RB": 49,
+      "VBN": 163,
+      "VBP": 147,
+      ".": 879,
+      "MD": 199,
+      "VB": 260,
+      "PRP": 297,
+      "POS": 60,
+      "NNP": 1764,
+      ",": 183,
+      "VBG": 191,
+      "VBD": 62,
+      "CC": 111,
+      "TO": 66,
+      "PRP$": 90,
+      "NNPS": 23,
+      ":": 188,
+      "(": 9,
+      ")": 9,
+      "RP": 5,
+      "EX": 10
+    },
+    "Seminar": {
+      "NN": 2128,
+      "NNS": 818,
+      "IN": 1203,
+      "CD": 841,
+      "JJ": 745,
+      "VBZ": 242,
+      "DT": 864,
+      "VBN": 290,
+      ",": 297,
+      ".": 881,
+      "MD": 303,
+      "VB": 339,
+      "CC": 241,
+      "JJR": 125,
+      "POS": 60,
+      "PRP": 162,
+      "VBP": 134,
+      "VBG": 83,
+      "NNP": 1891,
+      "NNPS": 4,
+      "TO": 186,
+      "RB": 35,
+      "VBD": 57,
+      "JJS": 22,
+      "PRP$": 92,
+      ":": 174,
+      "(": 9,
+      ")": 9,
+      "RP": 6,
+      "EX": 9
+    },
+    "Competition": {
+      "NN": 1580,
+      "NNS": 993,
+      "IN": 1202,
+      "CD": 838,
+      "JJ": 714,
+      "VBZ": 223,
+      "DT": 622,
+      "VBG": 370,
+      ",": 178,
+      "VBN": 547,
+      "VB": 583,
+      "CC": 231,
+      ".": 880,
+      "POS": 60,
+      "NNP": 1866,
+      "MD": 422,
+      "RB": 38,
+      "PRP": 158,
+      "VBP": 121,
+      "VBD": 61,
+      "TO": 74,
+      "PRP$": 95,
+      "JJS": 4,
+      ":": 198,
+      "NNPS": 2,
+      "(": 10,
+      ")": 10,
+      "RP": 9,
+      "EX": 11
+    },
+    "Meeting": {
+      "NN": 1958,
+      "NNS": 874,
+      "IN": 1259,
+      "CD": 853,
+      "JJ": 528,
+      "VBZ": 231,
+      "DT": 752,
+      "VB": 824,
+      "CC": 360,
+      "TO": 209,
+      ".": 872,
+      "POS": 60,
+      "NNP": 1813,
+      ",": 259,
+      "VBP": 138,
+      "MD": 284,
+      "VBN": 278,
+      "PRP": 157,
+      "RB": 42,
+      "VBD": 58,
+      "VBG": 79,
+      "PRP$": 95,
+      ":": 183,
+      "(": 9,
+      ")": 9,
+      "RP": 7,
+      "EX": 11,
+      "NNPS": 7
+    },
+    "Cultural event": {
+      "NN": 2064,
+      "NNS": 667,
+      "IN": 1242,
+      "CD": 839,
+      "JJ": 830,
+      "VBZ": 350,
+      "DT": 890,
+      ",": 279,
+      "VBN": 167,
+      "CC": 235,
+      ".": 875,
+      "POS": 60,
+      "NNP": 1861,
+      "MD": 184,
+      "VB": 356,
+      "TO": 189,
+      "NNPS": 16,
+      "PRP": 151,
+      "VBP": 132,
+      "VBD": 58,
+      "RB": 48,
+      "VBG": 91,
+      "PRP$": 102,
+      ":": 164,
+      "(": 11,
+      ")": 11,
+      "RP": 8,
+      "EX": 10
+    },
+    "Conference": {
+      "NN": 1564,
+      "NNS": 1463,
+      "IN": 1258,
+      "CD": 857,
+      "JJ": 965,
+      "VBZ": 349,
+      "DT": 530,
+      "VBN": 161,
+      ",": 418,
+      "RB": 172,
+      "CC": 234,
+      ".": 883,
+      "POS": 60,
+      "PRP": 170,
+      "VBP": 140,
+      "VBG": 83,
+      "NNP": 1719,
+      "MD": 296,
+      "VB": 333,
+      "NNPS": 44,
+      "TO": 70,
+      "VBD": 59,
+      "PRP$": 86,
+      ":": 160,
+      "(": 9,
+      ")": 9,
+      "RP": 5,
+      "EX": 10
+    },
+    "Webinar": {
+      "NN": 2324,
+      "NNS": 675,
+      "IN": 1158,
+      "CD": 808,
+      "JJ": 849,
+      "PRP": 170,
+      "VBP": 150,
+      "VBG": 122,
+      "DT": 859,
+      ".": 884,
+      "MD": 311,
+      "VB": 566,
+      "VBN": 281,
+      "TO": 183,
+      "POS": 60,
+      "VBZ": 217,
+      "NNP": 1620,
+      "CC": 245,
+      "RB": 162,
+      "NNPS": 10,
+      ",": 140,
+      "VBD": 50,
+      "PRP$": 99,
+      ":": 158,
+      "(": 8,
+      ")": 8,
+      "RP": 3,
+      "$": 1,
+      "EX": 9
+    },
+    "Hackathon": {
+      "NN": 2138,
+      "NNS": 657,
+      "IN": 1297,
+      "CD": 969,
+      "JJ": 751,
+      "VBZ": 227,
+      "DT": 779,
+      ".": 882,
+      "VB": 587,
+      "PRP$": 326,
+      "POS": 60,
+      "NNP": 1983,
+      ",": 167,
+      "VBP": 262,
+      "TO": 303,
+      "CC": 234,
+      "VBN": 143,
+      "PRP": 161,
+      "VBG": 112,
+      "MD": 172,
+      "RB": 149,
+      "VBD": 50,
+      ":": 166,
+      "JJS": 2,
+      "(": 10,
+      ")": 10,
+      "RP": 5,
+      "EX": 12,
+      "$": 1
+    },
+    "Sports event": {
+      "NN": 1881,
+      "NNS": 813,
+      "IN": 1587,
+      "CD": 824,
+      "JJ": 858,
+      "VBZ": 229,
+      "DT": 870,
+      "VBN": 151,
+      ".": 878,
+      "MD": 301,
+      "VB": 348,
+      "CC": 243,
+      "POS": 60,
+      "PRP": 282,
+      "VBP": 392,
+      "VBG": 89,
+      "NNP": 1814,
+      ",": 175,
+      ":": 310,
+      "TO": 69,
+      "VBD": 57,
+      "$": 2,
+      "RB": 37,
+      "PRP$": 92,
+      "NNPS": 11,
+      "(": 8,
+      ")": 8,
+      "RP": 8,
+      "EX": 9
+    },
+    "Exhibition": {
+      "NN": 1775,
+      "NNS": 1030,
+      "IN": 1393,
+      "CD": 830,
+      "JJ": 723,
+      "VBZ": 240,
+      "DT": 749,
+      "VBP": 245,
+      ".": 872,
+      "CC": 360,
+      "MD": 295,
+      "VB": 335,
+      "PRP$": 213,
+      "TO": 182,
+      "VBG": 191,
+      "POS": 60,
+      "NNP": 1756,
+      "RB": 44,
+      ",": 305,
+      "VBN": 170,
+      "PRP": 162,
+      "$": 2,
+      "VBD": 44,
+      "FW": 1,
+      ":": 179,
+      "NNPS": 8,
+      "(": 9,
+      ")": 9,
+      "RP": 4,
+      "EX": 11,
+      "''": 1,
+      "PDT": 1
+    },
+    "Career event": {
+      "NN": 1900,
+      "NNS": 1214,
+      "IN": 1419,
+      "CD": 816,
+      "JJ": 720,
+      "VBZ": 233,
+      "DT": 545,
+      ".": 889,
+      "MD": 272,
+      "CC": 360,
+      "VB": 463,
+      "POS": 60,
+      "NNP": 1946,
+      ",": 304,
+      "PRP": 172,
+      "VBP": 139,
+      "VBG": 129,
+      "VBD": 49,
+      "RB": 181,
+      "VBN": 166,
+      "TO": 79,
+      "PRP$": 89,
+      ":": 174,
+      "NNPS": 3,
+      "(": 10,
+      ")": 10,
+      "RP": 6,
+      "EX": 7
+    },
+    "Community service": {
+      "NN": 2056,
+      "NNS": 1023,
+      "IN": 1435,
+      "CD": 825,
+      "JJ": 680,
+      "VBG": 363,
+      "VBZ": 220,
+      "DT": 621,
+      "WDT": 131,
+      "VBP": 498,
+      ".": 879,
+      "POS": 60,
+      "NNP": 1859,
+      "MD": 170,
+      "VB": 210,
+      ":": 292,
+      "CC": 106,
+      "PRP": 280,
+      "RB": 167,
+      ",": 172,
+      "VBD": 56,
+      "VBN": 158,
+      "TO": 70,
+      "PRP$": 97,
+      "NNPS": 4,
+      "(": 12,
+      ")": 12,
+      "RP": 7,
+      "EX": 10,
+      "RBR": 1
+    },
+    "Social gathering": {
+      "NN": 2128,
+      "NNS": 529,
+      "IN": 1458,
+      "CD": 822,
+      "JJ": 634,
+      "VBZ": 221,
+      "DT": 523,
+      "VBP": 246,
+      "CC": 473,
+      "VBN": 289,
+      "TO": 308,
+      "VB": 330,
+      "RB": 184,
+      ".": 883,
+      "POS": 60,
+      "NNP": 1852,
+      ",": 304,
+      "VBD": 61,
+      "PRP": 160,
+      "VBG": 337,
+      "RP": 139,
+      "MD": 57,
+      "PRP$": 98,
+      ":": 160,
+      "NNPS": 4,
+      "(": 10,
+      ")": 10,
+      "EX": 9
+    },
+    "Training course": {
+      "NN": 2173,
+      "NNS": 904,
+      "IN": 1399,
+      "CD": 879,
+      "JJ": 980,
+      "VBZ": 346,
+      "DT": 1011,
+      ",": 296,
+      ".": 891,
+      "CC": 360,
+      "POS": 60,
+      "PRP": 172,
+      "VBP": 151,
+      "VBG": 96,
+      "VBN": 167,
+      "NNP": 1922,
+      "MD": 188,
+      "VB": 474,
+      "TO": 191,
+      "VBD": 58,
+      "RB": 54,
+      "PRP$": 92,
+      ":": 169,
+      "NNPS": 1,
+      "$": 1,
+      "(": 7,
+      ")": 7,
+      "RP": 3,
+      "EX": 10
+    },
+    "Product launch": {
+      "NN": 2172,
+      "NNS": 547,
+      "IN": 1089,
+      "CD": 818,
+      "JJ": 913,
+      "VBZ": 228,
+      "DT": 1109,
+      "VBN": 168,
+      "VB": 621,
+      "TO": 301,
+      "CC": 360,
+      "PRP$": 455,
+      ".": 875,
+      "POS": 60,
+      "NNP": 1856,
+      "MD": 306,
+      ",": 290,
+      "JJR": 132,
+      "VBP": 152,
+      "VBG": 98,
+      "RB": 43,
+      "JJS": 116,
+      "PRP": 165,
+      "VBD": 51,
+      ":": 162,
+      "(": 9,
+      ")": 9,
+      "RP": 6,
+      "EX": 11,
+      "$": 1
+    },
+    "Academic assessment": {
+      "NN": 1826,
+      "NNS": 740,
+      "IN": 1349,
+      "CD": 831,
+      "JJ": 737,
+      "VBZ": 359,
+      "DT": 862,
+      "VBN": 380,
+      "MD": 305,
+      "VB": 467,
+      "PRP$": 344,
+      "CC": 256,
+      ".": 882,
+      "POS": 60,
+      "NNP": 1852,
+      "RB": 46,
+      ":": 275,
+      "VBP": 259,
+      "NNPS": 19,
+      "VBD": 52,
+      "FW": 4,
+      "PRP": 165,
+      "VBG": 87,
+      ",": 164,
+      "TO": 71,
+      "(": 10,
+      ")": 10,
+      "RP": 8,
+      "EX": 10
+    },
+    "Ceremony": {
+      "NN": 1524,
+      "NNS": 1052,
+      "IN": 1336,
+      "CD": 831,
+      "JJ": 774,
+      "VBZ": 220,
+      "DT": 848,
+      "VB": 600,
+      "PRP$": 242,
+      "CC": 360,
+      "VBP": 287,
+      ".": 876,
+      "POS": 60,
+      "PRP": 163,
+      "VBG": 72,
+      "NNP": 1910,
+      "MD": 281,
+      "RB": 48,
+      "VBN": 170,
+      ",": 172,
+      "TO": 70,
+      "VBD": 42,
+      ":": 192,
+      "(": 11,
+      ")": 11,
+      "RP": 4,
+      "EX": 10,
+      "NNPS": 7
+    },
+    "Tour or excursion": {
+      "NN": 1855,
+      "NNS": 518,
+      "IN": 1346,
+      "CD": 825,
+      "JJ": 1080,
+      "VBZ": 219,
+      "DT": 1001,
+      "MD": 304,
+      ".": 878,
+      "VB": 473,
+      "RB": 283,
+      "CC": 236,
+      "POS": 60,
+      "NNP": 1834,
+      "VBN": 149,
+      ",": 187,
+      "VBD": 62,
+      "PRP": 171,
+      "VBP": 144,
+      "VBG": 85,
+      "TO": 68,
+      "PRP$": 96,
+      ":": 162,
+      "(": 7,
+      ")": 7,
+      "RP": 5,
+      "EX": 11,
+      "NNPS": 5
+    },
+    "Other event": {
+      "NN": 1729,
+      "NNS": 665,
+      "IN": 1072,
+      "CD": 804,
+      "JJ": 877,
+      "PRP": 172,
+      "VBP": 283,
+      "VBG": 88,
+      "DT": 1244,
+      ".": 885,
+      "MD": 178,
+      "VB": 821,
+      ",": 293,
+      "CC": 231,
+      "POS": 60,
+      "VBZ": 339,
+      "NNP": 1775,
+      "VBN": 322,
+      "TO": 319,
+      "VBD": 56,
+      "RB": 46,
+      "PRP$": 83,
+      "NNPS": 7,
+      ":": 180,
+      "(": 11,
+      ")": 11,
+      "RP": 8,
+      "EX": 9
+    },
+    "Not an event": {
+      "DT": 417,
+      "JJ": 253,
+      "NNS": 225,
+      "IN": 313,
+      "NNP": 334,
+      ".": 417,
+      "PRP": 260,
+      "VBP": 156,
+      "VBG": 117,
+      "NN": 690,
+      "MD": 51,
+      "VB": 121,
+      "CC": 103,
+      "VBN": 208,
+      "PRP$": 105,
+      ":": 53,
+      "VBZ": 210,
+      "RB": 55,
+      "NNPS": 13,
+      "WRB": 51,
+      "VBD": 53,
+      "WP": 54,
+      ",": 52
+    }
+  },
+  "chunk_patterns": [
+    {
+      "label": "VENUE",
+      "pattern": "NN",
+      "count": 7548
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT NN",
+      "count": 5745
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNS",
+      "count": 5644
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN",
+      "count": 5089
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN",
+      "count": 4686
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP NNP NNP",
+      "count": 2936
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP NNP NNP",
+      "count": 2906
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT JJ NN",
+      "count": 2415
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ",
+      "count": 2272
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT JJ NN",
+      "count": 2242
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT NN NN",
+      "count": 1655
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP",
+      "count": 1600
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP NNP",
+      "count": 1568
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ NN",
+      "count": 1514
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP NNP",
+      "count": 1489
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN NN",
+      "count": 1487
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP",
+      "count": 1373
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NNS",
+      "count": 1369
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ NN",
+      "count": 1154
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ NNS",
+      "count": 1037
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ NN NN",
+      "count": 942
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ NN NN",
+      "count": 939
+    },
+    {
+      "label": "VENUE",
+      "pattern": "CD",
+      "count": 923
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP CD",
+      "count": 894
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP CD",
+      "count": 883
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN NNS",
+      "count": 807
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ",
+      "count": 747
+    },
+    {
+      "label": "VENUE",
+      "pattern": "CD NNP CD",
+      "count": 658
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN NNS IN CD NNP CD",
+      "count": 571
+    },
+    {
+      "label": "EVENT",
+      "pattern": "CD",
+      "count": 557
+    }
+  ]
+}

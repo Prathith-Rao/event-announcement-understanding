@@ -1,0 +1,583 @@
+{
+  "mode": "development",
+  "label_status": "AI-authored synthetic",
+  "data_hash": "a33ba49d1c84f27bb6433c76c52087e73684f77b3c54fb46da7eeb83bfe4f51d",
+  "models": {
+    "majority": {
+      "accuracy": 0.2,
+      "macro_precision": 0.04,
+      "macro_recall": 0.2,
+      "macro_f1": 0.06666666666666667,
+      "per_class": {
+        "Workshop": {
+          "precision": 0.2,
+          "recall": 1.0,
+          "f1-score": 0.3333333333333333,
+          "support": 3.0
+        },
+        "Seminar": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "Competition": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "Meeting": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "Cultural event": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        }
+      },
+      "labels": [
+        "Workshop",
+        "Seminar",
+        "Competition",
+        "Meeting",
+        "Cultural event",
+        "ABSTAIN"
+      ],
+      "confusion_matrix": [
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "sample_count": 15,
+      "abstentions": 0
+    },
+    "keywords": {
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "per_class": {
+        "Workshop": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Seminar": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Competition": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Meeting": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Cultural event": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        }
+      },
+      "labels": [
+        "Workshop",
+        "Seminar",
+        "Competition",
+        "Meeting",
+        "Cultural event",
+        "ABSTAIN"
+      ],
+      "confusion_matrix": [
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "sample_count": 15,
+      "abstentions": 0
+    },
+    "nltk_nb": {
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "per_class": {
+        "Workshop": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Seminar": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Competition": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Meeting": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Cultural event": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        }
+      },
+      "labels": [
+        "Workshop",
+        "Seminar",
+        "Competition",
+        "Meeting",
+        "Cultural event",
+        "ABSTAIN"
+      ],
+      "confusion_matrix": [
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "sample_count": 15,
+      "abstentions": 0
+    },
+    "logistic_raw": {
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "per_class": {
+        "Workshop": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Seminar": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Competition": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Meeting": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Cultural event": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        }
+      },
+      "labels": [
+        "Workshop",
+        "Seminar",
+        "Competition",
+        "Meeting",
+        "Cultural event",
+        "ABSTAIN"
+      ],
+      "confusion_matrix": [
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "sample_count": 15,
+      "abstentions": 0
+    },
+    "logistic_preprocessed": {
+      "accuracy": 1.0,
+      "macro_precision": 1.0,
+      "macro_recall": 1.0,
+      "macro_f1": 1.0,
+      "per_class": {
+        "Workshop": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Seminar": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Competition": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Meeting": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "Cultural event": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        }
+      },
+      "labels": [
+        "Workshop",
+        "Seminar",
+        "Competition",
+        "Meeting",
+        "Cultural event",
+        "ABSTAIN"
+      ],
+      "confusion_matrix": [
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "sample_count": 15,
+      "abstentions": 0
+    }
+  },
+  "errors": [
+    {
+      "id": "synthetic-seminar-12",
+      "text": "Reserve an afternoon for the seminar \"Climate Research\". The event is on 22 March 2028 at 3:30 PM. Venue: Elm Hall. A speaker will present findings followed by audience questions.",
+      "truth": "Seminar",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-seminar-13",
+      "text": "A lecture on Modern Astronomy has been arranged for 23 April 2028 at 11:30 AM. Venue: Pine Auditorium. Listen to an invited researcher discuss recent discoveries.",
+      "truth": "Seminar",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-seminar-14",
+      "text": "The student society invites you to its seminar \"Climate Research\" on 24 May 2028 at 9:30 AM. Venue: Oak Hall. A speaker will present findings followed by audience questions.",
+      "truth": "Seminar",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-competition-12",
+      "text": "Reserve an afternoon for the competition \"Design Challenge\". The event is on 22 March 2028 at 3:30 PM. Venue: Elm Hall. Teams will compete for prizes awarded by a panel of judges.",
+      "truth": "Competition",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-competition-13",
+      "text": "A hackathon on Campus Code Cup has been arranged for 23 April 2028 at 11:30 AM. Venue: Pine Auditorium. Entries will be ranked and winners receive awards.",
+      "truth": "Competition",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-competition-14",
+      "text": "The student society invites you to its competition \"Design Challenge\" on 24 May 2028 at 9:30 AM. Venue: Oak Hall. Teams will compete for prizes awarded by a panel of judges.",
+      "truth": "Competition",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-meeting-12",
+      "text": "Reserve an afternoon for the meeting \"Student Council\". The event is on 22 March 2028 at 3:30 PM. Venue: Elm Hall. Members will discuss the agenda and vote on proposals.",
+      "truth": "Meeting",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-meeting-13",
+      "text": "A meeting on Planning Committee has been arranged for 23 April 2028 at 11:30 AM. Venue: Pine Auditorium. Representatives should bring suggestions for the budget discussion.",
+      "truth": "Meeting",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-meeting-14",
+      "text": "The student society invites you to its meeting \"Student Council\" on 24 May 2028 at 9:30 AM. Venue: Oak Hall. Members will discuss the agenda and vote on proposals.",
+      "truth": "Meeting",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-cultural-12",
+      "text": "Reserve an afternoon for the concert \"Spring Melodies\". The event is on 22 March 2028 at 3:30 PM. Venue: Elm Hall. Enjoy an evening of live music and artistic performances.",
+      "truth": "Cultural event",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-cultural-13",
+      "text": "A festival on Campus Arts has been arranged for 23 April 2028 at 11:30 AM. Venue: Pine Auditorium. The celebration features dance, theatre and musical performances.",
+      "truth": "Cultural event",
+      "model": "majority",
+      "prediction": "Workshop"
+    },
+    {
+      "id": "synthetic-cultural-14",
+      "text": "The student society invites you to its concert \"Spring Melodies\" on 24 May 2028 at 9:30 AM. Venue: Oak Hall. Enjoy an evening of live music and artistic performances.",
+      "truth": "Cultural event",
+      "model": "majority",
+      "prediction": "Workshop"
+    }
+  ]
+}

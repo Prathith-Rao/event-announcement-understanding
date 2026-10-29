@@ -1,0 +1,167 @@
+[
+  {
+    "institution": "IIT Kanpur",
+    "url": "https://www.iitk.ac.in/certex/ahed.html",
+    "link_pattern": "/certex/.*\\.html"
+  },
+  {
+    "institution": "Alliance University",
+    "url": "https://www.alliance.edu.in/ecs_event/advanced-energy-transition-workshop-2026/",
+    "link_pattern": "/ecs_event/[^/]+/"
+  },
+  {
+    "institution": "IISER Pune",
+    "url": "https://www.iiserpune.ac.in/events/6193/workshop-on-group-theory-2026",
+    "link_pattern": "/events/\\d+/"
+  },
+  {
+    "institution": "IISER Pune",
+    "url": "https://www.iiserpune.ac.in/events/3922/shaping-your-future-opportunities-in-industry-and-entrepreneurship",
+    "link_pattern": "/events/\\d+/"
+  },
+  {
+    "institution": "IISER Pune",
+    "url": "https://www.iiserpune.ac.in/events",
+    "link_pattern": "/events/\\d+/"
+  },
+  {
+    "institution": "IIT Bombay",
+    "url": "https://s3.ieor.iitb.ac.in/odtl2026/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "Indian Institute of Tropical Meteorology",
+    "url": "https://www.tropmet.res.in/244-event_details",
+    "link_pattern": "/\\d+-event_details"
+  },
+  {
+    "institution": "S.A. College of Arts and Science",
+    "url": "https://sacas.ac.in/announcements/research-and-development-cell-s-a-college-of-arts-science-organized-one-day-workshop-on-ai-for-education-and-research-on-12-09-2026/",
+    "link_pattern": "/announcements/[^/]+/"
+  },
+  {
+    "institution": "Ashoka University",
+    "url": "https://scdlds.ashoka.edu.in/events/3rd-annual-workshop-on-ai-ml-methods-in-weather-and-climate-modelling/",
+    "link_pattern": "/events/[^/]+/"
+  },
+  {
+    "institution": "University of Illinois Chicago",
+    "url": "https://apac.uic.edu/apac-events/apac-meetings/",
+    "link_pattern": "/events/[^/]+/"
+  },
+  {
+    "institution": "Sangeet Natak Akademi",
+    "url": "https://sangeetnatak.gov.in/events-programmes",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "University of Colorado Boulder",
+    "url": "https://www.colorado.edu/nvc/compete/general-competition",
+    "link_pattern": "/nvc/"
+  },
+  {
+    "institution": "University of California Riverside",
+    "url": "https://engr.ucr.edu/bear-tank",
+    "link_pattern": "/[^/]+$"
+  },
+  {
+    "institution": "Foothill College",
+    "url": "https://fhweb.foothill.edu/business/case-competition.html",
+    "link_pattern": "/business/.*html"
+  },
+  {
+    "institution": "University of Baltimore",
+    "url": "https://www.ubalt.edu/about/newsroom/merrick-today-2025-rise-app-open-promo.cfm",
+    "link_pattern": "/about/newsroom/.*cfm"
+  },
+  {
+    "institution": "Hang Seng University of Hong Kong",
+    "url": "https://teaching-and-learning.hsu.edu.hk/hsuhk-innovation-project-competition-2025/",
+    "link_pattern": "/[^/]*competition[^/]*/"
+  },
+  {
+    "institution": "Indira Gandhi National Tribal University",
+    "url": "https://igntu.ac.in/page/seminar",
+    "link_pattern": "/page/seminar"
+  },
+  {
+    "institution": "College of San Mateo",
+    "url": "https://collegeofsanmateo.edu/apd/meetings.php",
+    "link_pattern": "/apd/.*php"
+  },
+  {
+    "institution": "Udbhav Sports and Cultural Association",
+    "url": "https://udbhavindia.com/udbhavutsav2026.html",
+    "link_pattern": "/udbhav.*html"
+  },
+  {
+    "institution": "Assam University",
+    "url": "https://www.aus.ac.in/seminars-confrences/",
+    "link_pattern": "/[0-9]{4}/[0-9]{2}/[0-9]{2}/"
+  },
+  {
+    "institution": "Punjab Engineering College",
+    "url": "https://pec.ac.in/events/aicte-sponsored-atal-vaani-workshop-inaugurated-at-punjab-engineering-college-chandigarh",
+    "link_pattern": "/events/[^/]+"
+  },
+  {
+    "institution": "Pomona College",
+    "url": "https://www.pomona.edu/academics/departments/music/concert-calendar",
+    "link_pattern": "/events/|/news/"
+  },
+  {
+    "institution": "IIM Ahmedabad",
+    "url": "https://www.iima.ac.in/events/workshop-advancing-research-transportation-systems-and-logistics-management",
+    "link_pattern": "/events/[^/]+"
+  },
+  {
+    "institution": "Maharaja Institute of Technology Mysore",
+    "url": "https://icmsaa2026.mitmysore.in/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "Carleton College",
+    "url": "https://serc.carleton.edu/teaching_computation/workshop_2026/apply_participate_2026_worksho.html",
+    "link_pattern": "/teaching_computation/.*html"
+  },
+  {
+    "institution": "Yale University",
+    "url": "https://fas.yale.edu/news-announcements/news/save-dates-provisional-2026-27-faculty-meeting-schedule",
+    "link_pattern": "/news-announcements/news/[^/]*meeting[^/]*"
+  },
+  {
+    "institution": "Stanford University",
+    "url": "https://pcal.stanford.edu/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "University of Illinois Urbana-Champaign",
+    "url": "https://extension.illinois.edu/events/2026-12-06-fall-workshop-series",
+    "link_pattern": "/events/[^/]+"
+  },
+  {
+    "institution": "University of Texas at Austin",
+    "url": "https://sites.utexas.edu/scimlworkshop/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "North Carolina State University",
+    "url": "https://quantum.ncsu.edu/quantum-workshop/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "University of the South",
+    "url": "https://new.sewanee.edu/offices/the-college-of-arts-sciences-offices/dean-of-the-college/important-dates/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "Yale University",
+    "url": "https://indico.wlab.yale.edu/event/906/",
+    "link_pattern": "(?!)"
+  },
+  {
+    "institution": "University of Notre Dame",
+    "url": "https://psychology.nd.edu/news-events/events/2026/10/28/public-writing-workshop-with-commonweal-magazine/",
+    "link_pattern": "/news-events/events/[0-9]{4}/[0-9]{2}/[0-9]{2}/[^/]+/"
+  }
+]

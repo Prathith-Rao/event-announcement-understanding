@@ -1,0 +1,1284 @@
+{
+  "partition": "train_only",
+  "mode": "provisional",
+  "records": 15,
+  "class_counts": {
+    "Workshop": 5,
+    "Competition": 7,
+    "Seminar": 1,
+    "Cultural event": 1,
+    "Meeting": 1
+  },
+  "raw_tokens": 865,
+  "raw_vocabulary": 319,
+  "preprocessed_tokens": 410,
+  "preprocessed_vocabulary": 218,
+  "collocation_min_frequency": 2,
+  "collocation_statistic": "PMI within sentences; no cross-sentence pairs",
+  "frequent": [
+    {
+      "category": "Workshop",
+      "word": "workshop",
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "university",
+      "count": 3
+    },
+    {
+      "category": "Workshop",
+      "word": "academic",
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "education",
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "october",
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "technology",
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "language",
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "bring",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "together",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "educator",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "leader",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "researcher",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "stakeholder",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "examine",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "ai",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "genuinely",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "support",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "high",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "preserve",
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "quality",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "national",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "seminar",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "culture",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "tradition",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "tribe",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "organize",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "birsa",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "munda",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "chair",
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "november",
+      "count": 1
+    },
+    {
+      "category": "Competition",
+      "word": "innovation",
+      "count": 14
+    },
+    {
+      "category": "Competition",
+      "word": "competition",
+      "count": 10
+    },
+    {
+      "category": "Competition",
+      "word": "project",
+      "count": 9
+    },
+    {
+      "category": "Competition",
+      "word": "student",
+      "count": 9
+    },
+    {
+      "category": "Competition",
+      "word": "hsuhk",
+      "count": 8
+    },
+    {
+      "category": "Competition",
+      "word": "centre",
+      "count": 7
+    },
+    {
+      "category": "Competition",
+      "word": "organise",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "social",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "aim",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "promote",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "culture",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "creativity",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "enrich",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "learn",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "experience",
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "teaching",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "learning",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "ctl",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "year",
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "issue",
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "meeting",
+      "count": 2
+    },
+    {
+      "category": "Meeting",
+      "word": "first",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "college",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "faculty",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "academic",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "year",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "hold",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "tuesday",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "september",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "naylor",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "auditorium",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "gailor",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "hall",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "date",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "time",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "subject",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "change",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "please",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "refer",
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "calendar",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "come",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "together",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "make",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "festival",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "truly",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "unforgettable",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "detail",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "available",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "attached",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "document",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "look",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "forward",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "positive",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "reply",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "host",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "gwalior",
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "thank",
+      "count": 1
+    }
+  ],
+  "distinctive": [
+    {
+      "category": "Workshop",
+      "word": "workshop",
+      "log_probability_ratio": 2.457996807036332,
+      "count": 6
+    },
+    {
+      "category": "Workshop",
+      "word": "university",
+      "log_probability_ratio": 1.8983810191009094,
+      "count": 3
+    },
+    {
+      "category": "Workshop",
+      "word": "education",
+      "log_probability_ratio": 1.6106989466491284,
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "october",
+      "log_probability_ratio": 1.6106989466491284,
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "language",
+      "log_probability_ratio": 1.6106989466491284,
+      "count": 2
+    },
+    {
+      "category": "Workshop",
+      "word": "bring",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "educator",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "leader",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "researcher",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "stakeholder",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "examine",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "ai",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "genuinely",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "support",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Workshop",
+      "word": "high",
+      "log_probability_ratio": 1.205233838540964,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "national",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "seminar",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "tradition",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "tribe",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "organize",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "birsa",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "munda",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "chair",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "november",
+      "log_probability_ratio": 1.6902900090631952,
+      "count": 1
+    },
+    {
+      "category": "Seminar",
+      "word": "culture",
+      "log_probability_ratio": -0.10146946016485965,
+      "count": 1
+    },
+    {
+      "category": "Competition",
+      "word": "innovation",
+      "log_probability_ratio": 2.4320802845789404,
+      "count": 14
+    },
+    {
+      "category": "Competition",
+      "word": "competition",
+      "log_probability_ratio": 2.121925356275101,
+      "count": 10
+    },
+    {
+      "category": "Competition",
+      "word": "project",
+      "log_probability_ratio": 2.0266151764707763,
+      "count": 9
+    },
+    {
+      "category": "Competition",
+      "word": "hsuhk",
+      "log_probability_ratio": 1.9212546608129497,
+      "count": 8
+    },
+    {
+      "category": "Competition",
+      "word": "centre",
+      "log_probability_ratio": 1.8034716251565663,
+      "count": 7
+    },
+    {
+      "category": "Competition",
+      "word": "social",
+      "log_probability_ratio": 1.5157895527047853,
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "creativity",
+      "log_probability_ratio": 1.5157895527047853,
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "enrich",
+      "log_probability_ratio": 1.5157895527047853,
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "learn",
+      "log_probability_ratio": 1.5157895527047853,
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "experience",
+      "log_probability_ratio": 1.5157895527047853,
+      "count": 5
+    },
+    {
+      "category": "Competition",
+      "word": "teaching",
+      "log_probability_ratio": 1.3334679959108307,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "learning",
+      "log_probability_ratio": 1.3334679959108307,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "ctl",
+      "log_probability_ratio": 1.3334679959108307,
+      "count": 4
+    },
+    {
+      "category": "Competition",
+      "word": "student",
+      "log_probability_ratio": 1.3334679959108307,
+      "count": 9
+    },
+    {
+      "category": "Competition",
+      "word": "issue",
+      "log_probability_ratio": 1.3334679959108307,
+      "count": 4
+    },
+    {
+      "category": "Meeting",
+      "word": "meeting",
+      "log_probability_ratio": 2.0306775277960973,
+      "count": 2
+    },
+    {
+      "category": "Meeting",
+      "word": "first",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "hold",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "tuesday",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "september",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "naylor",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "auditorium",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "gailor",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "hall",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "date",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "time",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "subject",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "change",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "please",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Meeting",
+      "word": "refer",
+      "log_probability_ratio": 1.6252124196879327,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "come",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "festival",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "truly",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "unforgettable",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "detail",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "attached",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "document",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "look",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "forward",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "positive",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "reply",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "host",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "gwalior",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "thank",
+      "log_probability_ratio": 1.6486586255873816,
+      "count": 1
+    },
+    {
+      "category": "Cultural event",
+      "word": "together",
+      "log_probability_ratio": 0.9555114450274363,
+      "count": 1
+    }
+  ],
+  "collocations": [
+    {
+      "bigram": "creative concepts",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "entrepreneurship wucie",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "jieh yee",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "leadership iysl",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "should demonstrate",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "strategic partners",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "submission should",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "wu jieh",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "youth sustainability",
+      "frequency": 2,
+      "pmi": 8.44086916761087
+    },
+    {
+      "bigram": "concepts innovative",
+      "frequency": 2,
+      "pmi": 7.855906666889714
+    },
+    {
+      "bigram": "locally or",
+      "frequency": 3,
+      "pmi": 7.855906666889714
+    },
+    {
+      "bigram": "or globally",
+      "frequency": 3,
+      "pmi": 7.855906666889714
+    },
+    {
+      "bigram": "our strategic",
+      "frequency": 2,
+      "pmi": 7.855906666889714
+    },
+    {
+      "bigram": "selected themes",
+      "frequency": 3,
+      "pmi": 7.855906666889714
+    },
+    {
+      "bigram": "various modes",
+      "frequency": 3,
+      "pmi": 7.855906666889714
+    },
+    {
+      "bigram": "also strives",
+      "frequency": 3,
+      "pmi": 7.44086916761087
+    },
+    {
+      "bigram": "issues locally",
+      "frequency": 3,
+      "pmi": 7.44086916761087
+    },
+    {
+      "bigram": "raise their",
+      "frequency": 3,
+      "pmi": 7.44086916761087
+    },
+    {
+      "bigram": "will be",
+      "frequency": 3,
+      "pmi": 7.44086916761087
+    },
+    {
+      "bigram": "critical social",
+      "frequency": 3,
+      "pmi": 7.118941072723508
+    },
+    {
+      "bigram": "year we",
+      "frequency": 4,
+      "pmi": 7.118941072723508
+    },
+    {
+      "bigram": "their awareness",
+      "frequency": 3,
+      "pmi": 7.025831668332026
+    },
+    {
+      "bigram": "proposals through",
+      "frequency": 3,
+      "pmi": 6.855906666889714
+    },
+    {
+      "bigram": "through pitching",
+      "frequency": 3,
+      "pmi": 6.855906666889714
+    },
+    {
+      "bigram": "through training",
+      "frequency": 3,
+      "pmi": 6.855906666889714
+    },
+    {
+      "bigram": "social issues",
+      "frequency": 3,
+      "pmi": 6.703903573444664
+    },
+    {
+      "bigram": "are grateful",
+      "frequency": 2,
+      "pmi": 6.6335142455532665
+    },
+    {
+      "bigram": "yee centre",
+      "frequency": 2,
+      "pmi": 6.6335142455532665
+    },
+    {
+      "bigram": "as well",
+      "frequency": 2,
+      "pmi": 6.44086916761087
+    },
+    {
+      "bigram": "ctl aims",
+      "frequency": 3,
+      "pmi": 6.44086916761087
+    }
+  ],
+  "pos": {
+    "Workshop": {
+      "DT": 13,
+      "NN": 22,
+      "VBZ": 4,
+      "RB": 2,
+      "NNS": 9,
+      ",": 15,
+      "JJ": 15,
+      "CC": 7,
+      "TO": 7,
+      "VB": 8,
+      "WRB": 1,
+      "NNP": 42,
+      "MD": 2,
+      "JJR": 1,
+      "IN": 20,
+      "VBG": 4,
+      ".": 7,
+      "CD": 6,
+      "PRP$": 2,
+      "(": 1,
+      ")": 1,
+      "VBD": 2,
+      "NNPS": 1,
+      "VBN": 3,
+      "VBP": 2,
+      "JJS": 1
+    },
+    "Seminar": {
+      "DT": 2,
+      "NNP": 10,
+      "IN": 5,
+      "JJ": 1,
+      "CC": 1,
+      "MD": 1,
+      "VB": 1,
+      "VBN": 1,
+      "CD": 2,
+      ",": 1,
+      ".": 1
+    },
+    "Competition": {
+      "DT": 53,
+      "NNP": 110,
+      "(": 16,
+      ")": 16,
+      ",": 30,
+      "VBN": 9,
+      "IN": 54,
+      "CC": 38,
+      "VBZ": 11,
+      "RB": 17,
+      "VBG": 11,
+      "PRP$": 7,
+      "JJ": 33,
+      "NN": 62,
+      ".": 17,
+      "NNS": 27,
+      "PRP": 6,
+      "TO": 18,
+      "VB": 17,
+      "VBP": 4,
+      "RBS": 1,
+      "MD": 2,
+      "CD": 1,
+      ":": 1
+    },
+    "Meeting": {
+      "DT": 4,
+      "JJ": 4,
+      "NNP": 10,
+      "IN": 5,
+      "NN": 5,
+      "MD": 1,
+      "VB": 2,
+      "VBN": 1,
+      ",": 2,
+      "CD": 1,
+      ".": 3,
+      "NNS": 2,
+      "CC": 1,
+      "VBP": 1,
+      "TO": 2
+    },
+    "Cultural event": {
+      "NNP": 3,
+      "VBP": 2,
+      "RB": 3,
+      "TO": 2,
+      "VB": 2,
+      "DT": 4,
+      "NN": 4,
+      "JJ": 4,
+      ".": 4,
+      "PDT": 1,
+      "NNS": 1,
+      "IN": 2,
+      "VBG": 1,
+      "CC": 1,
+      "PRP": 2
+    }
+  },
+  "chunk_patterns": [
+    {
+      "label": "VENUE",
+      "pattern": "NNP",
+      "count": 38
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP",
+      "count": 35
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN",
+      "count": 17
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT NN",
+      "count": 17
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP NNP",
+      "count": 16
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP NNP",
+      "count": 15
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ NN",
+      "count": 13
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ NN",
+      "count": 13
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NN",
+      "count": 12
+    },
+    {
+      "label": "VENUE",
+      "pattern": "JJ",
+      "count": 11
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNS",
+      "count": 10
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN",
+      "count": 10
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NN IN NN",
+      "count": 8
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ NNS",
+      "count": 6
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NNP IN NNP",
+      "count": 6
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NNP IN NNP",
+      "count": 5
+    },
+    {
+      "label": "EVENT",
+      "pattern": "JJ",
+      "count": 5
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NN IN JJ",
+      "count": 5
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NN IN NN",
+      "count": 5
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN IN NNP",
+      "count": 5
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NN IN NNP",
+      "count": 5
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NNP",
+      "count": 4
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT NNP",
+      "count": 4
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN IN JJ NNS",
+      "count": 4
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT NNS",
+      "count": 3
+    },
+    {
+      "label": "EVENT",
+      "pattern": "DT JJ NNP NNP NNP",
+      "count": 3
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NNP NNS",
+      "count": 3
+    },
+    {
+      "label": "EVENT",
+      "pattern": "NN IN DT JJ JJ NNS",
+      "count": 3
+    },
+    {
+      "label": "VENUE",
+      "pattern": "DT JJ NNP NNP NNP",
+      "count": 3
+    },
+    {
+      "label": "VENUE",
+      "pattern": "NN IN DT JJ JJ",
+      "count": 3
+    }
+  ]
+}

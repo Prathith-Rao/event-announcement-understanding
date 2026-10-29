@@ -1,0 +1,225 @@
+{
+  "provenance": "synthetic",
+  "label_status": "AI-authored expectations; human review pending",
+  "partition": "final",
+  "dataset_sha256": "402d167b0b69bf5bb5520aa132e0f761d4de3942ebf9a90591f533524d440895",
+  "extractor_sha256": "5dcbc153f5be460d6401495c101a23c791152059ab0ed237814d4abed865dd91",
+  "rules": {
+    "fields": {
+      "event_name": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1": 0.9333333333333333,
+        "tp": 7,
+        "fp": 0,
+        "fn": 1,
+        "sample_count": 12,
+        "present_gold": 8,
+        "exact_match": 0.9166666666666666,
+        "raw_exact_match": 0.9166666666666666,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      },
+      "date": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 12,
+        "present_gold": 8,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      },
+      "time": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 12,
+        "present_gold": 7,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 5
+      },
+      "venue": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1": 0.9333333333333333,
+        "tp": 7,
+        "fp": 0,
+        "fn": 1,
+        "sample_count": 12,
+        "present_gold": 8,
+        "exact_match": 0.9166666666666666,
+        "raw_exact_match": 0.9166666666666666,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      }
+    },
+    "complete_record_accuracy": 0.9166666666666666,
+    "raw_complete_record_accuracy": 0.9166666666666666,
+    "unsupported_detection_accuracy": 1.0,
+    "missing_warning_accuracy": 1.0,
+    "ambiguity_warning_accuracy": 0.75,
+    "ambiguity_cases": 4,
+    "sample_count": 12,
+    "errors": [
+      {
+        "id": "final-12",
+        "text": "We invite students to a workshop on Creative Electronics on 23 June 2029 at 2:00 PM inside Amber Pavilion.",
+        "field": "event_name",
+        "expected": {
+          "raw": "Creative Electronics",
+          "start": 36,
+          "end": 56,
+          "normalized": null
+        },
+        "predicted": null,
+        "candidates": [],
+        "warnings": [
+          {
+            "code": "missing_event_name",
+            "message": "No unambiguous event name selected.",
+            "field": "event_name"
+          },
+          {
+            "code": "missing_venue",
+            "message": "No unambiguous venue selected.",
+            "field": "venue"
+          }
+        ]
+      },
+      {
+        "id": "final-12",
+        "text": "We invite students to a workshop on Creative Electronics on 23 June 2029 at 2:00 PM inside Amber Pavilion.",
+        "field": "venue",
+        "expected": {
+          "raw": "Amber Pavilion",
+          "start": 91,
+          "end": 105,
+          "normalized": null
+        },
+        "predicted": null,
+        "candidates": [],
+        "warnings": [
+          {
+            "code": "missing_event_name",
+            "message": "No unambiguous event name selected.",
+            "field": "event_name"
+          },
+          {
+            "code": "missing_venue",
+            "message": "No unambiguous venue selected.",
+            "field": "venue"
+          }
+        ]
+      }
+    ]
+  },
+  "hybrid": {
+    "fields": {
+      "event_name": {
+        "precision": 0.875,
+        "recall": 0.875,
+        "f1": 0.875,
+        "tp": 7,
+        "fp": 1,
+        "fn": 1,
+        "sample_count": 12,
+        "present_gold": 8,
+        "exact_match": 0.9166666666666666,
+        "raw_exact_match": 0.9166666666666666,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      },
+      "date": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 12,
+        "present_gold": 8,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      },
+      "time": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 7,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 12,
+        "present_gold": 7,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 5
+      },
+      "venue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 8,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 12,
+        "present_gold": 8,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      }
+    },
+    "complete_record_accuracy": 0.9166666666666666,
+    "raw_complete_record_accuracy": 0.9166666666666666,
+    "unsupported_detection_accuracy": 1.0,
+    "missing_warning_accuracy": 1.0,
+    "ambiguity_warning_accuracy": 0.75,
+    "ambiguity_cases": 4,
+    "sample_count": 12,
+    "errors": [
+      {
+        "id": "final-12",
+        "text": "We invite students to a workshop on Creative Electronics on 23 June 2029 at 2:00 PM inside Amber Pavilion.",
+        "field": "event_name",
+        "expected": {
+          "raw": "Creative Electronics",
+          "start": 36,
+          "end": 56,
+          "normalized": null
+        },
+        "predicted": {
+          "raw": "a workshop on Creative Electronics",
+          "start": 22,
+          "end": 56,
+          "normalized": null,
+          "method": "nltk_event_chunk",
+          "role": "event"
+        },
+        "candidates": [
+          {
+            "raw": "a workshop on Creative Electronics",
+            "start": 22,
+            "end": 56,
+            "normalized": null,
+            "method": "nltk_event_chunk",
+            "role": "event"
+          }
+        ],
+        "warnings": []
+      }
+    ]
+  }
+}

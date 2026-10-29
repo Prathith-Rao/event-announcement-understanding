@@ -1,0 +1,237 @@
+id,category,label,raw,pattern,start,end
+synthetic-workshop-00,Workshop,EVENT,"workshop ""Practical Python"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,53
+synthetic-workshop-00,Workshop,EVENT,10:00 AM in Room B12,CD NNP IN NNP NNP,57,77
+synthetic-workshop-00,Workshop,VENUE,"workshop ""Practical Python"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,53
+synthetic-workshop-00,Workshop,VENUE,10:00 AM in Room B12,CD NNP IN NNP NNP,57,77
+synthetic-workshop-00,Workshop,EVENT,Practice,NNP,79,87
+synthetic-workshop-00,Workshop,EVENT,exercises,NNS,100,109
+synthetic-workshop-00,Workshop,EVENT,instructor feedback,NN NN,114,133
+synthetic-workshop-00,Workshop,VENUE,Practice,NNP,79,87
+synthetic-workshop-00,Workshop,VENUE,instructor feedback,NN NN,114,133
+synthetic-workshop-02,Workshop,EVENT,the workshop,DT NN,19,31
+synthetic-workshop-02,Workshop,EVENT,"""Practical Python""",JJ NNP NNP NNP,41,59
+synthetic-workshop-02,Workshop,VENUE,the workshop,DT NN,19,31
+synthetic-workshop-02,Workshop,VENUE,"""Practical Python""",JJ NNP NNP NNP,41,59
+synthetic-workshop-02,Workshop,EVENT,Event date,JJ NN,61,71
+synthetic-workshop-02,Workshop,EVENT,12 May 2027,CD NNP CD,73,84
+synthetic-workshop-02,Workshop,VENUE,Event date,JJ NN,61,71
+synthetic-workshop-02,Workshop,VENUE,12 May 2027,CD NNP CD,73,84
+synthetic-workshop-02,Workshop,EVENT,Time,NN,86,90
+synthetic-workshop-02,Workshop,EVENT,11:00 AM,CD NNP,92,100
+synthetic-workshop-02,Workshop,VENUE,Time,NN,86,90
+synthetic-workshop-02,Workshop,VENUE,11:00 AM,CD NNP,92,100
+synthetic-workshop-02,Workshop,EVENT,East Auditorium,NNP NNP,109,124
+synthetic-workshop-02,Workshop,VENUE,East Auditorium,NNP NNP,109,124
+synthetic-workshop-03,Workshop,EVENT,"""Digital Mapping""",NNP NNP NNP NNP,34,51
+synthetic-workshop-03,Workshop,EVENT,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,66,89
+synthetic-workshop-03,Workshop,VENUE,"""Digital Mapping""",NNP NNP NNP NNP,34,51
+synthetic-workshop-03,Workshop,VENUE,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,66,89
+synthetic-workshop-03,Workshop,EVENT,a laptop for guided practical activities,DT NN IN JJ JJ NNS,108,148
+synthetic-workshop-03,Workshop,VENUE,laptop for guided practical,NN IN JJ JJ,110,137
+synthetic-workshop-04,Workshop,EVENT,Registration closes on 2 July 2027,NN NNS IN CD NNP CD,0,34
+synthetic-workshop-04,Workshop,EVENT,"the workshop ""Practical Python""",DT NN NNP NNP NNP NNP,36,67
+synthetic-workshop-04,Workshop,VENUE,"the workshop ""Practical Python""",DT NN NNP NNP NNP NNP,36,67
+synthetic-workshop-06,Workshop,EVENT,An upcoming workshop on Practical Python,DT JJ NN IN NNP NNP,0,40
+synthetic-workshop-06,Workshop,EVENT,all students,DT NNS,50,62
+synthetic-workshop-06,Workshop,VENUE,upcoming workshop on Practical Python,JJ NN IN NNP NNP,3,40
+synthetic-workshop-06,Workshop,EVENT,place on 16 September 2027,NN IN CD NNP CD,80,106
+synthetic-workshop-06,Workshop,VENUE,place on 16 September 2027,NN IN CD NNP CD,80,106
+synthetic-workshop-07,Workshop,EVENT,"The training ""Digital Mapping""",DT NN JJ NNP NNP NNP,0,30
+synthetic-workshop-07,Workshop,VENUE,"The training ""Digital Mapping""",DT NN JJ NNP NNP NNP,0,30
+synthetic-workshop-08,Workshop,EVENT,Make time for a workshop,NNP NN IN DT NN,0,24
+synthetic-workshop-08,Workshop,EVENT,"""Practical Python"" on 18 November 2027",NNP NNP NNP NNP IN CD NNP CD,34,72
+synthetic-workshop-08,Workshop,VENUE,Make time for a workshop,NNP NN IN DT NN,0,24
+synthetic-workshop-08,Workshop,VENUE,"""Practical Python"" on 18 November 2027",NNP NNP NNP NNP IN CD NNP CD,34,72
+synthetic-workshop-10,Workshop,EVENT,a workshop on Practical Python,DT NN IN NNP NNP,14,44
+synthetic-workshop-10,Workshop,VENUE,workshop on Practical Python,NN IN NNP NNP,16,44
+synthetic-workshop-11,Workshop,EVENT,welcome,JJ,13,20
+synthetic-workshop-11,Workshop,VENUE,welcome,JJ,13,20
+synthetic-seminar-00,Seminar,EVENT,"seminar ""Climate Research"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,52
+synthetic-seminar-00,Seminar,EVENT,10:00 AM in Room B12,CD NNP IN NNP NNP,56,76
+synthetic-seminar-00,Seminar,VENUE,"seminar ""Climate Research"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,52
+synthetic-seminar-00,Seminar,VENUE,10:00 AM in Room B12,CD NNP IN NNP NNP,56,76
+synthetic-seminar-00,Seminar,EVENT,A speaker,DT NN,78,87
+synthetic-seminar-00,Seminar,EVENT,findings,NNS,101,109
+synthetic-seminar-00,Seminar,EVENT,audience questions,NN NNS,122,140
+synthetic-seminar-00,Seminar,VENUE,A speaker,DT NN,78,87
+synthetic-seminar-00,Seminar,VENUE,audience,NN,122,130
+synthetic-seminar-02,Seminar,EVENT,"""Climate Research""",JJ NNP NNP NNP,40,58
+synthetic-seminar-02,Seminar,VENUE,"""Climate Research""",JJ NNP NNP NNP,40,58
+synthetic-seminar-02,Seminar,EVENT,Event date,JJ NN,60,70
+synthetic-seminar-02,Seminar,EVENT,12 May 2027,CD NNP CD,72,83
+synthetic-seminar-02,Seminar,VENUE,Event date,JJ NN,60,70
+synthetic-seminar-02,Seminar,VENUE,12 May 2027,CD NNP CD,72,83
+synthetic-seminar-02,Seminar,EVENT,Time,NN,85,89
+synthetic-seminar-02,Seminar,EVENT,11:00 AM,CD NNP,91,99
+synthetic-seminar-02,Seminar,VENUE,11:00 AM,CD NNP,91,99
+synthetic-seminar-02,Seminar,EVENT,East Auditorium,NNP NNP,108,123
+synthetic-seminar-02,Seminar,VENUE,East Auditorium,NNP NNP,108,123
+synthetic-seminar-03,Seminar,EVENT,Please,NNP,0,6
+synthetic-seminar-03,Seminar,EVENT,"""Modern Astronomy""",NNP NNP NNP NNP,33,51
+synthetic-seminar-03,Seminar,EVENT,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,66,89
+synthetic-seminar-03,Seminar,VENUE,Please,NNP,0,6
+synthetic-seminar-03,Seminar,VENUE,"""Modern Astronomy""",NNP NNP NNP NNP,33,51
+synthetic-seminar-03,Seminar,VENUE,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,66,89
+synthetic-seminar-03,Seminar,EVENT,researcher discuss recent discoveries,NN NN JJ NNS,123,160
+synthetic-seminar-03,Seminar,VENUE,researcher discuss recent,NN NN JJ,123,148
+synthetic-seminar-04,Seminar,EVENT,Registration closes on 2 July 2027,NN NNS IN CD NNP CD,0,34
+synthetic-seminar-04,Seminar,EVENT,"the seminar ""Climate Research""",DT NN NNP NNP NNP NNP,36,66
+synthetic-seminar-04,Seminar,VENUE,"the seminar ""Climate Research""",DT NN NNP NNP NNP NNP,36,66
+synthetic-seminar-06,Seminar,EVENT,An upcoming seminar on Climate Research,DT JJ NN IN NNP NNP,0,39
+synthetic-seminar-06,Seminar,EVENT,all students,DT NNS,49,61
+synthetic-seminar-06,Seminar,VENUE,upcoming seminar on Climate Research,JJ NN IN NNP NNP,3,39
+synthetic-seminar-06,Seminar,EVENT,place on 16 September 2027,NN IN CD NNP CD,79,105
+synthetic-seminar-06,Seminar,VENUE,place on 16 September 2027,NN IN CD NNP CD,79,105
+synthetic-seminar-08,Seminar,EVENT,Make time for a seminar,NNP NN IN DT NN,0,23
+synthetic-seminar-08,Seminar,EVENT,"""Climate Research"" on 18 November 2027",JJ NNP NNP NNP IN CD NNP CD,33,71
+synthetic-seminar-08,Seminar,VENUE,Make time for a seminar,NNP NN IN DT NN,0,23
+synthetic-seminar-08,Seminar,VENUE,"""Climate Research"" on 18 November 2027",JJ NNP NNP NNP IN CD NNP CD,33,71
+synthetic-seminar-10,Seminar,EVENT,a seminar on Climate Research,DT NN IN NNP NNP,14,43
+synthetic-seminar-10,Seminar,VENUE,seminar on Climate Research,NN IN NNP NNP,16,43
+synthetic-seminar-11,Seminar,EVENT,welcome,JJ,13,20
+synthetic-seminar-11,Seminar,EVENT,"""Modern Astronomy"" on 21 February 2028",NNP NNP NNP NNP IN CD NNP CD,43,81
+synthetic-seminar-11,Seminar,VENUE,welcome,JJ,13,20
+synthetic-seminar-11,Seminar,VENUE,"""Modern Astronomy"" on 21 February 2028",NNP NNP NNP NNP IN CD NNP CD,43,81
+synthetic-competition-00,Competition,EVENT,"competition ""Design Challenge"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,56
+synthetic-competition-00,Competition,EVENT,10:00 AM in Room B12,CD NNP IN NNP NNP,60,80
+synthetic-competition-00,Competition,VENUE,"competition ""Design Challenge"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,56
+synthetic-competition-00,Competition,VENUE,10:00 AM in Room B12,CD NNP IN NNP NNP,60,80
+synthetic-competition-00,Competition,EVENT,Teams,NNP,82,87
+synthetic-competition-00,Competition,EVENT,prizes,NNS,105,111
+synthetic-competition-00,Competition,EVENT,a panel of judges,DT NN IN NNS,123,140
+synthetic-competition-00,Competition,VENUE,Teams,NNP,82,87
+synthetic-competition-00,Competition,VENUE,a panel,DT NN,123,130
+synthetic-competition-02,Competition,EVENT,the competition,DT NN,19,34
+synthetic-competition-02,Competition,EVENT,"""Design Challenge""",NNP NNP NNP NNP,44,62
+synthetic-competition-02,Competition,VENUE,"""Design Challenge""",NNP NNP NNP NNP,44,62
+synthetic-competition-02,Competition,EVENT,Event date,JJ NN,64,74
+synthetic-competition-02,Competition,EVENT,12 May 2027,CD NNP CD,76,87
+synthetic-competition-02,Competition,VENUE,Event date,JJ NN,64,74
+synthetic-competition-02,Competition,VENUE,12 May 2027,CD NNP CD,76,87
+synthetic-competition-02,Competition,EVENT,Time,NN,89,93
+synthetic-competition-02,Competition,EVENT,11:00 AM,CD NNP,95,103
+synthetic-competition-02,Competition,VENUE,Time,NN,89,93
+synthetic-competition-02,Competition,VENUE,11:00 AM,CD NNP,95,103
+synthetic-competition-02,Competition,EVENT,East Auditorium,NNP NNP,112,127
+synthetic-competition-02,Competition,VENUE,East Auditorium,NNP NNP,112,127
+synthetic-competition-03,Competition,EVENT,"""Campus Code Cup""",NNP NNP NNP NNP NNP,35,52
+synthetic-competition-03,Competition,EVENT,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,67,90
+synthetic-competition-03,Competition,VENUE,"""Campus Code Cup""",NNP NNP NNP NNP NNP,35,52
+synthetic-competition-03,Competition,VENUE,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,67,90
+synthetic-competition-04,Competition,EVENT,Registration closes on 2 July 2027,NN NNS IN CD NNP CD,0,34
+synthetic-competition-04,Competition,EVENT,"the competition ""Design Challenge""",DT NN NNP NNP NNP NNP,36,70
+synthetic-competition-04,Competition,VENUE,"the competition ""Design Challenge""",DT NN NNP NNP NNP NNP,36,70
+synthetic-competition-06,Competition,EVENT,An upcoming competition on Design Challenge,DT JJ NN IN NNP NNP,0,43
+synthetic-competition-06,Competition,EVENT,all students,DT NNS,53,65
+synthetic-competition-06,Competition,VENUE,upcoming competition on Design Challenge,JJ NN IN NNP NNP,3,43
+synthetic-competition-06,Competition,EVENT,place on 16 September 2027,NN IN CD NNP CD,83,109
+synthetic-competition-06,Competition,VENUE,place on 16 September 2027,NN IN CD NNP CD,83,109
+synthetic-competition-07,Competition,EVENT,"The hackathon ""Campus Code Cup""",DT NN NNP NNP NNP NNP NNP,0,31
+synthetic-competition-07,Competition,VENUE,"The hackathon ""Campus Code Cup""",DT NN NNP NNP NNP NNP NNP,0,31
+synthetic-competition-08,Competition,EVENT,Make time for a competition,NNP NN IN DT NN,0,27
+synthetic-competition-08,Competition,EVENT,"""Design Challenge"" on 18 November 2027",NNP NNP NNP NNP IN CD NNP CD,37,75
+synthetic-competition-08,Competition,VENUE,Make time for a competition,NNP NN IN DT NN,0,27
+synthetic-competition-08,Competition,VENUE,"""Design Challenge"" on 18 November 2027",NNP NNP NNP NNP IN CD NNP CD,37,75
+synthetic-competition-10,Competition,EVENT,a competition on Design Challenge,DT NN IN NNP NNP,14,47
+synthetic-competition-10,Competition,VENUE,competition on Design Challenge,NN IN NNP NNP,16,47
+synthetic-competition-11,Competition,EVENT,welcome,JJ,13,20
+synthetic-competition-11,Competition,EVENT,"""Campus Code Cup"" on 21 February 2028",NNP NNP NNP NNP NNP IN CD NNP CD,45,82
+synthetic-competition-11,Competition,VENUE,welcome,JJ,13,20
+synthetic-competition-11,Competition,VENUE,"""Campus Code Cup"" on 21 February 2028",NNP NNP NNP NNP NNP IN CD NNP CD,45,82
+synthetic-competition-15,Competition,EVENT,a special hackathon about Campus Code Cup,DT JJ NN IN NNP NNP NNP,7,48
+synthetic-competition-15,Competition,VENUE,special hackathon about Campus Code Cup,JJ NN IN NNP NNP NNP,9,48
+synthetic-meeting-00,Meeting,EVENT,"meeting ""Student Council"" on 10 March 2027",NN JJ NNP NNP NNP IN CD NNP CD,9,51
+synthetic-meeting-00,Meeting,EVENT,10:00 AM in Room B12,CD NNP IN NNP NNP,55,75
+synthetic-meeting-00,Meeting,VENUE,"meeting ""Student Council"" on 10 March 2027",NN JJ NNP NNP NNP IN CD NNP CD,9,51
+synthetic-meeting-00,Meeting,VENUE,10:00 AM in Room B12,CD NNP IN NNP NNP,55,75
+synthetic-meeting-00,Meeting,EVENT,Members,NNS,77,84
+synthetic-meeting-00,Meeting,EVENT,the agenda,DT NN,98,108
+synthetic-meeting-00,Meeting,EVENT,vote on proposals,NN IN NNS,113,130
+synthetic-meeting-00,Meeting,VENUE,the agenda,DT NN,98,108
+synthetic-meeting-00,Meeting,VENUE,vote,NN,113,117
+synthetic-meeting-02,Meeting,EVENT,"""Student Council""",NNP NNP NNP NNP,40,57
+synthetic-meeting-02,Meeting,VENUE,"""Student Council""",NNP NNP NNP NNP,40,57
+synthetic-meeting-02,Meeting,EVENT,Event date,JJ NN,59,69
+synthetic-meeting-02,Meeting,EVENT,12 May 2027,CD NNP CD,71,82
+synthetic-meeting-02,Meeting,VENUE,Event date,JJ NN,59,69
+synthetic-meeting-02,Meeting,VENUE,12 May 2027,CD NNP CD,71,82
+synthetic-meeting-02,Meeting,EVENT,Time,NN,84,88
+synthetic-meeting-02,Meeting,EVENT,11:00 AM,CD NNP,90,98
+synthetic-meeting-02,Meeting,VENUE,11:00 AM,CD NNP,90,98
+synthetic-meeting-02,Meeting,EVENT,East Auditorium,NNP NNP,107,122
+synthetic-meeting-02,Meeting,VENUE,East Auditorium,NNP NNP,107,122
+synthetic-meeting-03,Meeting,EVENT,Please,NNP,0,6
+synthetic-meeting-03,Meeting,EVENT,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,68,91
+synthetic-meeting-03,Meeting,VENUE,Please,NNP,0,6
+synthetic-meeting-03,Meeting,VENUE,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,68,91
+synthetic-meeting-03,Meeting,EVENT,suggestions for the budget discussion,NNS IN DT NN NN,133,170
+synthetic-meeting-03,Meeting,VENUE,the budget discussion,DT NN NN,149,170
+synthetic-meeting-04,Meeting,EVENT,Registration closes on 2 July 2027,NN NNS IN CD NNP CD,0,34
+synthetic-meeting-04,Meeting,EVENT,"the meeting ""Student Council""",DT NN JJ NNP NNP NNP,36,65
+synthetic-meeting-04,Meeting,VENUE,"the meeting ""Student Council""",DT NN JJ NNP NNP NNP,36,65
+synthetic-meeting-06,Meeting,EVENT,An upcoming meeting on Student Council,DT JJ NN IN NNP NNP,0,38
+synthetic-meeting-06,Meeting,EVENT,all students,DT NNS,48,60
+synthetic-meeting-06,Meeting,VENUE,upcoming meeting on Student Council,JJ NN IN NNP NNP,3,38
+synthetic-meeting-06,Meeting,EVENT,place on 16 September 2027,NN IN CD NNP CD,78,104
+synthetic-meeting-06,Meeting,VENUE,place on 16 September 2027,NN IN CD NNP CD,78,104
+synthetic-meeting-07,Meeting,EVENT,"The meeting ""Planning Committee""",DT NN NNP NNP NNP NNP,0,32
+synthetic-meeting-07,Meeting,VENUE,"The meeting ""Planning Committee""",DT NN NNP NNP NNP NNP,0,32
+synthetic-meeting-08,Meeting,EVENT,Make time for a meeting,NNP NN IN DT NN,0,23
+synthetic-meeting-08,Meeting,EVENT,"""Student Council"" on 18 November 2027",CD NNP NNP NNP IN CD NNP CD,33,70
+synthetic-meeting-08,Meeting,VENUE,Make time for a meeting,NNP NN IN DT NN,0,23
+synthetic-meeting-08,Meeting,VENUE,"""Student Council"" on 18 November 2027",CD NNP NNP NNP IN CD NNP CD,33,70
+synthetic-meeting-10,Meeting,EVENT,a meeting on Student Council,DT NN IN NNP NNP,14,42
+synthetic-meeting-10,Meeting,VENUE,meeting on Student Council,NN IN NNP NNP,16,42
+synthetic-meeting-11,Meeting,EVENT,welcome,JJ,13,20
+synthetic-meeting-11,Meeting,EVENT,"""Planning Committee"" on 21 February 2028",NNP NNP NNP NNP IN CD NNP CD,43,83
+synthetic-meeting-11,Meeting,VENUE,welcome,JJ,13,20
+synthetic-meeting-11,Meeting,VENUE,"""Planning Committee"" on 21 February 2028",NNP NNP NNP NNP IN CD NNP CD,43,83
+synthetic-cultural-00,Cultural event,EVENT,"concert ""Spring Melodies"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,51
+synthetic-cultural-00,Cultural event,EVENT,10:00 AM in Room B12,CD NNP IN NNP NNP,55,75
+synthetic-cultural-00,Cultural event,VENUE,"concert ""Spring Melodies"" on 10 March 2027",NN NNP NNP NNP NNP IN CD NNP CD,9,51
+synthetic-cultural-00,Cultural event,VENUE,10:00 AM in Room B12,CD NNP IN NNP NNP,55,75
+synthetic-cultural-00,Cultural event,EVENT,Enjoy,NNP,77,82
+synthetic-cultural-00,Cultural event,EVENT,an evening of live music,DT NN IN JJ NN,83,107
+synthetic-cultural-00,Cultural event,EVENT,artistic performances,JJ NNS,112,133
+synthetic-cultural-00,Cultural event,VENUE,Enjoy,NNP,77,82
+synthetic-cultural-00,Cultural event,VENUE,evening of live music,NN IN JJ NN,86,107
+synthetic-cultural-00,Cultural event,VENUE,artistic,JJ,112,120
+synthetic-cultural-02,Cultural event,EVENT,the concert,DT NN,19,30
+synthetic-cultural-02,Cultural event,EVENT,"""Spring Melodies""",JJ NNP NNP NNP,40,57
+synthetic-cultural-02,Cultural event,VENUE,the concert,DT NN,19,30
+synthetic-cultural-02,Cultural event,VENUE,"""Spring Melodies""",JJ NNP NNP NNP,40,57
+synthetic-cultural-02,Cultural event,EVENT,Event date,JJ NN,59,69
+synthetic-cultural-02,Cultural event,EVENT,12 May 2027,CD NNP CD,71,82
+synthetic-cultural-02,Cultural event,VENUE,Event date,JJ NN,59,69
+synthetic-cultural-02,Cultural event,VENUE,12 May 2027,CD NNP CD,71,82
+synthetic-cultural-02,Cultural event,EVENT,Time,NN,84,88
+synthetic-cultural-02,Cultural event,EVENT,11:00 AM,CD NNP,90,98
+synthetic-cultural-02,Cultural event,VENUE,Time,NN,84,88
+synthetic-cultural-02,Cultural event,VENUE,11:00 AM,CD NNP,90,98
+synthetic-cultural-02,Cultural event,EVENT,East Auditorium,NNP NNP,107,122
+synthetic-cultural-02,Cultural event,VENUE,East Auditorium,NNP NNP,107,122
+synthetic-cultural-03,Cultural event,EVENT,"""Campus Arts""",NNP NNP NNP NNP,34,47
+synthetic-cultural-03,Cultural event,EVENT,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,62,85
+synthetic-cultural-03,Cultural event,VENUE,"""Campus Arts""",NNP NNP NNP NNP,34,47
+synthetic-cultural-03,Cultural event,VENUE,13 June 2027 at 3:00 PM,CD NNP CD IN CD NNP,62,85
+synthetic-cultural-04,Cultural event,EVENT,Registration closes on 2 July 2027,NN NNS IN CD NNP CD,0,34
+synthetic-cultural-04,Cultural event,EVENT,"the concert ""Spring Melodies""",DT NN NNP NNP NNP NNP,36,65
+synthetic-cultural-04,Cultural event,VENUE,"the concert ""Spring Melodies""",DT NN NNP NNP NNP NNP,36,65
+synthetic-cultural-06,Cultural event,EVENT,An upcoming concert on Spring Melodies,DT JJ NN IN NN NNS,0,38
+synthetic-cultural-06,Cultural event,EVENT,all students,DT NNS,48,60
+synthetic-cultural-06,Cultural event,VENUE,upcoming concert on Spring,JJ NN IN NN,3,29
+synthetic-cultural-06,Cultural event,EVENT,place on 16 September 2027,NN IN CD NNP CD,78,104
+synthetic-cultural-06,Cultural event,VENUE,place on 16 September 2027,NN IN CD NNP CD,78,104
+synthetic-cultural-07,Cultural event,EVENT,"The festival ""Campus Arts""",DT NN NN NNP NNP NNP,0,26
+synthetic-cultural-07,Cultural event,VENUE,"The festival ""Campus Arts""",DT NN NN NNP NNP NNP,0,26
+synthetic-cultural-08,Cultural event,EVENT,Make time for a concert,NNP NN IN DT NN,0,23
+synthetic-cultural-08,Cultural event,EVENT,"""Spring Melodies",JJ NN NNS,33,49
+synthetic-cultural-08,Cultural event,VENUE,Make time for a concert,NNP NN IN DT NN,0,23
+synthetic-cultural-10,Cultural event,EVENT,a concert on Spring Melodies,DT NN IN NN NNS,14,42
+synthetic-cultural-10,Cultural event,VENUE,concert on Spring,NN IN NN,16,33
+synthetic-cultural-11,Cultural event,EVENT,Students,NNS,0,8
+synthetic-cultural-11,Cultural event,EVENT,welcome,JJ,13,20
+synthetic-cultural-11,Cultural event,EVENT,"""Campus Arts"" on 21 February 2028",CD NNP NNPS NN IN CD NNP CD,44,77
+synthetic-cultural-11,Cultural event,VENUE,"""Campus Arts"" on 21 February 2028",CD NNP NNPS NN IN CD NNP CD,44,77
+synthetic-cultural-15,Cultural event,EVENT,a special festival about Campus Arts,DT JJ NN IN NNP NNP,7,43
+synthetic-cultural-15,Cultural event,VENUE,special festival about Campus Arts,JJ NN IN NNP NNP,9,43

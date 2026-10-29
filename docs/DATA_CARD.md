@@ -1,0 +1,25 @@
+# Data card
+
+## Version-2 expanded corpus
+
+The current runtime uses data/expanded_v2/records.jsonl: 11,922 synthetic records, including 600 for each of 19 event categories and 522 deduplicated non-events. Expected labels and exact spans are authored automatically, with human null and synthetic provenance. No source URLs or human reviews are invented.
+
+Assignments are 7,152 train, 2,386 validation and 2,384 test, across 70 construction groups including untitled and negative constructions. Known template variations remain grouped. Proper-name/venue prefix pools differ by split; standard platforms, title themes and purpose descriptions recur. This makes the task easier than independent real language and does not prove every paraphrase was detected. Gold evidence offsets were checked on every record.
+
+Fifty named constructions, separate untitled constructions, missing fields, relative dates, case variation, deadlines and address distractors support development. Some random type/location combinations are deliberately difficult or implausible. CRF fitting uses a reproducible 4,000-record training subset. TF-IDF and NB vocabulary selection use train only; validation selects LR hyperparameters. The final test is opened explicitly once and frozen. Real pilot data remains separate.
+
+Earlier dataset descriptions below concern version 1 and the real collection history; they do not describe the expanded corpus.
+
+Consult `data/collection_summary.json` and `reports/pilot_audit.json` for **current actual counts**. The source manifest contains discovery seeds, not proof that every seed was collected. `data/source_log.jsonl` records requests, skips, robots decisions, and collection outcomes. Initial attempts in the restricted environment produced DNS/network failures; later approved network requests performed collection. A skipped source is not evidence of an announcement.
+
+Collection requests identify the research collector, wait at least 1.5 seconds per hostname, honor robots denial and crawl delay, and skip unavailable robots files except explicit 404/410. Redirects are conservatively skipped. No login, CAPTCHA, paywall, or access restriction was bypassed. Robots permission is a technical crawl check, not a redistribution license; original authors retain their rights. This local course dataset records minimal necessary excerpts and provenance; obtain appropriate permission before public redistribution. No public publication has been performed.
+
+Inputs are naturally occurring HTML paragraphs, never assembled from webpage title/date/venue fields. Tables and bullet-only posters are excluded by this initial collector. This sacrifices field coverage: many websites put dates and times outside narrative paragraphs. A paragraph can be a retrospective description, an event-series invitation, or incomplete prose; team review must decide eligibility. Announcement intent detection and English-only filtering are heuristic and need review. Contact-bearing paragraphs are skipped rather than silently removing part of a paragraph.
+
+The pilot initially collected 25 candidates. Automated screening excluded a duplicate query-variant event page and a metadata fragment, preserving both in `data/excluded.jsonl`. A character-decoding repair is logged in `data/collection_corrections.jsonl`. Expansion continues only through accessible sources; the final count is the saved actual count, not the requested `--limit 300`. Class and source imbalance, missing fields, repeated annual competition templates, and institutional concentration must be reported.
+
+All real labels are automatic suggestions unless `human` holds an explicit accepted human annotation. Uncertain categories remain null/needs-review. There is no human inter-annotator agreement evidence yet. `proposed` contains category/field suggestions and exact evidence; `human` stores corrections separately. Grouping unions supplied templates, canonical source pages, exact normalized texts, and normalized sequence similarity >= 0.84. This threshold is a documented heuristic; paraphrase duplicates can escape it, so human template-group inspection is required before a final split.
+
+Development classification data: 80 AI-authored synthetic records, five categories, 16 construction templates shared across categories. Recurrent topic words and event titles make these fixtures easy; even held-out templates do not demonstrate transfer to unseen topics or institutions. Similar templates are additionally merged by automatic grouping. Development extraction: 16 authored challenge cases. Reserved final synthetic challenge: 12 cases. Expected labels/spans are authored fixtures, not independent human annotations. Real and synthetic experiment modes never mix records.
+
+Metadata such as source URL, institution, human status, filename, category label, and split is never concatenated into classification text. Training uses only `text` and the appropriate explicit target field. Source distributions may be summarized on the full dataset; lexical/POS/chunk analysis and feature learning use assigned training records only.

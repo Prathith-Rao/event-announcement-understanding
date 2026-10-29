@@ -1,0 +1,194 @@
+{
+  "provenance": "synthetic",
+  "label_status": "AI-authored expectations; human review pending",
+  "partition": "development",
+  "dataset_sha256": "786bc2c994c1e8eadf6cb09ccf847147a83e7d8bb7620d81f402130cb6ee8af2",
+  "extractor_sha256": "5dcbc153f5be460d6401495c101a23c791152059ab0ed237814d4abed865dd91",
+  "rules": {
+    "fields": {
+      "event_name": {
+        "precision": 1.0,
+        "recall": 0.9166666666666666,
+        "f1": 0.9565217391304348,
+        "tp": 11,
+        "fp": 0,
+        "fn": 1,
+        "sample_count": 16,
+        "present_gold": 12,
+        "exact_match": 0.9375,
+        "raw_exact_match": 0.9375,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      },
+      "date": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 11,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 16,
+        "present_gold": 11,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 5
+      },
+      "time": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 11,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 16,
+        "present_gold": 11,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 5
+      },
+      "venue": {
+        "precision": 1.0,
+        "recall": 0.9166666666666666,
+        "f1": 0.9565217391304348,
+        "tp": 11,
+        "fp": 0,
+        "fn": 1,
+        "sample_count": 16,
+        "present_gold": 12,
+        "exact_match": 0.9375,
+        "raw_exact_match": 0.9375,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      }
+    },
+    "complete_record_accuracy": 0.9375,
+    "raw_complete_record_accuracy": 0.9375,
+    "unsupported_detection_accuracy": 1.0,
+    "missing_warning_accuracy": 1.0,
+    "ambiguity_warning_accuracy": 1.0,
+    "ambiguity_cases": 5,
+    "sample_count": 16,
+    "errors": [
+      {
+        "id": "dev-11",
+        "text": "Our workshop on Practical Astronomy is on 20 May 2027 at 10:00 AM inside Rose Pavilion.",
+        "field": "event_name",
+        "expected": {
+          "raw": "Practical Astronomy",
+          "start": 16,
+          "end": 35,
+          "normalized": null
+        },
+        "predicted": null,
+        "candidates": [],
+        "warnings": [
+          {
+            "code": "missing_event_name",
+            "message": "No unambiguous event name selected.",
+            "field": "event_name"
+          },
+          {
+            "code": "missing_venue",
+            "message": "No unambiguous venue selected.",
+            "field": "venue"
+          }
+        ]
+      },
+      {
+        "id": "dev-11",
+        "text": "Our workshop on Practical Astronomy is on 20 May 2027 at 10:00 AM inside Rose Pavilion.",
+        "field": "venue",
+        "expected": {
+          "raw": "Rose Pavilion",
+          "start": 73,
+          "end": 86,
+          "normalized": null
+        },
+        "predicted": null,
+        "candidates": [],
+        "warnings": [
+          {
+            "code": "missing_event_name",
+            "message": "No unambiguous event name selected.",
+            "field": "event_name"
+          },
+          {
+            "code": "missing_venue",
+            "message": "No unambiguous venue selected.",
+            "field": "venue"
+          }
+        ]
+      }
+    ]
+  },
+  "hybrid": {
+    "fields": {
+      "event_name": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 12,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 16,
+        "present_gold": 12,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      },
+      "date": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 11,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 16,
+        "present_gold": 11,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 5
+      },
+      "time": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 11,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 16,
+        "present_gold": 11,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 5
+      },
+      "venue": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "tp": 12,
+        "fp": 0,
+        "fn": 0,
+        "sample_count": 16,
+        "present_gold": 12,
+        "exact_match": 1.0,
+        "raw_exact_match": 1.0,
+        "missing_field_accuracy": 1.0,
+        "missing_gold": 4
+      }
+    },
+    "complete_record_accuracy": 1.0,
+    "raw_complete_record_accuracy": 1.0,
+    "unsupported_detection_accuracy": 1.0,
+    "missing_warning_accuracy": 1.0,
+    "ambiguity_warning_accuracy": 1.0,
+    "ambiguity_cases": 5,
+    "sample_count": 16,
+    "errors": []
+  }
+}
